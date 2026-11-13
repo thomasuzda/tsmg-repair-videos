@@ -219,6 +219,27 @@
       "resolution": "540p",
       "review_status": "Awaiting review",
       "caption_free": true
+    },
+    {
+      "id": "oil-filter-change",
+      "topic": "Oil and Filter Change",
+      "title": "Oil & Filter Change",
+      "version": "v002",
+      "category": "Maintenance",
+      "description": "Follow engine oil through the pickup, pump, filter and bearings, and see how contamination or fuel dilution can weaken protection and contribute to wear.",
+      "note": "Review draft \u00b7 Awaiting review. Complete 540p preview with the approved car opening and smooth fades. Explains operation and possible faults without repair instructions; not a polished final.",
+      "duration": 53,
+      "file": "media/oil-filter-change-v002-review-draft.mp4",
+      "poster": "media/oil-filter-change-v002.png",
+      "captions": null,
+      "credits": "media/oil-filter-change-v002-credits.txt",
+      "bytes": 10177818,
+      "sha256": "a6264d2f69d5882ee3c30369ebc161b8bc02455f05b0cbcc196a25bb17b542e8",
+      "fps": "30/1",
+      "stage": "review_draft",
+      "resolution": "540p",
+      "review_status": "Awaiting review",
+      "caption_free": true
     }
   ],
   "topics": [
@@ -661,8 +682,8 @@
       "id": "16-01",
       "name": "Oil and Filter Change",
       "category": "Maintenance",
-      "video_id": null,
-      "status": "To build"
+      "video_id": "oil-filter-change",
+      "status": "Review draft saved"
     },
     {
       "id": "17-01",

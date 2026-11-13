@@ -1,0 +1,24 @@
+OIL & FILTER CHANGE v002 — REVIEW DRAFT / AWAITING REVIEW
+Vehicle model:2025 Toyota Camry XV80 Hybrid,creator Ddiaz Design(DdiazDesign).
+https://sketchfab.com/3d-models/2025-toyota-camry-xv80-hybrid-53f8cbf2483940fba956f4e740a3a4ae
+Creative Commons Attribution-NonCommercial-ShareAlike4.0 International.
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+Commercial permission remains unresolved. Retain full attribution with any sharing. Adaptation is shared under CC BY-NC-SA4.0;as-is,without warranties or source-creator endorsement.
+Changes:TSMG educational vehicle surfaces and physicalbadges,actual Alignmentv003 body/chassis,approved Cabinv005 lowfront-left55mm opening and calm C2dolly,in-place opaque/hidden endpoint fades;new generic conventional gasoline inline-four lubrication anatomy:sump,pickup screen,crank-driven pump housing,sealed full-flow spin-on filter,pleated media,endseals,center outlet,main bearing/cam oil passages,gravity return,crank/rods/pistons/cams,illustrative oilfilm,particles,fuelentry and scoredjournal,camera/motion and restrained anchored labels.
+Architecture and limits:generic conventional gasoline wet-sump engine,not exact Toyota/hybrid OEMCAD. Oil path:sump pickup->pump->outside filter annulus->pleated media->clean center outlet->main bearing/cam galleries->gravity return. Pump cover remains closed;no unsupported internal pump gear claim. Selected generic spin-on has a closed spring bypass and flexible anti-drainback lip,but no bypass opening event is depicted or described as normal filtration. Filter traps particles;chemical fuel dilution is a distinct contamination example,not an assertion that dark oil means blocked media. Excess fuel can lower viscosity and weaken film protection;insufficient protective film can permit contact/wear and consequential engine damage. No universal threshold,interval,viscosity,diagnosis from color/noise,service guarantee,oil flush or claim that fresh oil repairs wear.
+Film gap,particle/fuel routes and wear appearance are illustrative/enlarged;mechanism slowed for clarity,not CFD/viscosity simulation or independent mechanical certification. Crank/rod/piston and half-speed cam native kinematics retained. Every output frame is actually rendered;no optical interpolation/frozen changing poses. Context remains mounted through continuous C2same-camera opaque/hidden endpoint compositions;no exploded/disassembly/tutorial/service steps.
+Primary sources supporting actual narration:
+MAHLE Running smoothly(oil circulation,heat/contamination,filter loading,fuel dilution):
+https://workshop-heroes.mahle.com/en/article/running-smoothly
+MAHLE Oil filters(pleatedmedia,separation,design-specific valves):
+https://www.mahle-aftermarket.com/na/en/products-and-services/filters/oil-filters/index.jsp
+MAHLE/Clevite2016 Bearing failure guide,p13(marginal oilfilm,metal contact,oil quality/viscosity):
+https://www.mahle-aftermarket.com/media/local-media-north-america/pdfs-%26-thumbnails/catalogs-and-literature/engine-bearings/eb-40-16.pdf
+Motorservice/Kolbenschmidt particle damage,main-to-rod bearing drillings:
+https://www.ms-motorservice.com/int/en/technipedia/damage-to-engine-bearings-due-to-the-influence-of-particles-333
+Experimental investigation into effects of diesel dilution on engine lubrication,Tribology International(2021),intro explains generalgasoline/diesel dilution mechanism;no quantitative diesel result extrapolated to this sedan:
+https://doi.org/10.1016/j.triboint.2020.106828
+AMSOIL oil-color limitations:
+https://blog.amsoil.com/why-does-motor-oil-turn-black/
+Narration:James–Husky Storyteller,ElevenLabsEkK5I93UQWFDigLMpZcX. ONE complete operation/fault take explicitly authorized for this draft,request01a1d726-2866-7d30-9798-323c3c511a8f via elevenlabs/tts/eleven-v4. No cached own narration existed;no voice tests,regeneration or cloning. Text/voice/seed and sourceaudio SHA retained. Sourceaudio normalized for draft mix;audio separately decoded/levels checked. Muted browser playback is not an audible audition.
+Production:local native Blender/Metal,Eevee4,960x540/30fps,no raytracing,motionblur or castshadows. Low-cost whole-film review draft,not polished output or user approval. No bottom text/technicaltags/progressstrip/narration subtitles/embeddedcaptiontrack/SRTlinks. All original native/source/Cycles/Eevee files preserved. No sharedBlenderUI/repository/globalpolicy mutation or cloud rendering. One wholeproducer GPULease priority0/reserve40GiB/capacity1;released before CPUcomposition/mediaQA. Mainalone handles publicReviewdraft/Awaitingreview posting;ownerWAITFOCUSafterdelivery.
