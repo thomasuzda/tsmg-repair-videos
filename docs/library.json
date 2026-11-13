@@ -177,6 +177,27 @@
       "resolution": "540p",
       "review_status": "Awaiting review",
       "caption_free": true
+    },
+    {
+      "id": "spark-plug",
+      "topic": "Spark Plug",
+      "title": "Spark Plug",
+      "version": "v002",
+      "category": "Ignition",
+      "description": "See how the ignition coil and spark plug ignite the cylinder charge, and how worn electrodes or an enlarged gap can contribute to misfiring.",
+      "note": "Review draft \u00b7 Awaiting review. Complete 540p preview with the approved car opening and smooth fades. Explains operation and possible faults without repair instructions; not a polished final.",
+      "duration": 40,
+      "file": "media/spark-plug-v002-review-draft.mp4",
+      "poster": "media/spark-plug-v002.png",
+      "captions": null,
+      "credits": "media/spark-plug-v002-credits.txt",
+      "bytes": 6475232,
+      "sha256": "5371349b3f5c670378f5e626742e57f478f19cb40937b5f951a837e4cef80ee3",
+      "fps": "30/1",
+      "stage": "review_draft",
+      "resolution": "540p",
+      "review_status": "Awaiting review",
+      "caption_free": true
     }
   ],
   "topics": [
@@ -612,8 +633,8 @@
       "id": "15-02",
       "name": "Spark Plug",
       "category": "Ignition",
-      "video_id": null,
-      "status": "To build"
+      "video_id": "spark-plug",
+      "status": "Review draft saved"
     },
     {
       "id": "16-01",

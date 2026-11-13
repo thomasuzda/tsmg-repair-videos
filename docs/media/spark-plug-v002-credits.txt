@@ -1,0 +1,29 @@
+Spark Plug v002 — Review draft / Awaiting review
+
+Vehicle: 2025 Toyota Camry XV80 Hybrid by Ddiaz Design.
+https://sketchfab.com/3d-models/2025-toyota-camry-xv80-hybrid-53f8cbf2483940fba956f4e740a3a4ae
+License: Creative Commons Attribution-NonCommercial-ShareAlike 4.0.
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+Commercial permission for the donor remains unresolved. Retain these credits with shared copies.
+
+TSMG adaptations: actual Wheel Alignment v003 vehicle and chassis; approved Cabin Air Filter v005 opening and opacity presentation; a generic gasoline four-cylinder engine with coil-on-plug ignition, spark plugs, cylinder head, crank, pistons and valves; native animation, cutaways, labels and edit. The engine is a teaching model, not the donor vehicle's hybrid OEM service CAD.
+
+Narration: James – Husky Storyteller, ElevenLabs voice EkK5I93UQWFDigLMpZcX. Existing single request 01a1d09c-499a-7062-a715-49be4079275f. The valid operation, fault and customer-effects prefix is retained from 0–37.00 seconds, with a 0.5-second opening offset and 5 dB gain. Inspection, repair, replacement and verification narration is excluded. No new voice generation or voice cloning.
+
+Primary technical references:
+DENSO — Spark and Ignition
+https://am.denso.com/plug-global/basic/spark/
+DENSO — Spark Plug Construction
+https://am.denso.com/plug-global/basic/structure/
+DENSO — Electrode wear and ignition reliability
+https://www.denso-am.eu/news/dont-overlook-spark-plug-replacement-reminds-denso
+
+Supported explanation: the ignition coil supplies high voltage; the ceramic insulator separates the central conductor from the metal shell; a brief discharge crosses the electrode gap near the end of compression and starts combustion. Rounded, worn electrodes and an increased gap can make ignition unreliable. Rough running, hesitation and a warning light can have other causes.
+
+Illustrative dimensions: 86 mm bore and stroke; 143 mm connecting rod; M14 × 1.25 thread and 19 mm reach; 0.90 mm healthy gap versus 1.30 mm worn gap. These are coherent teaching dimensions, not application service specifications. Four-stroke motion and ignition are slowed, and the flame cue is illustrative. This is not CFD, OEM CAD or independent mechanical certification. Wrist-pin placement and an invalid thread-cutaway artifact were corrected during internal draft review before full-film rendering.
+
+Production: local Blender/Metal Eevee, 4 samples, 960 × 540, native 30 fps. Ray tracing, motion blur and cast shadows are off. This is a quick review draft, with broad highlights, visible grain and simplified outer castings. It is not a polished final. All 1,200 native poses were rendered; no motion interpolation or frozen moving poses. Context fades use same-camera opaque/hidden endpoint plates. There are no flying panels, service procedures, bottom narration subtitles, bottom technical tags, progress line, embedded subtitle stream or caption downloads. Only restrained top and component labels remain.
+
+Validation: full movie/audio decode; all frame timestamps and continuity; 24 actual encoded stills; complete 40-second browser playback with 1,200 frames and zero dropped/corrupt frames or playback errors. Browser playback was muted. Audio levels were checked separately; no audible audition, physical iPhone test or native Blender GUI playback is claimed.
+
+Original sources, previous native checkpoints and prior drafts remain preserved. Main Video Control owns public publication and subsequent topic selection.
