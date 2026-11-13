@@ -100,19 +100,22 @@
       "id": "coil-spring",
       "topic": "Coil Spring",
       "title": "Coil Spring",
-      "version": "v002-web",
+      "version": "v004",
       "category": "Suspension",
-      "description": "Locate the installed coil spring, distinguish its load-support role from damping, and follow an illustrative fractured end coil through inspection and repair.",
-      "note": "Generic MacPherson teaching model. The fracture separation is enlarged; inspection, replacement scope and alignment checks follow vehicle guidance.",
-      "duration": 65,
-      "file": "media/coil-spring-v002-web-no-subtitles.mp4",
-      "poster": "media/coil-spring.jpg",
+      "description": "See how the installed coil spring supports the vehicle, compresses over bumps, and can affect ride height, noise or handling when damaged.",
+      "note": "Review draft \u00b7 Awaiting review. New Alignment-style chassis, low front-left opening and smooth fades. Explains operation, possible faults and customer effects without repair instructions. Rough 540p preview, not polished final.",
+      "duration": 38,
+      "file": "media/coil-spring-v004-review-draft.mp4",
+      "poster": "media/coil-spring-v004.png",
       "captions": null,
-      "credits": "media/coil-spring-credits.txt",
-      "bytes": 25043616,
-      "sha256": "5ed7d09e5c76f097ab9720a80403d4b4845ba395780c6dbb30bc1e4b09497bf2",
+      "credits": "media/coil-spring-v004-credits.txt",
+      "bytes": 4116696,
+      "sha256": "70f32a480004931d13e053d29a37feb8ea266258c104c6b823eda26dc6742031",
       "fps": "30/1",
-      "caption_free": true
+      "caption_free": true,
+      "stage": "review_draft",
+      "resolution": "540p",
+      "review_status": "Awaiting review"
     },
     {
       "id": "shock-absorber",
@@ -659,7 +662,7 @@
       "name": "Coil Spring",
       "category": "Suspension",
       "video_id": "coil-spring",
-      "status": "Video saved"
+      "status": "Review draft saved"
     },
     {
       "id": "18-03",
