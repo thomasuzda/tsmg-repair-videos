@@ -198,6 +198,27 @@
       "resolution": "540p",
       "review_status": "Awaiting review",
       "caption_free": true
+    },
+    {
+      "id": "thermostat",
+      "topic": "Thermostat",
+      "title": "Thermostat",
+      "version": "v002",
+      "category": "Cooling",
+      "description": "See how a wax thermostat regulates coolant flow through the radiator and bypass, and how a stuck-closed valve can contribute to overheating.",
+      "note": "Review draft \u00b7 Awaiting review. Complete 540p preview with the approved car opening and smooth fades. Explains operation and possible faults without repair instructions; not a polished final.",
+      "duration": 43,
+      "file": "media/thermostat-v002-review-draft.mp4",
+      "poster": "media/thermostat-v002.png",
+      "captions": null,
+      "credits": "media/thermostat-v002-credits.txt",
+      "bytes": 7429157,
+      "sha256": "7cc44a03cce8745e2aa35d1880d895633b425c6626465c5687387199ac2d53e4",
+      "fps": "30/1",
+      "stage": "review_draft",
+      "resolution": "540p",
+      "review_status": "Awaiting review",
+      "caption_free": true
     }
   ],
   "topics": [
@@ -310,8 +331,8 @@
       "id": "04-07",
       "name": "Thermostat",
       "category": "Cooling",
-      "video_id": null,
-      "status": "To build"
+      "video_id": "thermostat",
+      "status": "Review draft saved"
     },
     {
       "id": "05-01",

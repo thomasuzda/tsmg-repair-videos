@@ -1,0 +1,17 @@
+THERMOSTAT v002 — QUICK REVIEW DRAFT / AWAITING REVIEW
+Vehicle:2025 Toyota Camry XV80 Hybrid by Ddiaz Design(DdiazDesign).
+https://sketchfab.com/3d-models/2025-toyota-camry-xv80-hybrid-53f8cbf2483940fba956f4e740a3a4ae
+Creative Commons Attribution-NonCommercial-ShareAlike4.0 International.
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+Commercial permission remains unresolved. Retain full credits when sharing.
+Changes:TSMG educational adaptation;actual Alignmentv003 body/chassis,approved Cabinv005 lowfront-left55mm studio opening and in-placeC2opacity;new generic conventional gasoline engine-outlet wax thermostat,housing,mainpoppet,fixedworkingpin,copperwaxcapsule,return spring,seal,linked bypassdisk and seat,sealed EPDM coolant connections,radiator/engine/pump context,camera/animation and restrained labels.
+Architecture:generic four-cylinder conventional gasoline coolant circuit;exterior hybrid donor is not evidence of Toyota/hybrid OEM plumbing. Fixed pin and expanding wax capsule drive9mm illustrative valve lift;main radiator path opens as linked bypass disk approaches its seat. Pump circulates coolant;thermostat regulates path;no instant cooling or universal opening temperature. Stuck-closed valve can restrict radiator circulation and cause overheating;overheating alone does not identify this part. No service/test/inspection/replacement/refill/bleed/repair sequence or promise of shop steps. Not OEM CAD,CFD or independent mechanical certification.
+Primary references:
+MAHLE Thermal Management Control Units2024,printedpp4-5/TXinsertFig1/small-large circuitsFig2-4:
+https://mpulse.mahle.com/assets/Artikelbilder/Thermostate/EN_48_1803_Thermostat_Broschuere_EN_2024_WEB_Doppelseiten.pdf
+DENSO thermostat designs/application:
+https://www.denso-am.eu/news/denso-introduces-thermostats-into-its-extensive-aftermarket-portfolio
+Tridon Cooling Catalogue,printedp91/PDFpage93,alternate overheating causes:
+https://tridon.co.nz/databank/documents/CAT057--Tridon-Cooling.pdf
+Narration:James–Husky Storyteller,ElevenLabsEkK5I93UQWFDigLMpZcX,existing single request01a1d09d-fe1d-7af1-bf85-94a4a9d3242f. Exact valid operation/fault prefix0–41.92s reused with5dB gain after measured levels;old procedural tail removed. Zero new generations,no voice cloning. Audio decoded/levels checked;muted browser playback is not an audible audition.
+Production:local native Blender/Metal Eevee4,960x540/30fps,no raytracing/motionblur/castshadows. Quick whole-film review draft,not polished production or user approval. Explicitperframe native poses and opaque/hidden same-cameraendpoint plates withC2continuous weights;no animation=True visibility cache,no explodedparts,no interpolatedframes. No bottom text/technicalfooter/progressstrip,narration subtitles,embeddedcaptiontrack orSRTlink. All original assets/films preserved. No sharedBlenderUI mutation/cloudrender/newpaidtake. Main alone handles public Reviewdraft/Awaitingreview posting.
