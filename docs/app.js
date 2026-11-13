@@ -8,13 +8,11 @@
   const grid = document.getElementById('video-grid');
   const list = document.getElementById('topic-list');
   const empty = document.getElementById('empty');
-  const dialog = document.getElementById('credits-dialog');
   const watchSection = document.getElementById('watch-section');
   const collection = document.querySelector('.collection');
   let current = null;
   let watching = false;
   let view = 'saved';
-  let creditsRequest = 0;
   function el(tag, cls, text) {
     const node = document.createElement(tag);
     if (cls) node.className = cls;
@@ -127,18 +125,6 @@
   document.getElementById('show-all').addEventListener('click', function () { system.value = ''; openCollection('all', false); });
   player.addEventListener('error', function () { if (watching) document.getElementById('video-error').hidden = false; });
   player.addEventListener('loadedmetadata', function () { document.getElementById('video-error').hidden = true; });
-  document.getElementById('credits-button').addEventListener('click', async function () {
-    const request = ++creditsRequest;
-    document.getElementById('credits-title').textContent = current.title + ' · ' + current.version;
-    document.getElementById('credits-note').textContent = current.note || 'Generic customer education animation. See the saved source credits below.';
-    document.getElementById('download-credits').href = current.credits;
-    document.getElementById('credits-text').textContent = 'Loading saved credits…';
-    dialog.showModal();
-    try { const response = await fetch(current.credits); if (!response.ok) throw Error('Missing credits'); const text = await response.text(); if (request === creditsRequest) document.getElementById('credits-text').textContent = text; }
-    catch (e) { if (request === creditsRequest) document.getElementById('credits-text').textContent = 'Use the Download credits link to open the saved source file.'; }
-  });
-  document.getElementById('close-credits').addEventListener('click', function () { dialog.close(); });
-  dialog.addEventListener('click', function (event) { if (event.target === dialog) { const r = dialog.getBoundingClientRect(); if (event.clientX < r.left || event.clientX > r.right || event.clientY < r.top || event.clientY > r.bottom) dialog.close(); } });
   function readHash() {
     const pieces = location.hash.slice(1).split('/');
     const id = pieces[1];
