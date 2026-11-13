@@ -153,6 +153,27 @@
       "stage": "review_draft",
       "resolution": "540p",
       "caption_free": true
+    },
+    {
+      "id": "battery",
+      "topic": "Battery",
+      "title": "Battery",
+      "version": "v002",
+      "category": "Electrical",
+      "description": "See how a 12-volt battery supplies starting power, how it recharges, and how a weak battery or connection resistance can affect cranking.",
+      "note": "Review draft \u00b7 Awaiting review. Complete 540p preview; polished rendering is on hold pending your feedback. Explains operation and possible faults, without repair instructions.",
+      "duration": 56,
+      "file": "media/battery-v002-review-draft.mp4",
+      "poster": "media/battery.jpg",
+      "captions": null,
+      "credits": "media/battery-credits.txt",
+      "bytes": 9092107,
+      "sha256": "2b1a1b7060fe97fce0ce73635e0be4b89af552055703801959ee65d58dbfe2b7",
+      "fps": "30/1",
+      "stage": "review_draft",
+      "resolution": "540p",
+      "review_status": "Awaiting review",
+      "caption_free": true
     }
   ],
   "topics": [
@@ -335,8 +356,8 @@
       "id": "08-02",
       "name": "Battery",
       "category": "Electrical",
-      "video_id": null,
-      "status": "To build"
+      "video_id": "battery",
+      "status": "Review draft saved"
     },
     {
       "id": "08-03",

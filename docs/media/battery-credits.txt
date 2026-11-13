@@ -1,0 +1,16 @@
+BATTERY v002 — REVIEW DRAFT — attribution and scope
+Vehicle donor: 2025 Toyota Camry XV80 Hybrid by Ddiaz Design.
+https://sketchfab.com/3d-models/2025-toyota-camry-xv80-hybrid-53f8cbf2483940fba956f4e740a3a4ae
+License: Creative Commons Attribution-NonCommercial-ShareAlike4.0.
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+TSMG adaptation: conventional gasoline sedan educational installation, battery/6cell cutaway, schematic electrical relationships, illustrative connection corrosion, camera/material/lighting/animation/callouts/edit. Original donor NC/SA conditions remain; commercial permission unresolved. Keep full attribution with shared copies. This conventional12V battery is not a hybrid high-voltage pack, exact OEM service CAD, or independently certified mechanism.
+Narration: James – Husky Storyteller, ElevenLabs voice EkK5I93UQWFDigLMpZcX. Reused valid0–33.36s of original request01a1d09a-7de4-7ce2-9d73-76d510417978; exactly one changed21.44s connection-resistance segment, request01a1d602-1c8a-7b02-9005-f5e7932d8bcf. No voice clone. No other paid take. New narrative excludes all service/inspection/test/replacement/registration/technician-procedure promises.
+Primary technical references retained from Batteryv001:
+GS Yuasa — battery construction: https://www.yuasa.com/uk/info-hub/how-a-lead-acid-vehicle-battery-is-constructed
+DENSO — starter demand, connections and multiple starting-fault causes: https://www.denso-am.eu/news/starter-troubleshooting
+DENSO — battery condition and connections: https://www.densoautoparts.com/battery-visual-inspection-performance-testing-for-starters-alternators/
+DENSO — alternator charging relationship: https://www.denso-am.eu/news/alternator-troubleshooting
+All exact supported claims and primary-page snapshots remain in battery-explainer-v001/references/claims.json and C1–C6 source files.
+Generic mechanism/fault customer education. Six separated lead-acid cells with series straps. Electrical arrows are schematic current direction, not liquid flow. Weak-battery voltage-support graphic is qualitative, not a diagnostic threshold. Terminal corrosion is a separate possible connection-resistance example, not a claimed finding. Symptoms alone do not identify the cause. No repair tutorial or definite shop-action promise.
+Local Metal/Eevee4 review draft, native960x540/30fps, noRT/noMB/no castshadows. Source geometry/native/audio and historical movies preserved. Same-camera opaque/hidden endpoint plates with continuous C2 image weights; no context dither fades or flying parts.
+Review draft/Awaiting user review. No polished final, source package, nativeZIP or automatic next topic. No narration subtitles burned into image or embedded subtitle track. Main alone handles public-library posting.

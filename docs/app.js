@@ -110,7 +110,7 @@
     document.getElementById('watch-time').textContent = time(current.duration);
     document.getElementById('watch-version').textContent = current.version;
     document.getElementById('watch-quality').textContent = quality(current);
-    document.getElementById('watch-format').textContent = (draft(current) ? 'Review draft' : 'Saved copy') + ' · ' + quality(current);
+    document.getElementById('watch-format').textContent = (draft(current) ? 'Review draft' : 'Saved copy') + ' · ' + quality(current) + (current.review_status ? ' · ' + current.review_status : '');
     document.getElementById('watch-description').textContent = current.description;
     document.getElementById('download-video').href = current.file;
     document.getElementById('download-captions').hidden = !current.captions;
