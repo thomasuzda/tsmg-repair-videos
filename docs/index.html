@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#152624">
+  <meta name="description" content="Your saved automotive repair explainer videos, organized by part, with the full production topic list.">
+  <title>Repair Video Library · TSMG</title>
+  <link rel="icon" href="icon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="style.css">
+  <script src="catalog-data.js" defer></script>
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <a class="skip" href="#main">Skip to library</a>
+  <aside class="sidebar">
+    <a class="brand" href="#saved" aria-label="TSMG video library home"><span class="brand-mark">T<span>↗</span></span><span><strong>TSMG</strong><small>REPAIR EXPLAINERS</small></span></a>
+    <div class="side-caption">YOUR WORKSPACE</div>
+    <nav aria-label="Library navigation">
+      <button class="nav-item active" data-view="saved"><span class="nav-icon">▷</span>Saved videos<span class="nav-count">7</span></button>
+      <button class="nav-item" data-view="all"><span class="nav-icon">☷</span>Full build list<span class="nav-count">88</span></button>
+    </nav>
+    <div class="side-note"><span class="green-dot"></span> One library. Every explainer.<p>Find a saved film or choose the next part to build.</p></div>
+    <a class="car-link" href="https://thomasuzda.github.io/tsmg-car-studio/" target="_blank" rel="noopener">Open car assembly studio <span>↗</span></a>
+  </aside>
+  <main id="main">
+    <header class="page-header"><div><div class="eyebrow">THE VIDEO COLLECTION</div><h1>Your repair explainers.</h1><p class="intro">The films you’ve made. The parts you’ll explain next.</p></div><span class="owner-badge"><span class="green-dot"></span>Public library</span></header>
+    <section class="stats" aria-label="Library totals"><div><strong id="stat-video-count">07</strong><span>videos saved</span></div><div><strong id="stat-remaining-count">81</strong><span>entries to build</span></div><div><strong>20</strong><span>vehicle systems</span></div><a href="Explainer-Build-List.csv" download>Download full list <span>↓</span></a></section>
+    <section id="watch-section" class="watch-section" aria-labelledby="watch-title" hidden>
+      <div class="section-heading"><a class="back-to-videos" href="#saved">← Saved videos</a><span class="quiet" id="watch-format">Saved copy</span></div>
+      <div class="watch-layout">
+        <div class="player-wrap"><video id="player" controls playsinline preload="none" aria-label="Selected video">Your browser cannot play this video. Use the download link below.</video><div id="video-error" class="video-error" role="status" hidden>Playback could not load. You can still download the saved MP4 below.</div></div>
+        <div class="watch-detail"><span id="watch-category" class="category-label"></span><h2 id="watch-title" tabindex="-1"></h2><div class="video-meta"><span id="watch-time"></span><span class="meta-dot">·</span><span id="watch-version"></span><span class="meta-dot">·</span><span id="watch-quality"></span></div><p id="watch-description"></p><a id="download-video" class="primary-action" download>Download video <span>↓</span></a><div class="secondary-actions"><a id="download-captions" download>Captions</a><button id="credits-button">Credits & details</button></div><p class="file-note" id="file-note">Saved copy · MP4</p></div>
+      </div>
+    </section>
+    <section class="collection" aria-labelledby="collection-title">
+      <div class="collection-top"><h2 id="collection-title">Saved videos</h2><div class="view-tabs" role="group" aria-label="Choose collection"><button class="active" data-view="saved" aria-pressed="true">Saved <span>7</span></button><button data-view="all" aria-pressed="false">All topics <span>88</span></button><button data-view="planned" aria-pressed="false">To build <span>81</span></button></div></div>
+      <div class="filters"><label class="search"><span aria-hidden="true">⌕</span><span class="sr-only">Search parts or systems</span><input type="search" id="search" placeholder="Search parts or systems…" autocomplete="off"></label><label class="system-select"><span class="sr-only">Filter by vehicle system</span><select id="system"><option value="">All systems</option></select></label></div>
+      <div class="results-line"><span id="result-count" aria-live="polite">7 saved videos</span><button id="clear-filters" hidden>Clear filters</button></div>
+      <div id="video-grid" class="video-grid"></div>
+      <div id="topic-list" class="topic-list" hidden></div>
+      <div id="empty" class="empty" hidden><span aria-hidden="true">⌕</span><h3>No matching results</h3><p>Try another part name or look through the full build list.</p><button id="show-all" class="text-action">View all topics →</button></div>
+      <div id="pending-name" class="pending-name" hidden><span>i</span><p><strong>One name still needs confirming.</strong> The tenth Engine entry was obscured in the original screenshot. It’s kept in the list as “name pending.”</p></div>
+    </section>
+    <footer><span>TSMG · Repair Video Library</span><span>Saved films are hosted copies. Original project files stay preserved.</span><a href="library.json" download>Download library data ↓</a></footer>
+  </main>
+  <dialog id="credits-dialog"><div class="dialog-heading"><h2 id="credits-title">Credits & details</h2><button id="close-credits" aria-label="Close credits">×</button></div><p id="credits-note" class="credits-note"></p><p class="quiet">Saved version and source credits</p><pre id="credits-text"></pre><a id="download-credits" download>Download credits ↓</a></dialog>
+</body>
+</html>

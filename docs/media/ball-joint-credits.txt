@@ -1,0 +1,36 @@
+Visual direction: completed A/C v014 film in this workspace (white studio, Avenir Next, restrained teal, fixed55mm, deliberate camera arrivals). Same Camry v031 vehicle as active brake project.
+
+Mechanical evidence checked 2026-11-04:
+MOOG — Why and how of ball joint replacement: connection between control arm and steering knuckle; designs vary.
+https://www.moogparts.com/en-eu/support/the-problem-solver/technical-support/educational-articles/why-how-ball-joint-replacement.html
+MOOG — Dust boot testing: failed boot can admit contaminants and accelerate wear.
+https://www.moogparts.com/en-ca/technologies/articles/ensuring-endurance-dust-boot-testing.html
+MOOG — Ball joint service bulletin: socket deflection can change alignment angles.
+https://www.moogparts.com/content/dam/marketing/North-America/moog/pdf/problemsolver/english/MOOG_PS_Bulletin_27026_K7211_K7213_En.pdf
+
+Generic educational reconstruction, not Toyota OEM CAD. Exterior is the original Camry; local joint geometry and assembly are illustrative. Section peel, exaggerated free play, retention loss, separation, reset and contamination are teaching conventions. Suspicion of looseness calls for vehicle-specific inspection; film is not a repair procedure.
+
+Vehicle: Ddiaz Design / DdiazDesign, Sketchfab, CC BY-NC-SA4.0. Noncommercial study. Source remains untouched. Modified vehicle-derived scene distributed under CC BY-NC-SA4.0, with attribution retained in the film and native scene.
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+Narration: ElevenLabs Adam, American English, eleven-v4. Newly synthesized for v004, no voice cloning. Original procedural score and sound design; no third-party music.
+Official voice evidence: https://elevenlabs.io/docs/help-center/product/voices/voice-library/how-are-voices-updated-changed
+Voice profile: https://elevenlabs.io/voice-library/adam
+
+V005 REVISION
+User reference: local52.48sec MP4, reviewed across the entire timeline and transcribed. Main techniques used: fitted x-ray tire, inside-view installed suspension, progressive joint section, wheel response to looseness, severe separation consequence and restored connection. Reference branding, contact details and claims about universally straightforward repair are not copied.
+
+Same red Camry; front-right/passenger-front demonstration. Simplified connected neutral unibody rails and upper suspension ties connect front and rear; not exact Toyota chassis CAD. No engine, radiator or red structure in teaching views. Constant2.6m/s world travel and .329m tire radius share road-distance rotation. RF wheel and rotor follow the same knuckle/joint movement; wheel is never extracted. Camera-side x-ray treatment is explicitly labeled. Normal steering is illustrative, worn play exaggerated, severe failure not every worn joint. Native30fps C2 camera path, no AI interpolation.
+
+Torn-boot example: a jagged small opening and adhered thick grease smear. Grease escape and contamination are one possible wear route, not proof that every worn or failed joint visibly leaks. Native intact/damaged boot variants switch back for the replacement illustration. Nothing is diagnosed for a specific customer vehicle.
+
+Primary mechanical evidence checked2026-11-05:
+MOOG ball-joint replacement: grease escape, contamination and other causes of wear; design-dependent replacement.
+https://www.moogparts.com/en-eu/support/the-problem-solver/technical-support/educational-articles/why-how-ball-joint-replacement.html
+MOOG all about ball joints: boot keeps grease in and debris out.
+https://www.moogparts.com/parts-matter/all-about-ball-joints.html
+MOOG symptoms: clunks, steering and tire wear; symptoms call for inspection.
+https://www.moogparts.com/parts-matter/symptoms-of-bad-ball-joints.html
+MOOG vehicle-specific looseness procedure and limits:
+https://www.moogparts.com/content/dam/marketing/North-America/moog/pdf/tech-tips/How%20to%20Inspect%20Ball%20Joints%20for%20Looseness_MOOG%20Tech%20Tip.pdf
+
+New American Adam narration,120 words at unchanged generated speaking pace; begins.35sec. 50sec movie. Optional captions use returned character timestamps. Procedural score/road sound newly mixed to50sec. No voice cloning or reference music reused.

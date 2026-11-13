@@ -1,0 +1,41 @@
+Wheel Alignment — v003
+
+Vehicle model: 2025 Toyota Camry XV80 Hybrid
+Creator: Ddiaz Design (DdiazDesign)
+Source: https://sketchfab.com/3d-models/2025-toyota-camry-xv80-hybrid-53f8cbf2483940fba956f4e740a3a4ae
+License: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+License: https://creativecommons.org/licenses/by-nc-sa/4.0/
+Legal text: https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.en
+
+Changes: TSMG educational adaptation; edited vehicle branding/materials; newly authored generic suspension, steering linkage, optical targets and measurement context; camera animation, cutaway treatments, explanatory graphics and editing. Adapted material is shared under CC BY-NC-SA 4.0. Original provided as-is, without warranties; no endorsement implied. Commercial permission is unresolved. This private study does not establish commercial clearance.
+
+Retain this attribution with the video when sharing, or include the attribution and source/license links in the accompanying description. Full attribution is also retained in the MP4 comment metadata. Physical TSMG emblems remain. There is no persistent on-screen vehicle/CC footer.
+
+Narration: ElevenLabs James - Husky Storyteller, voice ID EkK5I93UQWFDigLMpZcX, synthesized for v001 through fal Eleven v4 and reused unchanged in v003. Native pace, no voice cloning. Narration-only mix. No borrowed music, external film footage or manufacturer branding used in the finished film.
+
+Primary technical references checked November 10, 2026:
+MOOG — How Is a Car Alignment Done?
+https://www.moogparts.com/parts-matter/adjusting-your-car-alignment.html
+MICHELIN — Wheel alignment / wheel balancing
+https://www.michelin.ie/auto/advice/tyres-care/wheel-alignment-wheel-balancing
+Hunter Engineering — HawkEye Elite
+https://www.hunter.com/alignment-machines/hawkeye-elite/
+Hunter Learning Channel — WinAlign Hawkeye Elite Alignment System: Beginner's Guide
+https://www.youtube.com/watch?v=nA0LuPH8rbY
+Local A/C v022, Brake System v006 and Ball Joint v005 films informed visual direction. Original files were preserved.
+
+Technical scope: generic MacPherson-style front alignment teaching illustration using the established sedan exterior, not Toyota OEM CAD, an exact workshop procedure or a diagnosis for a customer's vehicle. Toe and camber examples are exaggerated and labeled. Caster is a steering-axis geometry, not a fore/aft tire lean; no universal caster adjustment is shown. The tire stays fitted to its hub and steering knuckle. Virtual body/tire cutaways expose installed geometry. Setup/service time is condensed; roll compensation and full vehicle-specific equipment procedures are not all animated. Vehicle specifications, load/ride-height setup, available adjustments, required repairs and any calibration follow the individual vehicle. No alignment specification values are invented. No independent specialist has certified this film.
+
+The finished MP4 and accompanying native model are reviewed by documented dimensional/transform checks and actual decoded-film QA. Those checks validate this illustration within the recorded tolerances, not every real vehicle or procedure. Captions and narration script are retained separately.
+
+REALISM REVISION v003
+Project-authored detailed underbody geometry reused read-only from brake-pads_trunk-structure_v031.blend. Native Blender Cycles MetalRT studio rendering, following the project’s Brake System v006 camera/reveal/lighting reference; no generated footage. Additional visual/mechanical references: MOOG control-arm materials; Monroe strut-assembly construction. Generic teaching model, not OEM service CAD.
+https://www.moogparts.com/en-eu/products/suspension/control-arms.html
+https://www.monroe.com/technical-resources/tech-tips/7-essential-components-every-quality-strut-assembly-needs.html
+
+Additional vehicle construction reference (shape context only):
+https://pressroom.toyota.com/toyota-camry-goes-exclusively-hybrid-plus-a-new-look-and-more-technology/
+Ground contact shading is an analytic artistic studio matte following wheel positions; mechanical surfaces use48-sample Cycles MetalRT path tracing selected after paired native proofs. The Brake reference itself uses EEVEE.
+
+STYLE REVISION v003
+Actual A/C v022 and especially Brake System v006 films/native camera inspected read-only. Fixed55mm viewing direction, logarithmic framing dolly, in-place surround/wheel clearing and installed component views. Native1080p30 main render matches A/C delivery cadence; no image interpolation. Small toe/camber/caster and installed adjustment detail cards reuse recorded native30fps v002 source plates of this project model; source segment bytes/hashes and frame mapping retained. Main model remains fully editable. The film contains no external reference-video footage. Body/wheel/brake omissions are visual cutaways, not required alignment service removals.

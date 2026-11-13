@@ -1,0 +1,9 @@
+ATTRIBUTION AND LICENSE
+Vehicle: 2025 Toyota Camry XV80 Hybrid by Ddiaz Design.
+https://sketchfab.com/3d-models/2025-toyota-camry-xv80-hybrid-53f8cbf2483940fba956f4e740a3a4ae
+License: Creative Commons Attribution-NonCommercial-ShareAlike 4.0.
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+TSMG adaptation: educational brake installation, animation, cutaway, material refinements, lighting, labels, narration and edit. Existing non-commercial/share-alike conditions remain; commercial permission for the donor asset is unresolved. Complete attribution is retained in the MP4 metadata and accompanying credits, with no persistent on-screen credit, following the current project presentation preference. Keep the credits with shared copies.
+Engine recording: "G40-11-Car Engine Sputtering.wav" by craigsmith, CC0, edited excerpt.
+https://freesound.org/people/craigsmith/sounds/438659/
+Source asset provenance: video-breakdown/realism-v3/stall-notes.json.

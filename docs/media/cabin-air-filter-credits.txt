@@ -1,0 +1,15 @@
+ATTRIBUTION AND LICENSE
+Vehicle: 2025 Toyota Camry XV80 Hybrid by Ddiaz Design.
+https://sketchfab.com/3d-models/2025-toyota-camry-xv80-hybrid-53f8cbf2483940fba956f4e740a3a4ae
+License: Creative Commons Attribution-NonCommercial-ShareAlike 4.0.
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+TSMG adaptation: generic installed HVAC/filter teaching geometry, native pleats, flow cues, loaded-filter restriction animation, cutaway, material refinements, lighting, labels, narration and edit. Source detail reused from the frozen Brake v011 derivative. Existing non-commercial/share-alike conditions remain; commercial permission for the donor asset is unresolved. Keep full credits with shared copies.
+Narration: ElevenLabs James - Husky Storyteller, voice EkK5I93UQWFDigLMpZcX, generated through fal Eleven v4. Existing v003 opening/normal/restriction narration reused; one necessary new v004 ending take.
+No music or third-party sound effects.
+Manufacturer references: see companion reference-register.json and claim-mapping.json for DENSO, Toyota and Hyundai sources. Earlier Bosch service references remain only in prior source records; no service procedure is taught in v004. References establish educational principles; they do not certify this generic model or endorse TSMG.
+
+Revision v003: exposed-interior opening/return; original inner-body pillar skins omitted from teaching diagram. Same source, mechanism, timing and James narration. Review draft only.
+
+Revision v004: customer education on operation and possible faults only. Service procedures removed. First39.4s of v003 narration reused; one necessary James ending take, request01a1d38a-e8ea-7ca1-9c4c-7822682b5576.
+
+Revision v005: low front-left whole-car opening; smooth in-place visibility using same-camera opaque/hidden endpoint layers; no source part motion or new voice take. Original v00456-second James audio and mechanism/fault story retained. No repair tutorial.

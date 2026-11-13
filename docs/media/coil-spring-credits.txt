@@ -1,0 +1,34 @@
+Coil Spring — v002
+
+Vehicle model: 2025 Toyota Camry XV80 Hybrid
+Creator: Ddiaz Design (DdiazDesign)
+Source: https://sketchfab.com/3d-models/2025-toyota-camry-xv80-hybrid-53f8cbf2483940fba956f4e740a3a4ae
+License: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+License link: https://creativecommons.org/licenses/by-nc-sa/4.0/
+Legal text: https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.en
+
+Changes: TSMG educational adaptation; vehicle branding/materials; corrected donor interior-trim placement and hidden wheel-well clearance relief in this derivative; newly authored generic MacPherson strut, spring, seats, rubber isolators, knuckle, connected suspension, illustrative retained fractured end coil, prescribed road-input animation, white photographic studio, cutaway views, cameras, explanatory graphics and editing. Adapted material is shared under CC BY-NC-SA4.0. Original provided as-is, without warranties or endorsement. Commercial permission remains unresolved; this private study does not establish commercial clearance.
+
+Retain these credits when sharing the video or include full source/license attribution in the accompanying description. Attribution is also in MP4 metadata. Physical TSMG emblems stay in the vehicle; there is no persistent vehicle/license footer or extra title-corner logo.
+
+Narrator: ElevenLabs James - Husky Storyteller, EkK5I93UQWFDigLMpZcX, synthesized through fal Eleven v4. One take, natural source pace. No voice cloning. Original quiet harmonic score and soft road accents authored procedurally for this film; no reference soundtrack sampled or borrowed. No generative image/video enhancement used. All mechanism rendering is native Blender geometry.
+
+Primary references reviewed November10,2026:
+KYB Coil Springs: https://kyb-europe.com/products/coil-springs/
+KYB Useful Fitting Tips: https://kyb-europe.com/blog/useful-fitting-tips/
+Monroe manufacturer FAQs: https://www.monroecatalog.com/en-US/shocks-101/faq/
+Nippon Steel Technical Report122, Low-alloyed High-strength Suspension Spring Steel: https://www.nipponsteel.com/en/tech/report/pdf/122-20.pdf
+MEYLE training, spring fracture, page12: https://assets.eu.ctfassets.net/tw1gcg0wn1me/6F0HlBD4BmYKPuThKPPmRT/22890fd9aa5b1ec7122e35ac31925c30/WHP_Stossdaempfer_A4_L_en.pdf
+
+Actual local A/Cv022, BallJointv005, Brakev006 and Alignmentv001 films informed the series direction. This revision also inspected the approved Brakev010 full draft and uses compatible camera/lighting/material context plus the owner-frozen Brakev011 car-surface corrections. All original source movies and editable files remain unchanged.
+
+Scope and conventions: generic front MacPherson strut educational model using the established sedan exterior. This is not exact Toyota service CAD, a diagnosis for an individual customer, a DIY spring-compression/removal guide, or independently certified engineering. The spring carries load and stores/releases energy; the damper controls oscillation. Road-input motion is prescribed, slowed for clarity and limited to18mm for this model's tire/body clearance. It is not a validated dynamic simulation. Spring wire diameter remains14mm; mean coil diameter176mm; active pitch changes between fixed spring seats, with clocked closed ends. The fractured lower end coil is retained in its cup and the separation is enlarged for visibility. No claim every weakened spring fractures or symptoms alone identify the cause. Fault display is stationary. Repair is an identified condensed installed-assembly dissolve, without procedural removal or compression steps. Axle-pair replacement, alignment checks, parts and inspection procedures follow the vehicle manufacturer's guidance. Other suspension designs differ.
+
+Documented geometry checks and actual encoded-media QA assess this illustration within saved tolerances; they do not certify every real vehicle or procedure. See companion production notes and saved QA records for results and limits.
+
+
+Revision v002: matches the camera/layout and photographic studio of the actual Brake-Pads-v010-Full-Draft-Reservoir.mp4 reference. One continuous60mm eased native camera;30fps; controlled rigid car travel with coupled wheel rotation; original installed cabin/floor context retained; fitted pressed tower cutaways. Path-traced Cycles native rendering. Reference video audio was not copied; exact existing James take and original Coil score/mix retained. The brake reference is a draft; it is not represented as a certified mechanical source. Earlier originals are preserved.
+
+Subtitle policy: no embedded/displayed spoken-narration subtitles; the app may add them. Separate timed-text reference files remain available. Existing component titles/callouts and brief technical context tags are retained as explanatory annotations; no picture areas were painted over or regenerated to remove them.
+
+HOSTED WEB COPY: same65seconds/1950frames/1920x1080/30fps, separately encoded for Sites25MiB asset limit. Narration/score AAC packets copied unchanged. Full master/native camera/geometry remain preserved; no native rerender, crop, repaint or generated enhancement. All-frame quality comparison and actual playback QA are in web-copy-qa.json.
