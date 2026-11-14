@@ -64,19 +64,22 @@
       "id": "ball-joint",
       "topic": "Ball Joint",
       "title": "Ball Joint",
-      "version": "v005",
+      "version": "v006",
       "category": "Suspension",
-      "description": "A closer look at the installed ball joint, wear, a damaged boot, and the reason for repair.",
-      "note": "Latest completed white-studio version.",
-      "duration": 50,
-      "file": "media/ball-joint-v005-no-subtitles.mp4",
-      "poster": "media/ball-joint.jpg",
+      "description": "See how the installed ball joint lets the wheel steer and move, and how boot damage or internal wear can affect handling and tire wear.",
+      "note": "Review draft \u00b7 Awaiting review. Complete 540p preview with the approved car opening and smooth fades. Explains operation and possible faults without repair instructions; not a polished final.",
+      "duration": 34,
+      "file": "media/ball-joint-v006-review-draft.mp4",
+      "poster": "media/ball-joint-v006.jpg",
       "captions": null,
-      "credits": "media/ball-joint-credits.txt",
-      "bytes": 22440613,
-      "sha256": "fe535dc803087c1c0820fadb58a1a2836ad3e84227c72b015e00090265c21ccd",
+      "credits": "media/ball-joint-v006-credits.txt",
+      "bytes": 3831177,
+      "sha256": "aac2413845fb2b59e99ce30969de7df18bac3035581cbcf6f6a454ad7ffd4478",
       "fps": "30/1",
-      "caption_free": true
+      "caption_free": true,
+      "stage": "review_draft",
+      "resolution": "540p",
+      "review_status": "Awaiting review"
     },
     {
       "id": "wheel-alignment",
@@ -719,7 +722,7 @@
       "name": "Ball Joint",
       "category": "Suspension",
       "video_id": "ball-joint",
-      "status": "Video saved"
+      "status": "Review draft saved"
     },
     {
       "id": "18-02",
