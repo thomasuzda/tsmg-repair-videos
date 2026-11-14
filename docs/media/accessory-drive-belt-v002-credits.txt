@@ -1,0 +1,26 @@
+Accessory Drive Belt v002 — First take / Awaiting review
+
+Vehicle:2025 Toyota Camry XV80 Hybrid by Ddiaz Design(DdiazDesign).
+Source:https://sketchfab.com/3d-models/2025-toyota-camry-xv80-hybrid-53f8cbf2483940fba956f4e740a3a4ae
+License:Creative Commons Attribution-NonCommercial-ShareAlike4.0 International.
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+Adaptation:TSMG branding/materials; actual detailed Wheel Alignmentv007 car/chassis/source-fitted cabin/floor/dashboard/steering/seats, installed generic conventional gasoline engine and independent electric water pump, six-pulley accessory drive, physical six-rib belt/pulley profiles, mounted brackets/tensioner/idlers, native wear and slip demonstration, enlarged cord/rib section comparison, white studio/camera/editing. Adapted material shared underCC BY-NC-SA4.0. Original provided as-is without endorsement. Commercial permission unresolved; no clearance claimed. Retain full companion credits or attribution in sharing metadata. No Credits UI or persistent onscreen credit band.
+
+Narrator:ElevenLabs James—Husky Storyteller,voiceEkK5I93UQWFDigLMpZcX. ONE authorized full take,request01a1d936-4212-7aa0-b94b-b196f73a2821,elevenlabs/tts/eleven-v4,same0.65stability/0.75similarity/seed191001recipe. Original audio preserved; modest3.9percent speech tempo adjustment fits60second draft. Narration only; no music/voice cloning/borrowed film/audio.
+
+Final CPU text correction: the existing upper callout is labeled Accessory drive, because the independent electric pump is occluded behind engine/pulley context. Exactly89upper-card regions corrected; all native PNGs and all RGB outside the existing card remain unchanged. Narration/camera/mechanism/audio unchanged.
+
+Native Blender Eevee review quality:960x540,30fps,4samples,no raytracing/motion blur/cast shadows. All1800main pictures are actual integer native poses; same-camera opaque/hidden endpoints blend continuously. Native enlarged healthy/worn section is static geometry rendered at actual picture times. No generated interpolation or frozen changing belt poses. Only restrained upper/component labels; no subtitles/caption streams/technical tags/progress/graphs/service tutorial.
+
+Mechanical scope:generic conventional gasoline four-cylinder teaching installation, not Toyota/hybrid OEM service CAD or independent mechanical certification. Crankshaft drives alternator/A-C through one single-plane six-rib loop, smooth belt back on smooth idlers/tensioner, groove-side contact on profiled pulleys. Analytic tangent route/coupled tiny loaded tensioner motion retained, no intersections. Healthy matched pitch speed ratios follow pulley radius; illustrative worn ribs and reduced belt traction cause belt/driven accessories to slow relative to unchanged crankshaft. Motion is prescribed for clarity, not a validated dynamic-force simulation. Rib-loss detail is enlarged. No claim sound alone establishes a diagnosis; possible symptoms can have other causes. Accessory belt is separate from valve timing. This illustration's independent electric water pump is not driven by the accessory belt. Source layouts differ.
+
+Primary technical references retained in saved source ledger:
+Continental Automotive Aftermarket,Power Transmission Group Workbook,pp26–31,34–35,42–43:
+https://www.continental-engineparts.com/eu/getattachment/6f4a8033-9b77-4a2b-a03e-a65851964f15/PTG1223-En-Workbook.pdf
+Dayco,What should I do if the belt is making a squealing noise?,2025-03-13:
+https://www.dayco.com/techhub/what-should-i-do-if-the-belt-is-making-a-squealing-noise/
+Gates,Accessory Belt Drive System Troubleshooting Guide,p11(primary indexed content; directURLredirect noted):
+https://www.gatesaustralia.com.au/-/media/files/gates-au/automotive/catalogues/abds-troubleshooting-manual-ausnz-august-2020.pdf
+Saved supported-claims/source identities document exact scope and access limits. No technician procedure, shop promise or pricing/repair sales advice.
+
+All original native/source/proof/audio/disabledv001queues preserved. This is a user-authorized quick First take for public review, not a polished final. Main alone publishes to the existing public library and selects next focus.

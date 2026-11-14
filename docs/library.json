@@ -250,6 +250,28 @@
       "resolution": "540p",
       "review_status": "Awaiting review",
       "caption_free": true
+    },
+    {
+      "id": "accessory-drive-belt",
+      "topic": "Accessory Drive Belt",
+      "title": "Accessory Drive Belt",
+      "version": "v002",
+      "category": "Engine",
+      "description": "See how the accessory belt transfers engine power to the alternator and air-conditioning compressor, and how rib wear and slipping can affect their operation.",
+      "note": "Review draft \u00b7 Awaiting review. Complete 540p preview with the approved car opening and smooth fades. Explains operation and possible faults without repair instructions; not a polished final.",
+      "duration": 60,
+      "file": "media/accessory-drive-belt-v002-review-draft.mp4",
+      "poster": "media/accessory-drive-belt-v002.jpg",
+      "captions": null,
+      "credits": "media/accessory-drive-belt-v002-credits.txt",
+      "bytes": 10893775,
+      "sha256": "fe354907a283d8ac6aaae252a02de79dbb6f1c4a61560d9e3e3b260462f10e2b",
+      "fps": "30/1",
+      "stage": "review_draft",
+      "resolution": "540p",
+      "review_status": "Awaiting review",
+      "caption_free": true,
+      "take_label": "First take"
     }
   ],
   "topics": [
@@ -460,8 +482,8 @@
       "id": "09-01",
       "name": "Accessory Drive Belt",
       "category": "Engine",
-      "video_id": null,
-      "status": "To build"
+      "video_id": "accessory-drive-belt",
+      "status": "Review draft saved"
     },
     {
       "id": "09-02",
