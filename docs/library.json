@@ -46,19 +46,22 @@
       "id": "brake-system",
       "topic": "Brake Pads",
       "title": "Brake Pads & Brake System",
-      "version": "v006",
+      "version": "v013",
       "category": "Brakes",
-      "description": "See how the brake system works together, from hydraulic pressure to pads contacting the rotor.",
-      "note": "Latest completed export. The unfinished v007 render is excluded.",
+      "description": "See how pedal pressure reaches the calipers, how pads slow the rotors, and how wear, leaks or sticking parts can affect braking.",
+      "note": "Review draft \u00b7 Awaiting review. Complete 540p preview with the approved car opening and smooth fades. Explains operation and possible faults without repair instructions; not a polished final.",
       "duration": 60,
-      "file": "media/brake-system-v006-no-subtitles.mp4",
-      "poster": "media/brake-system.jpg",
+      "file": "media/brake-system-v013-review-draft.mp4",
+      "poster": "media/brake-system-v013.jpg",
       "captions": null,
-      "credits": "media/brake-system-credits.txt",
-      "bytes": 18077907,
-      "sha256": "bebfd2edc4fed4b8750fe4ba236820bad571711750d8a8e23bec75ef460d6bf2",
-      "fps": "60/1",
-      "caption_free": true
+      "credits": "media/brake-system-v013-credits.txt",
+      "bytes": 8742684,
+      "sha256": "eb6f5d1e6b1f861b6c0f3fdc0c2fc384e517cc432f2425cf26dc36242c1bce96",
+      "fps": "30/1",
+      "caption_free": true,
+      "stage": "review_draft",
+      "resolution": "540p",
+      "review_status": "Awaiting review"
     },
     {
       "id": "ball-joint",
@@ -280,7 +283,7 @@
       "name": "Brake Pads",
       "category": "Brakes",
       "video_id": "brake-system",
-      "status": "Video saved"
+      "status": "Review draft saved"
     },
     {
       "id": "02-05",
