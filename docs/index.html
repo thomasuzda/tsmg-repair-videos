@@ -10,6 +10,7 @@
   <link rel="stylesheet" href="style.css">
   <script src="catalog-data.js" defer></script>
   <script src="app.js" defer></script>
+  <script src="video-notes.js" defer></script>
 </head>
 <body>
   <a class="skip" href="#main">Skip to library</a>
@@ -30,8 +31,21 @@
       <div class="section-heading"><a class="back-to-videos" href="#saved">← Saved videos</a><span class="quiet" id="watch-format">Saved copy</span></div>
       <div class="watch-layout">
         <div class="player-wrap"><video id="player" controls playsinline preload="none" aria-label="Selected video">Your browser cannot play this video. Use the download link below.</video><div id="video-error" class="video-error" role="status" hidden>Playback could not load. You can still download the saved MP4 below.</div></div>
-        <div class="watch-detail"><span id="watch-category" class="category-label"></span><h2 id="watch-title" tabindex="-1"></h2><div class="video-meta"><span id="watch-time"></span><span class="meta-dot">·</span><span id="watch-version"></span><span class="meta-dot">·</span><span id="watch-quality"></span></div><p id="watch-description"></p><a id="download-video" class="primary-action" download>Download video <span>↓</span></a><div class="secondary-actions" hidden><a id="download-captions" download hidden>Captions</a></div><p class="file-note" id="file-note">Saved copy · MP4</p></div>
+        <div class="watch-detail"><span id="watch-category" class="category-label"></span><h2 id="watch-title" tabindex="-1"></h2><div class="video-meta"><span id="watch-time"></span><span class="meta-dot">·</span><span id="watch-version"></span><span class="meta-dot">·</span><span id="watch-quality"></span></div><p id="watch-description"></p><a id="download-video" class="primary-action" download>Download video <span>↓</span></a><div class="secondary-actions" hidden><a id="download-captions" download hidden>Captions</a></div><button class="notes-open-action" id="open-video-note" type="button" aria-controls="note-form">Add a note</button><p class="file-note" id="file-note">Saved copy · MP4</p></div>
       </div>
+      <section class="video-notes" id="video-notes" aria-labelledby="notes-heading">
+        <div class="notes-heading-row"><div><h2 id="notes-heading">Video notes</h2><p>Shared with everyone who visits this library.</p></div><button id="refresh-notes" class="notes-quiet-button" type="button">Refresh</button></div>
+        <form id="note-form" hidden>
+          <label for="note-author">Your name <span>(optional)</span></label><input id="note-author" name="author" maxlength="60" autocomplete="nickname" placeholder="Name">
+          <label for="note-text">Your note</label><textarea id="note-text" name="text" rows="4" maxlength="2000" required placeholder="What would you like to change or keep?" aria-describedby="note-public-hint note-status"></textarea>
+          <div class="note-form-meta"><label class="note-timestamp"><input id="note-include-time" type="checkbox" checked>Link to <span id="note-time-label">0:00</span> in this version</label><span id="note-character-count">0 / 2,000</span></div>
+          <p id="note-public-hint" class="notes-public-hint">This note will be public. Display names are entered by visitors.</p>
+          <div class="note-form-actions"><button id="save-note" class="note-save" type="submit">Save note</button><button id="cancel-note" class="notes-quiet-button" type="button">Cancel</button></div>
+        </form>
+        <p id="note-status" class="note-status" role="status" aria-live="polite"></p>
+        <ol id="note-list" class="note-list"></ol>
+        <button id="more-notes" class="notes-quiet-button" type="button" hidden>Load older notes</button>
+      </section>
     </section>
     <section class="collection" aria-labelledby="collection-title">
       <div class="collection-top"><h2 id="collection-title">Saved videos</h2><div class="view-tabs" role="group" aria-label="Choose collection"><button class="active" data-view="saved" aria-pressed="true">Saved <span>7</span></button><button data-view="all" aria-pressed="false">All topics <span>88</span></button><button data-view="planned" aria-pressed="false">To build <span>81</span></button></div></div>

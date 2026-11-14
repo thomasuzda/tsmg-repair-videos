@@ -22,6 +22,7 @@
   function time(seconds) { const total = Math.round(seconds); return Math.floor(total / 60) + ':' + String(total % 60).padStart(2, '0'); }
   function quality(video) { return video.resolution || '1080p'; }
   function draft(video) { return video.stage === 'review_draft'; }
+  function draftLabel(video) { return video.take_label || 'Review draft'; }
   const remaining = data.topics.filter(function (topic) { return !topic.video_id; }).length;
   document.querySelector('.sidebar [data-view="saved"] .nav-count').textContent = data.videos.length;
   document.querySelector('.view-tabs [data-view="saved"] span').textContent = data.videos.length;
@@ -44,7 +45,7 @@
       card.setAttribute('aria-label', 'Open ' + v.title + ', ' + time(v.duration) + ', ' + v.version);
       const imageWrap = el('div', 'card-image'); const image = el('img'); image.src = v.poster; image.alt = ''; image.loading = 'lazy'; image.width = 1280; image.height = 720;
       imageWrap.append(image, el('span', 'card-duration', time(v.duration)), el('span', 'card-play', '▶'));
-      const copy = el('div', 'card-copy'); const bottom = el('div', 'card-footer'); bottom.append(el('span', 'saved-badge' + (draft(v) ? ' draft-badge' : ''), draft(v) ? 'Review draft' : 'Video saved'), el('span', '', v.version + ' · ' + quality(v)));
+      const copy = el('div', 'card-copy'); const bottom = el('div', 'card-footer'); bottom.append(el('span', 'saved-badge' + (draft(v) ? ' draft-badge' : ''), draft(v) ? draftLabel(v) : 'Video saved'), el('span', '', v.version + ' · ' + quality(v)));
       copy.append(el('div', 'card-category', v.category), el('h3', '', v.title), bottom); card.append(imageWrap, copy);
       grid.append(card);
     });
@@ -108,15 +109,16 @@
     document.getElementById('watch-time').textContent = time(current.duration);
     document.getElementById('watch-version').textContent = current.version;
     document.getElementById('watch-quality').textContent = quality(current);
-    document.getElementById('watch-format').textContent = (draft(current) ? 'Review draft' : 'Saved copy') + ' · ' + quality(current) + (current.review_status ? ' · ' + current.review_status : '');
+    document.getElementById('watch-format').textContent = (draft(current) ? draftLabel(current) : 'Saved copy') + ' · ' + quality(current) + (current.review_status ? ' · ' + current.review_status : '');
     document.getElementById('watch-description').textContent = current.description;
     document.getElementById('download-video').href = current.file;
     document.getElementById('download-captions').hidden = !current.captions;
     if (current.captions) document.getElementById('download-captions').href = current.captions;
     else document.getElementById('download-captions').removeAttribute('href');
-    document.getElementById('file-note').textContent = (draft(current) ? 'Review draft' : 'Saved copy') + ' · MP4 · ' + (current.bytes / 1000000).toFixed(1) + ' MB';
+    document.getElementById('file-note').textContent = (draft(current) ? draftLabel(current) : 'Saved copy') + ' · MP4 · ' + (current.bytes / 1000000).toFixed(1) + ' MB';
     document.getElementById('video-error').hidden = true;
     watching = true; view = 'saved'; render();
+    window.dispatchEvent(new CustomEvent('repair-video-selected', {detail: current}));
   }
   document.querySelectorAll('[data-view]').forEach(function (b) { b.addEventListener('click', function () { openCollection(b.dataset.view, false); }); });
   document.querySelector('.brand').addEventListener('click', function (event) { event.preventDefault(); openCollection('saved', true); });
@@ -132,6 +134,7 @@
       selectVideo(id);
     } else {
       watching = false;
+      window.dispatchEvent(new CustomEvent('repair-video-cleared'));
       if (current) {
         player.pause(); player.replaceChildren(); player.removeAttribute('src'); player.removeAttribute('poster');
         player.preload = 'none'; player.load(); current = null;
