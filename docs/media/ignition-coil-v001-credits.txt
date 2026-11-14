@@ -1,0 +1,24 @@
+Ignition Coil v001 — First take / Awaiting review
+
+Vehicle:2025 Toyota Camry XV80 Hybrid by Ddiaz Design(DdiazDesign).
+Source:https://sketchfab.com/3d-models/2025-toyota-camry-xv80-hybrid-53f8cbf2483940fba956f4e740a3a4ae
+License:Creative Commons Attribution-NonCommercial-ShareAlike4.0 International.
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+Adaptation:TSMG physical branding/materials, detailed Alignmentv007 body/chassis/source-fitted cabin/floor/seats/dashboard/steering/CarPlay-style screen context, installed generic conventional gasoline engine, editable primary/secondary/iron core/electronic igniter/connector/boot/plug section, insulation-fault illustration, white studio and camera/edit. Adapted material shared underCC BY-NC-SA4.0. Source provided as-is, no endorsement. Commercial permission unresolved; no clearance claimed. Full attribution retained in metadata and this companion. No onscreen credit band or CreditsUI.
+
+Narration:ElevenLabs James—Husky Storyteller,voiceEkK5I93UQWFDigLMpZcX; one necessary new full take,elevenlabs/tts/eleven-v4,request01a1daba-4514-7a91-82d2-5f2e25cc3a0d; stability.65/similarity.75/seed15112026. Original raw take and receipt preserved. Speech tempo1.05,400ms leading offset, level+3dB, short natural tail. No repeated paid tests/music/voice cloning. No narration subtitles/caption streams/downloads.
+
+Native Blender review quality:960x540,30fps,Eevee4samples,no raytracing/motion blur/cast shadows.1800actual native integer-time pictures, each atomicPNG/index/evaluated same-time/source frame/render identity/SHA. Paired SAME-camera opaque/hidden endpoints give smooth in-place section/context fades. No interpolated or frozen changing poses. CPU-only anchored ground label and small blue trigger highlight follow actual same-time connector route; not an EM propagation-speed claim. Native PNGs remain unchanged. Final r02 adds a restrained CPU-only gap discharge and small chamber kernel at actual native anchors, camera, and frozen spark/flame states; the first encode revealed missing imported effect material drivers. Previous encode/native/QA are preserved separately. These are clearly illustrative, not an EM or combustion simulation. Editable delivery restores the missing effect visibility drivers without changing geometry, camera or timing. Static geometry batching preserves evaluated world vertices/materials/UV; moving parts and physical glass separate. Editable original EDIT scene retained. All119role-reviewed inherited measurement objects omitted throughout.
+
+Technical scope:generic educational integrated three-pin coil-on-plug example, not Toyota/hybrid OEM serviceCAD, not all coil circuit layouts, not independent mechanical certification. Primary supply and integrated low-side switch/ground/logic trigger shown; secondary output to plug via insulated boot and ground return. Copper drawn turns reduced and insulation damage enlarged for clarity, not exact winding count/ratio or specified vehicle pinout. Magnetic loops and combustion kernel are restrained illustrations, not electromagnetic/thermodynamic simulation. Prescribed slowed four-stroke motion, each cylinder firing once per720degrees with180degree event spacing and near-end-compression discharge; no exactOEM speed/timing/gap claim. SparkPlugv002 corrected wristpin/rod/valve/healthyplug geometry reused, no thread-cutter artifacts. Distinct coil insulation fault; no plug wear/replacement lesson. Possible misfire/customer effects have other causes. No testing, repair, inspection, removal, pricing or shop-action promise.
+
+Primary manufacturer references, directly saved and supported-claim ledger in sources:
+DENSO,How ignition coils work:
+https://www.denso-am.eu/products/ignition/ignition-coil
+HELLA,Ignition coil—basics,designs,causes and symptoms:
+https://www.hella.com/techworld/sg/technical/car-electronics-and-electrics/check-ignition-coil/
+DENSO,Ignition systems:
+https://www.denso-am.eu/products/ignition
+Only operation/fault/customer-effect claims used; source service procedures excluded.
+
+User-authorized new two-film continuation,IgnitionCoil15-01 selected first. Main alone publishes First take/Awaiting review and selects next focus. All earlier Spark/source/native/audio/HOLD/queues preserved. This is a quick review draft, not a polished final.

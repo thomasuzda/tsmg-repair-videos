@@ -316,6 +316,28 @@
       "review_status": "Awaiting review",
       "caption_free": true,
       "take_label": "First take"
+    },
+    {
+      "id": "ignition-coil",
+      "topic": "Ignition Coil",
+      "title": "Ignition Coil",
+      "version": "v001",
+      "category": "Ignition",
+      "description": "See how an ignition coil stores magnetic energy and creates the high voltage for a spark, and how insulation damage can cause intermittent firing and rough running.",
+      "note": "Review draft \u00b7 Awaiting review. Complete 540p preview with the approved car opening and smooth fades. Explains operation and possible faults without repair instructions; not a polished final.",
+      "duration": 60,
+      "file": "media/ignition-coil-v001-review-draft.mp4",
+      "poster": "media/ignition-coil-v001.jpg",
+      "captions": null,
+      "credits": "media/ignition-coil-v001-credits.txt",
+      "bytes": 14461087,
+      "sha256": "5d50c5bb17e51dc4b08c23beb67d998a31a4f0ad596bb26d5c1f7865e20bf34e",
+      "fps": "30/1",
+      "stage": "review_draft",
+      "resolution": "540p",
+      "review_status": "Awaiting review",
+      "caption_free": true,
+      "take_label": "First take"
     }
   ],
   "topics": [
@@ -744,8 +766,8 @@
       "id": "15-01",
       "name": "Ignition Coil",
       "category": "Ignition",
-      "video_id": null,
-      "status": "To build"
+      "video_id": "ignition-coil",
+      "status": "Review draft saved"
     },
     {
       "id": "15-02",
