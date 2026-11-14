@@ -1,0 +1,27 @@
+Sway Bar v001 — First take / Awaiting review
+TSMG automotive customer explainer.60seconds/native960x540/30fps; quick Eevee4 review quality, not polished final.
+
+Vehicle:2025 Toyota Camry XV80 Hybrid by Ddiaz Design (DdiazDesign).
+Source:https://sketchfab.com/3d-models/2025-toyota-camry-xv80-hybrid-53f8cbf2483940fba956f4e740a3a4ae
+License:Creative Commons Attribution-NonCommercial-ShareAlike4.0 International.
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+Adaptation:TSMG physical emblems/materials; generic detailed Alignment/Camry-based suspension, original fitted floor/cabin/dash/seats/steering/navigation display; new editable stabilizer bar, fixed chassis bushings/straps, rigid lever arms/endlinks and broken-link illustration; linked constant-section coil springs, dampers/knuckles/control arms/tie rods/CV axles/brake hoses. Adapted material shared underCC BY-NC-SA4.0. Source provided as-is, no endorsement. Commercial permission unresolved; no clearance claimed. All attribution retained offscreen in metadata and this companion; no CreditsUI.
+
+Narration:ElevenLabs James—Husky Storyteller,voiceEkK5I93UQWFDigLMpZcX. Single necessary fulltake,elevenlabs/tts/eleven-v4 request01a1db18-2b7a-7970-b25c-e8c6b2a83e8b; stability.5/similarity.75. Original raw take/request/character timestamps preserved. Natural source tempo unchanged,11/30second leading offset. Controlled -16LUFS voice plus very quiet deterministic original harmonic score, same series motif; no borrowed soundtrack or paid music, no fake clunk effects. No narration subtitles, bottom tags/progress, caption tracks or SRTlinks.
+
+Model scope:generic educational front stabilizer arrangement adapted to Camry-based artwork, not a Toyota OEM serviceCAD or validated dynamics simulation. Prescribed slowed differential and common-direction front wheel travel illustrates torsion versus rotation in fixed chassis bushings; independent wheel linkage remains installed. Springs carry static weight; sway bar adds roll resistance. Neutral bar has no differential preload. Section26mm, five-turn reference coil geometry with constant14.4mm round wire. Longitudinal material witness helps reveal central twist. RF broken link retains both ball-joint attachments and rigid stubs with visible misalignment; no wheel detachment or repair procedure. Possible reduced roll control/clunks overlap other suspension faults. Not an individual customer's diagnosis or independent technical certification. No repair, removal, testing, inspection, pricing or shop promise.
+
+Native process:all1800integer-time pictures evaluated explicitly at their own frame; same-camera opaque/hidden endpoint renders combined with C2 fades, original PBR/glass/analytic studio-floor graph preserved. No generative enhancement, interpolation, frozen changing states, oldtopic picture reuse or Cycles/Eevee splice. All119 exact inherited alignment-apparatus roles omitted throughout; bulky spring tower skins and unrelated exhaust shield/upturned pipe clear with body. Actual mounts/rails/cradle and fitted car context retained. Original sources, allCoilmedia/native/audio/checkpoints/HOLD remain untouched. One whole localMetal GPU lease with sequential fresh children of at most60production pictures; hard40GiB free per picture, no automatic retry.
+
+Primary manufacturer references reviewed for operation/fault claims:
+ZF — Stabilizer links:
+https://www.zf.com/products/en/cars/products_65850.html
+Whiteline — How does a sway bar work?:
+https://whitelineperformance.com/us/search/sway-bar-sway-bar-kits
+MOOG — Symptoms of bad sway bar links:
+https://federalmogul-prod-65a.adobecqms.net/content/loc-na/fmmp-moog/en_US/parts-matter/Symptoms-of-Bad-Sway-Bar-Links.html
+Continental — Stabilizer links,29April2025:
+https://continental-engineparts.com/eu/en-gb/aftermarket/support/technical-info-news/technical-news/technical-news-2025-1/29-04-2025-stabilizer-links
+Saved claim ledger/source-specific roles/native audits accompany editable project. Source service instructions not taught.
+
+Review scope:actual native stills/consecutive normal-speed motion/full encoded visuals reviewed, full audio/video decode and cadence checked. Browser review may be muted; no independent audible listening or GUI/iPhone playback claim. Main alone publishes exact reviewed First take/Awaiting review; all other topics remain HOLD after delivery.

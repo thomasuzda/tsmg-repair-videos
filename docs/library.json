@@ -338,6 +338,28 @@
       "review_status": "Awaiting review",
       "caption_free": true,
       "take_label": "First take"
+    },
+    {
+      "id": "sway-bar",
+      "topic": "Sway Bar",
+      "title": "Sway Bar",
+      "version": "v001",
+      "category": "Suspension",
+      "description": "See how the sway bar links both front wheels, twists with unequal wheel travel, and how a broken end link can reduce roll control.",
+      "note": "Review draft \u00b7 Awaiting review. Complete 540p preview with the approved car opening and smooth fades. Explains operation and possible faults without repair instructions; not a polished final.",
+      "duration": 60,
+      "file": "media/sway-bar-v001-review-draft.mp4",
+      "poster": "media/sway-bar-v001.jpg",
+      "captions": null,
+      "credits": "media/sway-bar-v001-credits.txt",
+      "bytes": 8788963,
+      "sha256": "c1332c86b831c06cd07c609f8d8a6b9109733131571eb801aa2b82a6835f48e2",
+      "fps": "30/1",
+      "stage": "review_draft",
+      "resolution": "540p",
+      "review_status": "Awaiting review",
+      "caption_free": true,
+      "take_label": "First take"
     }
   ],
   "topics": [
@@ -857,8 +879,8 @@
       "id": "18-07",
       "name": "Sway Bar",
       "category": "Suspension",
-      "video_id": null,
-      "status": "To build"
+      "video_id": "sway-bar",
+      "status": "Review draft saved"
     },
     {
       "id": "19-01",
