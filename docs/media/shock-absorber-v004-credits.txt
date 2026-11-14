@@ -1,0 +1,31 @@
+SHOCK ABSORBER — ATTRIBUTION, SOURCES AND SHARING
+
+Vehicle: 2025 Toyota Camry XV80 Hybrid by Ddiaz Design.
+https://sketchfab.com/3d-models/2025-toyota-camry-xv80-hybrid-53f8cbf2483940fba956f4e740a3a4ae
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0.
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+TSMG adaptation: generic installed mechanical teaching geometry, rear suspension animation, material refinements, physical TSMG badges/mat wordmarks, longitudinal monotube cutaway, lighting, camera, schematic cues, labels, script, narration and edit. External geometry reused from the frozen native Brake v011 derivative, with its donor hash preserved in sources/donor-record.json. Original mesh detail remains native/editable. Changed mounting fit and source omissions are documented in production/QA notes.
+
+Preserve this attribution with shared copies. The donor's non-commercial and share-alike conditions remain. Commercial permission is unresolved; this film does not grant a new commercial license. No persistent on-screen source footer, per the established presentation preference; attribution is in the movie metadata and companion/sharing files.
+
+Narrator: ElevenLabs James – Husky Storyteller, voice ID EkK5I93UQWFDigLMpZcX, through fal elevenlabs/tts/eleven-v4. One requested take; exact submitted script/voice recipe and result saved in audio/voice-source.json. No music or borrowed engine recording used.
+
+Primary technical sources (accessed November11,2026; paraphrased, no manufacturer endorsement):
+BILSTEIN Academy — Workshop Tip#5, shock absorber failure analysis.
+https://workshop.bilstein.com/en-us/shock-absorber-failure-analysis-approaches/
+Monroe — How to Conduct a Shock or Strut Inspection.
+https://www.monroe.com/technical-resources/tech-tips/how-to-conduct-a-shock-strut-inspection.html
+Stellantis — Warranty Operations Newsletter11/7, shock/strut misting versus leakage, NHTSA-hosted manufacturer bulletin.
+https://static.nhtsa.gov/odi/tsbs/2025/MC-11021047-0001.pdf
+KYB — Diagnose Shocks and Struts.
+https://www.kyb.com/resources/shocks-struts-101/for-service-pros/diagnose-shocks-and-struts/
+KYB — Installation Tips and Resources.
+https://www.kyb.com/installation-tips-and-resources/
+KYB Corporation — Automotive products.
+https://www.kyb.co.jp/en/products/automotive.html
+Toyota USA — 2024 Camry, rear multilink architecture context.
+https://pressroom.toyota.com/2024-toyota-camry-style-and-performance-in-americas-best-selling-midsize-sedan/
+
+Scope: generic customer teaching illustration, not exact Toyota OEM CAD/internal shock identification, a repair procedure, CFD, or independent mechanical certification. Rear small-travel motion is an endpoint-preserving teaching rig, not an OEM multibody solution. Selected gas-charged monotube internals have oil on both sides of a valved working piston and a sealed nitrogen chamber behind a floating separator. Rod-volume accommodation is calculated. Cutaways, schematic color, slowed strokes, enlarged valve flex, response comparison and condensed repair are labelled. This depicts one significant-leak/lost-damping fault. Other faults/designs can behave differently. Light mist alone is not a failure diagnosis. Repair parts, pairing and alignment needs follow the vehicle/component maker and work performed.
+
+Shock Absorber v004 review draft adaptation: native Blender Eevee4,960x540,30fps. Operation/faults/customer effects only. Entire correct existing v002 James master reused byte-for-byte; no new voice generation for v004. Generic teaching model; no exact OEM internal CAD or independent mechanical certification. Original native/checkpoints preserved. v004 adapts approved Cabin v005 low5.15degree frontal front-left whole-car opening, C2 approach and same-camera in-place fades. Bottom comparison graph and all bottom text removed; useful upper/component labels only. Rear location unchanged. Source native body/chassis: actual Wheel Alignment v003 editable-stage; geometry, world, soft studio lighting and55mm camera direction reused in isolated derivative, front Alignment measurement gear removed. Original v001/v002 files preserved; no new narration. Same underlying vehicle creator DdiazDesign/CC BY-NC-SA4.0; full original Alignment source credits retained in sources/Alignment-v003-source-credits.txt as provenance. Alignment-specific narration, lesson, equipment and diagrams are not reused. No polished render or publication.
