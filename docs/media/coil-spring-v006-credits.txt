@@ -1,0 +1,25 @@
+Coil Spring v006 — Review draft / Awaiting review
+
+Vehicle: 2025 Toyota Camry XV80 Hybrid, Ddiaz Design (DdiazDesign).
+Source: https://sketchfab.com/3d-models/2025-toyota-camry-xv80-hybrid-53f8cbf2483940fba956f4e740a3a4ae
+License: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International.
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+Adaptation: TSMG branding/materials; detailed Alignment chassis; generic installed front MacPherson spring, strut, seats, isolators, knuckle, control arms and linked wheel travel; illustrative retained fractured end coil; white studio and edited camera/graphics. Adapted material shared under CC BY-NC-SA4.0. Original provided as-is without endorsement. Commercial permission is unresolved; this review draft does not establish commercial clearance. Keep full credits when sharing.
+
+Narration: ElevenLabs James — Husky Storyteller, voice EkK5I93UQWFDigLMpZcX, existing single request01a1c7c8-82b7-7200-ab63-0868d1453766. Valid operation/fault/customer-effect segment retained; prior inspection/repair/verification speech removed. No new paid generation or voice cloning. Original procedural score/sound design reused and shortened. No reference music sampled.
+
+Native Blender Eevee geometry:960x540,30fps,4samples,no raytracing/motion blur/cast shadows. Full rough review film, not polished final. No generative image/video enhancement, interpolation or subtitle track. No bottom subtitles, technical tags or progress strip. Only component/context labels.
+
+Mechanical scope: coherent generic front MacPherson installation, not exact Toyota OEM service CAD, individual diagnosis, dynamic simulation or independent engineering certification. Round14.4mm wire, approximately146mm mean diameter,16mm closed end pitch; native constant-section compression with fixed upper mount and connected suspension endpoints. Source-derived lower cup raised25mm to clear the tire; original parts preserved separately. Prescribed18mm wheel input is slowed for clarity. The lower end-coil fault is illustrative; enlarged gap, retained in its seat, shown stationary. Symptoms do not prove cause. No inspection, replacement or repair procedure is shown or recommended.
+
+Manufacturer/training references previously reviewed for this educational model:
+KYB Coil Springs: https://kyb-europe.com/products/coil-springs/
+Monroe manufacturer FAQs: https://www.monroecatalog.com/en-US/shocks-101/faq/
+Nippon Steel Technical Report122: https://www.nipponsteel.com/en/tech/report/pdf/122-20.pdf
+MEYLE spring fracture training: https://assets.eu.ctfassets.net/tw1gcg0wn1me/6F0HlBD4BmYKPuThKPPmRT/22890fd9aa5b1ec7122e35ac31925c30/WHP_Stossdaempfer_A4_L_en.pdf
+
+Visual references: actual published Wheel Alignmentv003 body/chassis and approved Cabinv005 full-car low front-left opening and smooth same-camera endpoint opacity. Older Coilv002 and all original assets preserved. Draft camera/context/story are for user review, not final realism approval.
+
+Revision v005: visibility-only essential-context cleanup. Exhaust manifold shield, formed exhaust/downpipe, oxygen-sensor/thermal details, unrelated fuel tank/drivetrain and broad unused floor/orphaned details clear with body. Full source geometry, native suspension/seat/mount/wire/fault,55mm camera,38s/1140poses and original James mix are retained. Original v004 preserved. True spring/strut/knuckle/arms/cradle/rails/mount context remains. No new TTS.
+
+Revision v006: Both large front tower body-skin cones now clear with body while compact upper seats, attachments and rails remain. Analytic native constant14.4mmround wire with fixed5.15turns/radius profile and closed16mmendpitch; varying activepitch follows actual lowerperch/strutspan, without radial/wire scaling. Fixed upperattachment, connected wheel/knuckle/arms/tierod/axle/hose. Two prescribed18mm smoothlyeased wheelinput cycles plus small controlled return, with synchronized contact pad and brief upper/side travel arrow. 55mm/source full-car opening/fault/customerstory and exact38s James AAC retained; normalfunction framing modestlywider/lower with C2entry/exit toincludecompletewheel andactualroadcontact. All3736originalobjects and source basegeometry are preserved non-destructively. No new TTS. Not dynamic simulation or independent certification. Prior v005 preserved.
