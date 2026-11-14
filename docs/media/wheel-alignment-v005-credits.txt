@@ -1,0 +1,20 @@
+Wheel Alignment — v005 essential-context REVIEW DRAFT
+36 seconds,960x540,native30fps,1080 individually evaluated pictures. Blender Eevee4samples,raytracing/motionblur/castshadows off. Draft picture quality, not final polished production.
+
+Vehicle:2025 Toyota Camry XV80 Hybrid by Ddiaz Design (DdiazDesign).
+Source:https://sketchfab.com/3d-models/2025-toyota-camry-xv80-hybrid-53f8cbf2483940fba956f4e740a3a4ae
+License:Creative Commons Attribution-NonCommercial-ShareAlike4.0 International.
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+Adapted material shared under CC BY-NC-SA4.0. No endorsement implied. Commercial permission unresolved; this study does not establish commercial clearance. Retain attribution/source/license with sharing materials.
+
+TSMG educational adaptation:physical emblems, project-authored generic steering/suspension/chassis, original installed toe/camber/caster/fault examples, camera/fades and graphics. Exact source-role audit clears300unrelated exhaust,heatshield,oxygen-sensor,tank,powertrain and floor details with the body. Actual arms,knuckles,rack,tie rods,cradles,continuous rails,struts and compact upper mounts retained. Measurement fixtures omitted. Bulky front tower body skins clear in-place with surrounding body. No original geometry deleted. Old versions preserved.
+
+Narrator:ElevenLabs James–Husky Storyteller,EkK5I93UQWFDigLMpZcX,existing authorized Alignment narration reused with ZERO newTTS. Sample-exact existing function/angle/fault prefix and customer-effect closing spliced with natural silence; legacy technician measurement/adjustment/recheck/road-test chapters omitted. Narration-only; no borrowed music or external film footage.
+
+Technical references retained from original research:
+MOOG,How Is a Car Alignment Done? https://www.moogparts.com/parts-matter/adjusting-your-car-alignment.html
+MICHELIN,Wheel alignment/wheel balancing https://www.michelin.ie/auto/advice/tyres-care/wheel-alignment-wheel-balancing
+Hunter Engineering,HawkEye Elite https://www.hunter.com/alignment-machines/hawkeye-elite/
+Monroe,strut construction https://www.monroe.com/technical-resources/tech-tips/7-essential-components-every-quality-strut-assembly-needs.html
+
+Generic educational MacPherson-style illustration,not Toyota OEM service CAD or an individual vehicle diagnosis. Toe/camber angles exaggerated and labeled. Caster is steering-axis tilt. Body/tire omissions are visual cutaways,not alignment service removals. Symptoms alone do not identify alignment as the cause. No independent specialist certification claimed. Camera/cached audio/sampling/visibility/native picture identity and actual exported-film QA retained in work folder. Attribution stays in metadata/companion materials,not a persistent on-screen footer or creditsUI. No subtitle tracks or narration subtitles.

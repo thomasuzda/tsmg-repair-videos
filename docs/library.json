@@ -88,19 +88,22 @@
       "id": "wheel-alignment",
       "topic": "Wheel Alignment",
       "title": "Wheel Alignment",
-      "version": "v003",
+      "version": "v005",
       "category": "Tires and Wheels",
-      "description": "Understand toe, camber and caster, then follow four-wheel measurement, an installed tie-rod adjustment and verification.",
-      "note": "Generic alignment teaching illustration. Angles are exaggerated where labeled; procedures and adjustable settings vary by vehicle.",
-      "duration": 68,
-      "file": "media/wheel-alignment-v003-no-subtitles.mp4",
-      "poster": "media/wheel-alignment.jpg",
+      "description": "See what toe, camber and caster mean, and how incorrect wheel angles can affect tire wear and handling.",
+      "note": "Review draft \u00b7 Awaiting review. Complete 540p preview with the approved car opening and smooth fades. Explains operation and possible faults without repair instructions; not a polished final.",
+      "duration": 36,
+      "file": "media/wheel-alignment-v005-review-draft.mp4",
+      "poster": "media/wheel-alignment-v005.jpg",
       "captions": null,
-      "credits": "media/wheel-alignment-credits.txt",
-      "bytes": 21714636,
-      "sha256": "5d365e7b43281285bfbc6e310ef69fd9f3f403498a1a7e0bfc54e3a026d02612",
+      "credits": "media/wheel-alignment-v005-credits.txt",
+      "bytes": 4065470,
+      "sha256": "fa1e654018753642e9409c8f5e636a9ae29ea9a6bb9ef29a6f7945388057be92",
       "fps": "30/1",
-      "caption_free": true
+      "caption_free": true,
+      "stage": "review_draft",
+      "resolution": "540p",
+      "review_status": "Awaiting review"
     },
     {
       "id": "coil-spring",
@@ -816,7 +819,7 @@
       "name": "Wheel Alignment",
       "category": "Tires and Wheels",
       "video_id": "wheel-alignment",
-      "status": "Video saved"
+      "status": "Review draft saved"
     },
     {
       "id": "19-08",
