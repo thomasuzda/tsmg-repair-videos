@@ -1,0 +1,25 @@
+Ball Joint — v007 Review Draft
+
+Vehicle: 2025 Toyota Camry XV80 Hybrid
+Creator: Ddiaz Design / DdiazDesign
+Source: https://sketchfab.com/3d-models/2025-toyota-camry-xv80-hybrid-53f8cbf2483940fba956f4e740a3a4ae
+License: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+Legal text: https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.en
+
+TSMG educational adaptation: project-authored detailed chassis, underbody and suspension imported read-only from Wheel Alignment v003 editable-stage (SHA661f4eb6a821f432aedfcd6fa21682a7135dca6621581d2a9b21bd0a314b3e9c), with original source Camry exterior and independent geometry retained in the editable derivative. All alignment measurement equipment omitted. Accepted source-derived detailed front-right ball/stud/socket/liner/boot and grease example imported from Ball Joint v005; original rectangular teaching rails omitted. Native camera, installed cutaways, fault animation, component graphics, source-material adaptation and editing. Adapted vehicle material shared under CC BY-NC-SA4.0; no endorsement or OEM certification. Original supplied as-is. Preserve attribution and accompanying source/license links when sharing. Commercial permission remains unresolved.
+
+Narration: existing approved ElevenLabs Adam, American English, Eleven v4 source from Ball Joint v005. Only valid function/fault/symptom sentences reassembled at unchanged native pace. Zero new voice takes, no voice cloning. Original project-authored quiet score reused; no borrowed reference-video speech/music/branding. Removed replacement/restoration, parts/labor/alignment charges and technician-itemization content.
+
+Presentation: approved Cabin v005 low frontal/front-left5.15degree55mm complete-car opening; calm C2 camera arrivals and in-place same-camera endpoint opacity. Tire stays fitted to its actual hub and knuckle throughout the virtual cutaway. Native960x540,30fps,Eevee4 review draft, not polished final quality. No raytracing, motion blur, cast shadows, optical interpolation, bottom text, embedded subtitle tracks or onscreen credit UI.
+
+Technical scope: generic educational joint reconstruction, not Toyota OEM internal CAD or vehicle-specific diagnosis. Normal steering pivot is distinct from exaggerated worn free play. A torn boot can allow grease loss and contamination; not every worn joint leaks. Clunks, steering looseness and uneven tire wear can have other causes. Severe separation/loss of wheel control is a possible severe outcome, not every worn joint. The severe knuckle/wheel swing retains its upper-mount pivot while the lower joint may separate. No repair instructions or shop promises. No independent mechanical certification.
+
+Primary sources reviewed2026-11-14 UTC:
+https://www.moogparts.com/parts-matter/all-about-ball-joints.html
+https://www.moogparts.com/parts-matter/symptoms-of-bad-ball-joints.html
+https://www.moogparts.com/en-eu/support/the-problem-solver/technical-support/educational-articles/why-how-ball-joint-replacement.html
+
+Original source native files, media, narration and checkpoints preserved. Main alone owns publication of this reviewed draft; no publication or shared UI/catalog change performed by the Ball Joint owner.
+
+v007 visibility correction: unrelated exhaust/downpipe/heat shields/O2/hangers, fuel tank/straps, broad unused floor sheets and disconnected engine/drivetrain-only context clear in place with the body. Original complete-car opening, actual steering/suspension/joint geometry, camera/poses/timing/materials and exact Adam mix retained. All original v006 assets preserved. Changed teaching ranges newly rendered; unchanged source prefix reused with documented encoding scope.
