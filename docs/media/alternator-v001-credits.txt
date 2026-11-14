@@ -1,0 +1,24 @@
+Alternator v001 — First take / Awaiting review
+
+Vehicle: 2025 Toyota Camry XV80 Hybrid by Ddiaz Design (DdiazDesign).
+Source: https://sketchfab.com/3d-models/2025-toyota-camry-xv80-hybrid-53f8cbf2483940fba956f4e740a3a4ae
+License: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International.
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+TSMG adaptation: approved detailed Alignment v007 car/chassis/source-fitted floor, cabin, seats, dashboard, steering and map display; prepared Accessory Drive Belt v002 r03 concentric engine/accessory installation. Added generic conventional alternator rotating Lundell-style rotor, field winding, interleaved pole claws, fixed sectional stator laminations/windings, six-diode rectifier, slip rings/brush-holder/regulator and protected charging cable/ground. Original actual case, pulley, brackets, belt route and car materials retained. A local native section window in derivative engine-head/block/timing-cover copies clears overlapping source context for the interior teaching view; original source meshes are preserved. All 119 inherited alignment apparatus meshes are omitted in both opaque/hidden endpoints. No visible source credit band or Credits UI. Adapted material retains CC BY-NC-SA4.0 conditions; commercial permission unresolved. No clearance or source endorsement claimed.
+
+Narrator: James – Husky Storyteller, ElevenLabs voice EkK5I93UQWFDigLMpZcX. Exactly one authorized full narration take, request 01a1d9b8-9cb0-7d62-9be1-99c2252f4c07, endpoint elevenlabs/tts/eleven-v4, stability0.65/similarity0.75/seed801001. Original take preserved; slight uniform tempo adjustment and short lead/tail fit the60second First take. Delivery gain +3dB; no music or voice clone.
+
+Primary factual references:
+DENSO Starters & Alternators Technical Manual snapshot bulletin, July2017, pp6–8: rotating rotor field and fixed stator, three-phase AC generation, six-diode full-wave rectification, field-current regulation.
+https://assets.denso-am.eu/production/attachments/Starter-Alternator-Technical-Manual-English.pdf
+DENSO Alternator troubleshooting,31March2022: engine/accessory-belt drive, electrical loads and battery recharge, battery supplies demand exceeding alternator output; connections/belt/diodes/control issues and possible warning indications.
+https://www.denso-am.eu/news/alternator-troubleshooting
+Saved direct references and exact claim mapping in sources/supported-claims.json. Established normal function is stated plainly; symptoms are possible effects, not proof of a failed alternator.
+
+Technical illustration scope: generic conventional gasoline12V starting/charging system, not a hybrid high-voltage system or Toyota OEM service CAD. Internals are editable educational geometry with illustrative section clearances, not independently certified hardware or dimensional OEM CAD. A stationary near-side stator section is omitted for visibility; poles/shaft remain rotating inside a separate fixed stator. Rotation is slowed for clarity, with pulley ratio/belt travel prescribed consistently. Small moving arrowheads represent schematic electrical direction rather than fluid. Fewer arrows illustrate lower electrical output from an internal fault while engine/belt/rotor keep turning; no unverified diode-specific diagnosis or numerical voltage/current threshold. Regulator is mounted behind the rotor; the field-control callout points to its controlled rotor field rather than claiming the rear electronics are unobstructed.
+
+Local Metal Blender Eevee,960x540 native30fps,4samples,no raytracing/motion blur/cast shadows. All1800 pictures use actual same-time native poses with smooth same-camera opaque/hidden endpoint blends. Static render batching preserves evaluated geometry/materials/pivots, with physical glazing and moving assemblies separate. No motion interpolation, narration subtitles, embedded text/caption track, bottom tags/graphs/progress, service tutorial, tool sequence, pricing or shop-action promise.
+
+CPU-only text corrections: the pulley label clears at8.2seconds as the pulley/case fade starts, rather than pointing at the exposed rotor shaft.  the43.6–49.5second callout identifies the actual visible DC charging output, replacing a pointer to an occluded battery location. Exact same-index clean native plates used; all native PNGs remain unchanged and all pixels outside the callout/leader regions are verified exact.
+
+Quick rough First take for user review, not polished final. Full source/native/audio/checkpoints and failed attempts preserved. Main Video Control alone publishes this actual reviewed movie and attribution to the existing public review library. No automatic next topic or polished render.

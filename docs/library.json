@@ -294,6 +294,28 @@
       "review_status": "Awaiting review",
       "caption_free": true,
       "take_label": "First take"
+    },
+    {
+      "id": "alternator",
+      "topic": "Alternator",
+      "title": "Alternator",
+      "version": "v001",
+      "category": "Electrical",
+      "description": "See how a belt-driven alternator generates electricity for the car and replenishes its battery, and what reduced charging output can cause.",
+      "note": "Review draft \u00b7 Awaiting review. Complete 540p preview with the approved car opening and smooth fades. Explains operation and possible faults without repair instructions; not a polished final.",
+      "duration": 60,
+      "file": "media/alternator-v001-review-draft.mp4",
+      "poster": "media/alternator-v001.jpg",
+      "captions": null,
+      "credits": "media/alternator-v001-credits.txt",
+      "bytes": 10535007,
+      "sha256": "5db7d7c70d40a67abe58e359191cd1fa0a3fef56ba816ce60473ab256a8752fe",
+      "fps": "30/1",
+      "stage": "review_draft",
+      "resolution": "540p",
+      "review_status": "Awaiting review",
+      "caption_free": true,
+      "take_label": "First take"
     }
   ],
   "topics": [
@@ -469,8 +491,8 @@
       "id": "08-01",
       "name": "Alternator",
       "category": "Electrical",
-      "video_id": null,
-      "status": "To build"
+      "video_id": "alternator",
+      "status": "Review draft saved"
     },
     {
       "id": "08-02",
