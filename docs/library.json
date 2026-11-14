@@ -272,6 +272,28 @@
       "review_status": "Awaiting review",
       "caption_free": true,
       "take_label": "First take"
+    },
+    {
+      "id": "wheel-bearing",
+      "topic": "Wheel Bearing",
+      "title": "Wheel Bearing",
+      "version": "v002",
+      "category": "Tires and Wheels",
+      "description": "See how the hub bearing supports the wheel while letting it rotate, and how raceway wear can lead to roughness, noise or play.",
+      "note": "Review draft \u00b7 Awaiting review. Complete 540p preview with the approved car opening and smooth fades. Explains operation and possible faults without repair instructions; not a polished final.",
+      "duration": 60,
+      "file": "media/wheel-bearing-v002-review-draft.mp4",
+      "poster": "media/wheel-bearing-v002.jpg",
+      "captions": null,
+      "credits": "media/wheel-bearing-v002-credits.txt",
+      "bytes": 12872812,
+      "sha256": "a0642d57d8e1bcb40f68b6486d9150c458e67ba560937304650201c2e1aed8e5",
+      "fps": "30/1",
+      "stage": "review_draft",
+      "resolution": "540p",
+      "review_status": "Awaiting review",
+      "caption_free": true,
+      "take_label": "First take"
     }
   ],
   "topics": [
@@ -854,8 +876,8 @@
       "id": "19-09",
       "name": "Wheel Bearing",
       "category": "Tires and Wheels",
-      "video_id": null,
-      "status": "To build"
+      "video_id": "wheel-bearing",
+      "status": "Review draft saved"
     },
     {
       "id": "20-01",

@@ -1,0 +1,22 @@
+Wheel Bearing v002 — First take / Awaiting review
+
+Vehicle:2025 Toyota Camry XV80 Hybrid by Ddiaz Design(DdiazDesign).
+Source:https://sketchfab.com/3d-models/2025-toyota-camry-xv80-hybrid-53f8cbf2483940fba956f4e740a3a4ae
+License:Creative Commons Attribution-NonCommercial-ShareAlike4.0 International.
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+Adaptation:TSMG physical badges/materials; actual detailed Wheel Alignmentv007 car/chassis and source-fitted floor/cabin/dashboard/seats/steering; generic conventional gasoline sedan driven front Gen3-style sealed double-row angular-contact hub. Added raceways,caged rolling elements,seals,grease film,CV splines and fixed bolted mounting/knuckle bore; native rotation,virtual cutaway,pitting illustration,camera/white studio/editing. Adapted material remainsCC BY-NC-SA4.0. No OEMendorsement or independent mechanical certification. Commercial permission unresolved. Keep complete credits with shared copies; offscreenmetadata/companion attribution, noCreditsUI/persistentband.
+
+Narration:ElevenLabs James—Husky Storyteller,voiceEkK5I93UQWFDigLMpZcX; single authorized take via elevenlabs/tts/eleven-v4,request01a1d983-221c-7db0-9e21-62193f2b2806. Original65.306second audio retained.10.7percent tempo adjustment,0.25secondlead and shortendpad fit60second Firsttake. Narration only, no music, voice cloning or borrowedfilmvoice.
+
+Native Blender Eevee Firsttake:960x540/30fps/4samples,localMetal,no raytracing/motionblur/castshadows.1800actual integer native poses; smooth paired same-camera endpoint fades. Native plates and per-picture fsyncedsource-frame/evaluatedstate/identity/SHA records retained. No AI interpolation,frozen changing poses,subtitles/captiontracks/bottomtags/progresscharts/service instructions/shop promises.
+
+Mechanical scope:generic driven front sealedGen3hub,not Toyota/hybrid OEMserviceCAD.24steelballs in two opposed angular-contact rows,cages preserve spacing; stationary outer housing fixed toknuckle,innerhub/flange/rotor coupled toCVspline. Idealized slow prescribed no-slip bearing kinematics,not validated contact-force/slip dynamics. Source body/chassis are context. Virtual cutaway removes material for teaching; not a service operation. Localized pitting depth enlarged for visibility; no implied universal sound/looseness diagnosis or safe-driving verdict.
+
+Primary manufacturer technical references,verified2026-11-14 and saved with claim ledger:
+NSK HubIII:https://www.nsk.com/eu-en/products/automotive/automotive-oem/products/chassis/product-1/hub-iii/
+NSK damage/flaking:https://www.nsk.com/tools-resources/abc-bearings/damage-and-countermeasures/
+Timken symptoms:https://www.timken.com/wp-content/uploads/2019/10/Timken-TechTips-LV5-Symptoms-of-a-Worn-Wheel-Hub-Bearing.pdf
+NTN/BCA overlapping tire/brake/CV noise:https://bcabearings.com/videos/whats-causing-that-noise-isolating-wheel-bearing-noise-from-tires-brakes-and-other-components/
+Timken independent roughness/noise/play indications:https://www.timken.com/wp-content/uploads/2017/08/LV3-Checking-Hub-Assembly.pdf
+
+All original native/Cycles/Eevee/proofs/audio/legacyHOLDhistory preserved. This is an away-authorized quick Firsttake for review, not polished final. Main alone publishes and advances focus.
