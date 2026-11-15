@@ -360,6 +360,28 @@
       "review_status": "Awaiting review",
       "caption_free": true,
       "take_label": "First take"
+    },
+    {
+      "id": "control-arm-bushing",
+      "topic": "Control Arm Bushing",
+      "title": "Control Arm Bushing",
+      "version": "v001",
+      "category": "Suspension",
+      "description": "How bonded rubber supports control-arm movement, and how torn rubber can allow excess movement and affect wheel position.",
+      "note": "Review draft \u00b7 Awaiting review. Complete 540p preview with the approved car opening and smooth fades. Explains operation and possible faults without repair instructions; not a polished final.",
+      "duration": 60,
+      "file": "media/control-arm-bushing-v001-review-draft.mp4",
+      "poster": "media/control-arm-bushing-v001.jpg",
+      "captions": null,
+      "credits": "media/control-arm-bushing-v001-credits.txt",
+      "bytes": 5197021,
+      "sha256": "3409270b2c2198b44d14f6be96c5f98f5868a5e3f4e597691b12f012df3f0ea0",
+      "fps": "30/1",
+      "stage": "review_draft",
+      "resolution": "540p",
+      "review_status": "Awaiting review",
+      "caption_free": true,
+      "take_label": "First take"
     }
   ],
   "topics": [
@@ -851,8 +873,8 @@
       "id": "18-03",
       "name": "Control Arm Bushing",
       "category": "Suspension",
-      "video_id": null,
-      "status": "To build"
+      "video_id": "control-arm-bushing",
+      "status": "Review draft saved"
     },
     {
       "id": "18-04",

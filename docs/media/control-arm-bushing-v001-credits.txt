@@ -1,0 +1,25 @@
+Control Arm Bushing v001 — First take / Awaiting review
+TSMG automotive customer explainer.60seconds/native960x540/30fps; quick Eevee4 review quality, not polished final.
+
+Vehicle:2025 Toyota Camry XV80 Hybrid by Ddiaz Design (DdiazDesign).
+Source:https://sketchfab.com/3d-models/2025-toyota-camry-xv80-hybrid-53f8cbf2483940fba956f4e740a3a4ae
+License:Creative Commons Attribution-NonCommercial-ShareAlike4.0 International.
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+Adaptation:TSMG physical emblems/materials; generic detailed Alignment/Camry-based suspension and fitted floor/cabin/dash/seats/steering/navigation display, imported read-only from the verified Sway Bar v001 native. Existing pressed control arms, exact outer ball joints, knuckles, springs/dampers, rack/tie rods, connected front and rear chassis retained. New installed annular bushing sleeve/rubber/bolt/compact clamp detail follows actual donor front/rear arm-mount centers. Adapted material shared underCC BY-NC-SA4.0. Source provided as-is, no endorsement. Commercial permission unresolved; no clearance claimed. Attribution retained offscreen in movie metadata and this companion; no CreditsUI.
+
+Narration:ElevenLabs James—Husky Storyteller,voiceEkK5I93UQWFDigLMpZcX. One necessary fulltake,elevenlabs/tts/eleven-v4 request01a1dd33-0a30-7ec1-a672-d853ef2accbe. Stability.5/similarity.75. Original raw take/request/character timestamps preserved. Source tempo unchanged, controlled voice at -16LUFS; no artificial mechanical impacts. No narration subtitles, bottom tags/progress, caption tracks or SRTlinks.
+
+Model scope:generic bonded rubber-metal longitudinal control-arm bushing arrangement adapted to Camry artwork; NOT Toyota OEM serviceCAD, confirmed application dimensions or independently validated dynamics. Donor front/rear arm pivot axes and fixed subframe mounts audited. The near upper clamp/washer is sectioned in place to reveal the bonded interfaces; lower and rear fixed mounting context remains. Inner sleeves and mounting bolts stay fixed. Outer sleeves follow the existing arm; rubber inner surface stays bonded to the fixed sleeve while its outer surface follows the arm. Actual missing radial rubber sector exposes torn surfaces in the fault example. Small illustrative extra compliance around the rear mount alters front bushing/arm/wheel position while keeping the arm, joint and wheel connected. Normal wheel travel and fixed-length steering linkage use the actual source kinematic relationships. Possible handling/noise/tire-wear effects overlap other faults; no individual diagnosis, repair/service/test/inspection instructions, prices or shop promises.
+
+Native process:1800integer-time pictures evaluated explicitly at their own frame; same-camera opaque/hidden endpoint renders combined with C2 in-place fades, original PBR/glass/analytic studio-floor MIX graphs preserved, transparent-film render alpha-over-white. No generative enhancement, interpolation, frozen changing states or oldtopic picture reuse. All119 exact alignment-apparatus roles omitted throughout; bulky spring tower covers and unrelated exhaust shield/upturned pipe clear with body. Actual mounts/rails/cradle and useful fitted context retained. All Ball originals/media/native/audio/checkpoints/HOLD remain untouched. The corrected complete film uses one whole localMetal GPU lease; preceding125 gate pictures/native/QA were preserved after a safe between-child hold for two measured clamp attachment feet. No failed picture-child automatic retry. Explicitpriority0/reserve40GiB/capacity1; fresh sequential native children at most60pictures, atomically saved/fsynced pictures with own native index/state/identity/SHA. Dynamic remaining-write budget includes necessary encode/QA/publication and .25GiB above hard40GiB reserve. No automatic failedpicture-child retry or optional ZIP.
+
+Primary manufacturer references reviewed:
+Delphi — When to replace steering and suspension bushings:
+https://www.delphiautoparts.com/products-technologies/braking-steering-suspension/steering-suspension/chassis/rubber-to-metal-parts/when-to-replace-steering-and-suspension-bushings
+MOOG — Troubleshooting vertical control arm bushing failure:
+https://www.moogparts.com/technical/bulletins/tech-tips/troubleshooting-vertical-control-arm-bushing-failure.html
+MOOG — Signs & Symptoms of a Failing Control Arm:
+https://www.moogparts.com/parts-matter/Signs-of-a-Failing-Control-Arm.html
+Saved source-specific claim ledger/native audit accompanies editable project; source service guidance not taught.
+
+Review scope:actual native stills/consecutive normal-speed motion/full encoded visuals reviewed; full audio/video decode and cadence checked. Browser review muted; no independent audible listening or GUI/iPhone playback claim. Main alone adds exact reviewed First take/Awaiting review. Owner WAITFOCUS after delivery, no auto-next or polish.
