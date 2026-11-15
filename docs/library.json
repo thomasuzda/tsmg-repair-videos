@@ -382,6 +382,28 @@
       "review_status": "Awaiting review",
       "caption_free": true,
       "take_label": "First take"
+    },
+    {
+      "id": "brake-caliper-piston",
+      "topic": "Brake Caliper Piston",
+      "title": "Brake Caliper Piston",
+      "version": "v001",
+      "category": "Brakes",
+      "description": "How a caliper piston turns fluid pressure into pad force, and how corrosion or sticking can cause brake drag.",
+      "note": "Review draft \u00b7 Awaiting review. Complete 540p preview with the approved car opening and smooth fades. Explains operation and possible faults without repair instructions; not a polished final.",
+      "duration": 60,
+      "file": "media/brake-caliper-piston-v001-review-draft.mp4",
+      "poster": "media/brake-caliper-piston-v001.jpg",
+      "captions": null,
+      "credits": "media/brake-caliper-piston-v001-credits.txt",
+      "bytes": 5149379,
+      "sha256": "5e1802fbe103099c81e264d633c8166c7e161c6dbef5da6ff08a708fdc29404f",
+      "fps": "30/1",
+      "stage": "review_draft",
+      "resolution": "540p",
+      "review_status": "Awaiting review",
+      "caption_free": true,
+      "take_label": "First take"
     }
   ],
   "topics": [
@@ -403,8 +425,8 @@
       "id": "02-02",
       "name": "Brake Caliper Piston",
       "category": "Brakes",
-      "video_id": null,
-      "status": "To build"
+      "video_id": "brake-caliper-piston",
+      "status": "Review draft saved"
     },
     {
       "id": "02-03",

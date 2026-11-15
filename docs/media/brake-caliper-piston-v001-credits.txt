@@ -1,0 +1,25 @@
+Brake Caliper Piston v001 — First take / Awaiting review
+TSMG automotive customer explainer.60seconds/native960x540/30fps; quick Eevee4 review quality.
+
+Vehicle:2025 Toyota Camry XV80 Hybrid by Ddiaz Design (DdiazDesign).
+https://sketchfab.com/3d-models/2025-toyota-camry-xv80-hybrid-53f8cbf2483940fba956f4e740a3a4ae
+License:Creative Commons Attribution-NonCommercial-ShareAlike4.0 International.
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+Adaptation:TSMG emblems/materials and source-fitted detailed installed Camry context from frozen Sway Bar v001 / Alignmentv007. Original source preserved; source-derived caliper/piston/pad/seal/boot display sections and two compact fitted carrier webs added for this derivative. Adapted material shared underCC BY-NC-SA4.0. No endorsement. Commercial permission unresolved; no clearance claimed. Attribution retained offscreen in metadata and companion only; no CreditsUI.
+
+Narration:ElevenLabs James—Husky Storyteller,voiceEkK5I93UQWFDigLMpZcX. One necessary fulltake request01a1dd6e-73c4-7ce0-af25-4c4b773742e9. Original raw take/request/character timestamps preserved. Source tempo unchanged; controlled voice only, no music/artificial impacts. No narration subtitles, bottom text/tags/progress, caption tracks or SRTlinks.
+
+Model scope:generic source-fitted single-piston floating caliper, not Toyota OEM serviceCAD, confirmed application dimensions or independently validated dynamics. Actual rotor/pads/bracket/upright/piston/seal/boot/hose retained. Mesh triangle intersections audit the mounting spine/knuckle, guides/housing and compact carrier webs. Upper-half source mesh display section stays installed; never an extraction or service procedure. Hydraulic chamber shows contained pressurized fluid, not circulation. Piston loads inner pad; caliper reaction brings outer pad in along guides. Illustrative small seal deformation accompanies release. Dust boot damage/corrosion and a sticking piston demonstrate one possible drag/heat/wear mechanism; no particular-car diagnosis, repair/service/testing/inspection steps, prices or shop promises. Possible effects can have other causes.
+
+Native process:1800integer-time pictures evaluated explicitly at their own30fps source frame. Calm55mm subject-side opening/direct approach/return; same-camera opaque/hidden endpoint plates provide smooth C2 in-place context and display-section fades. All119 measurement-apparatus names andWA6 families absent throughout; all4 bulky tower covers omitted. Exhaust heatshield/upturned pipe and unrelated powertrain/body clutter clear with whole-car context. Real compact mounting context and detailed cabin/floor/seats/dash/steering/map display retained. Physical glazing/analytic floor MIX graphs retained; transparent native film composited over white. No generative enhancement, interpolation or oldtopic image reuse. One localMetal whole-producer lease priority0/reserve40GiB/capacity1, sequential fresh native children<=60pictures; fsynced atomic finalPNG/nativeindex/evaluatedcontrols/identity/SHA before advance; no automatic failed-child retry. Dynamic budget includes all necessary remaining writes+.25GiB above hard40GiB. No optionalZIP/nativecache copies.
+
+Primary manufacturer references reviewed:
+Brembo — Brake caliper technology and operation:
+https://asia.bremboparts.com/america/en/support/car/insights/brake-caliper-technology-and-operation-324333
+Brembo — Repair kits for brake calipers:
+https://www.bremboparts.com/america/en/support/car/insights/repair-kits-for-brake-calipers-207813
+HELLA — Brake Guideline, page28 (damaged boot/corrosion, jammed piston/pad overheating):
+https://www.hella.com/forvia-us/assets/documents/2026_HELLA_Brakes_Guideline_Pagid_Brochure_LRes.pdf
+Saved claim ledger accompanies native audit. Manufacturer service guidance is not taught.
+
+Review scope:actual native stills/consecutive normal-speed motion and full encoded visuals reviewed. Full audio/video decode/cadence/source-order/fidelity checks. Browser review muted; no independent audible listening or GUI/iPhone playback claim. Main alone adds exact reviewed First take/Awaiting review. Owner WAITFOCUS after delivery, no auto-next or polish.
