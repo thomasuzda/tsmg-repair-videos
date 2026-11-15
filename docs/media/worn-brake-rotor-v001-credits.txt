@@ -1,0 +1,25 @@
+Worn Brake Rotor v001 — First take / Awaiting review
+TSMG automotive customer explainer.45seconds/native960x540/30fps; quick Eevee4 review quality.
+
+Vehicle:2025 Toyota Camry XV80 Hybrid by Ddiaz Design (DdiazDesign).
+https://sketchfab.com/3d-models/2025-toyota-camry-xv80-hybrid-53f8cbf2483940fba956f4e740a3a4ae
+License:Creative Commons Attribution-NonCommercial-ShareAlike4.0 International.
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+Adaptation:TSMG emblems/materials and detailed installed Camry context from frozen Swayv001/Alignmentv007 and BrakeCaliperPistonv001. Original sources retained. New source-fitted rotor friction faces animate axial material loss and circular scoring; source hat/48vanes/hub/caliper/pads/real compact mounting remain installed. Derivative uses original rotor local basis, no arbitrary global offset. Adapted material shared underCC BY-NC-SA4.0. No endorsement. Commercial permission unresolved; no clearance claimed. Attribution offscreen in metadata/companion; no CreditsUI.
+
+Narration:ElevenLabs James—Husky Storyteller,voiceEkK5I93UQWFDigLMpZcX. One necessary fulltake request01a1e06b-51fc-7840-a463-4c8d3cf92b1e. Original take/recipe/character timestamps preserved. Source tempo unchanged; controlled voice only, no music or artificial impacts. No narration subtitles, bottom text/tags/progress, caption tracks or SRTlinks.
+
+Model scope:generic source-fitted ventilated rotor, not Toyota OEM serviceCAD/dimensions or validated heat/wear/vehicle dynamics. Prescribed low-speed disc rotation slows with pad loading. Native shape keys remove actual outer-face material and form radial grooves as an accelerated accumulated-life comparison, not damage from a single stop. Internal plate-to-vane contact planes remain fixed, positive plate thickness remains, pads follow material loss. Actual finite triangle contact patches/shared local planes and evaluated transforms audited on both sides/all48vanes. Original source contact area is about85%of each vane cap, retained unchanged; candidate friction plates cover full footprints. This is a model attachment check, not engineering certification or universal100%bond claim. Possible noise/increased wear/reduced braking from scoring; no individual diagnosis or repair/service/testing/measurement/shop instructions/prices/promises.
+
+Native process:1350actual integer-time30fps pictures, no motion interpolation/frozen rotor/old-topic picture reuse. Same-side calm55mm/5.15degree whole-car opening/directC2approach/return, context and entire wheel fade in place using exact same-time/same-camera opaque/hidden native endpoints. All119 alignment-apparatus andWA6 families/4bulky tower covers absent; unrelated exhaust/powertrain/body clutter clears, useful compact mounts/rails/hose/cabin/floor/seats/dashboard/steering retained. Original glazing/analyticfloor MIX graphs and nativefilmtransparent alpha-over-white retained. Single localMetal whole-producer priority0/reserve40GiB/capacity1lease; sequentialfreshchildren<=60pictures, each finalPNG/sourceindex/evaluatedcontrols/identitySHA atomicallyfsynced before progress. No automatic failed-child retry; all original r01/r03 failures and r02 diagnostic evidence preserved. Explicit r04 corrected only original-source full-cap-coverage audit overconstraint, retaining raw85%source baseline and all other contact criteria. Hard40GiB+.25margin/allremainingwritebudget retained, no optionalZIP/sourcecache copies.
+
+Primary manufacturer references reviewed:
+HELLA — Brake disks (friction/heat/ventilation/material wear):
+https://www.hella.com/techworld/en/ti/brake-disks/
+HELLA — Failure modes of brake discs and brake pads (friction-ring grooves: foreign debris, possible noise/increased wear/reduced braking):
+https://www.hella.com/techworld/en/technical/brakes/diagnosing-brake-problems/
+Brembo — Brake Disc Guide (wear and deep scoring categories):
+https://www.bremboparts.com/en/media/page/documents/8b6fd884-e07b-4e99-96b2-16c493862e44
+Manufacturer service instructions are not taught. Claim ledger and actual source-geometry QA retained with the native.
+
+Review scope:actual native stills/consecutive normal-speed motion and full encoded visuals; full A/V decode/cadence/source-order/audiofidelity. Complete normal1x browser review muted; no independent audible audition, engineering certification or live Blender/iPhone playback claim. Main alone publishes exact Firsttake/Awaitingreview; owner WAITFOCUS after delivery, no automatic next/polish.

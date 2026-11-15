@@ -448,6 +448,28 @@
       "review_status": "Awaiting review",
       "caption_free": true,
       "take_label": "First take"
+    },
+    {
+      "id": "worn-brake-rotor",
+      "topic": "Worn Brake Rotor",
+      "title": "Worn Brake Rotor",
+      "version": "v001",
+      "category": "Brakes",
+      "description": "How a ventilated brake rotor works, and how accumulated friction-face wear and scoring can affect braking.",
+      "note": "Review draft \u00b7 Awaiting review. Complete 540p preview with the approved car opening and smooth fades. Explains operation and possible faults without repair instructions; not a polished final.",
+      "duration": 45,
+      "file": "media/worn-brake-rotor-v001-review-draft.mp4",
+      "poster": "media/worn-brake-rotor-v001.jpg",
+      "captions": null,
+      "credits": "media/worn-brake-rotor-v001-credits.txt",
+      "bytes": 5098158,
+      "sha256": "efd836f8e0bf62604bb771c5a4bfdcb4567bea005be6b7b6c7243e3292e15a3d",
+      "fps": "30/1",
+      "stage": "review_draft",
+      "resolution": "540p",
+      "review_status": "Awaiting review",
+      "caption_free": true,
+      "take_label": "First take"
     }
   ],
   "topics": [
@@ -497,8 +519,8 @@
       "id": "02-06",
       "name": "Worn Brake Rotor",
       "category": "Brakes",
-      "video_id": null,
-      "status": "To build"
+      "video_id": "worn-brake-rotor",
+      "status": "Review draft saved"
     },
     {
       "id": "03-01",
