@@ -1,0 +1,11 @@
+Starter Motor | First take / Awaiting review
+TSMG customer mechanism and fault illustration, 2026-11-15. 60 seconds; native960x540/30fps Blender Eevee4 review draft. Local Metal GPU only.
+Vehicle context: "2025 Toyota Camry XV80 Hybrid" by Ddiaz Design / DdiazDesign.
+https://sketchfab.com/3d-models/2025-toyota-camry-xv80-hybrid-53f8cbf2483940fba956f4e740a3a4ae
+Source vehicle licensed CC BY-NC-SA4.0: https://creativecommons.org/licenses/by-nc-sa/4.0/
+Commercial permission remains unresolved. Vehicle-derived adaptations are provided subject to applicable source attribution/noncommercial/share-alike terms; no additional permission is implied.
+Adaptation: detailed TSMG car/cabin/studio context and a generic illustrative conventional12V starter, solenoid contacts/armature/field/drive fork/overrunning drive/pinion/ring gear. Not the donor hybrid's exact OEM starting architecture, dimensions, service CAD, mechanical certification, or validated load/dynamic simulation. Motion is deliberately slowed for explanation; no repair/service instructions.
+Primary factual references: DENSO Starters & Alternators Technical Manual snapshot, July2017, pages3-5: https://assets.denso-am.eu/production/attachments/Starter-Alternator-Technical-Manual-English.pdf ; DENSO Starter troubleshooting: https://www.denso-am.eu/news/starter-troubleshooting
+Narrator: James – Husky Storyteller, ElevenLabs voice EkK5I93UQWFDigLMpZcX, one authorized Eleven v4 take via connected fal service. Tempo adjusted without pitch shift; no voice cloning, no background music.
+Burnt solenoid contacts are ONE illustrative fault; clicking/no-cranking may also involve battery, connections, wiring/control circuit or mechanical causes. Symptoms alone do not identify a failed part.
+No narration subtitles, subtitle tracks or persistent credit band. Full attribution is supplied here and in movie metadata.

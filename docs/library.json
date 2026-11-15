@@ -426,6 +426,28 @@
       "review_status": "Awaiting review",
       "caption_free": true,
       "take_label": "First take"
+    },
+    {
+      "id": "starter-motor",
+      "topic": "Starter Motor",
+      "title": "Starter Motor",
+      "version": "v001",
+      "category": "Electrical",
+      "description": "Shows conventional starter pinion engagement, solenoid contacts and motor operation, then how burnt contacts can prevent cranking. Symptoms alone do not confirm the cause.",
+      "note": "Review draft \u00b7 Awaiting review. Complete 540p preview with the approved car opening and smooth fades. Explains operation and possible faults without repair instructions; not a polished final.",
+      "duration": 60,
+      "file": "media/starter-motor-v001-review-draft.mp4",
+      "poster": "media/starter-motor-v001.jpg",
+      "captions": null,
+      "credits": "media/starter-motor-v001-credits.txt",
+      "bytes": 7704468,
+      "sha256": "38b53d1c9157926bbf73b0d18da672a638dec226d3b7983a02fd1803ccfecca5",
+      "fps": "30/1",
+      "stage": "review_draft",
+      "resolution": "540p",
+      "review_status": "Awaiting review",
+      "caption_free": true,
+      "take_label": "First take"
     }
   ],
   "topics": [
@@ -629,8 +651,8 @@
       "id": "08-05",
       "name": "Starter Motor",
       "category": "Electrical",
-      "video_id": null,
-      "status": "To build"
+      "video_id": "starter-motor",
+      "status": "Review draft saved"
     },
     {
       "id": "09-01",
