@@ -1,0 +1,27 @@
+Cracked Radiator Hose v001 — First take / Awaiting review
+TSMG customer explainer.60seconds/native960x540/30fps; quick Eevee4 draft, not polished final.
+
+Vehicle:2025 Toyota Camry XV80 Hybrid by Ddiaz Design (DdiazDesign).
+Source:https://sketchfab.com/3d-models/2025-toyota-camry-xv80-hybrid-53f8cbf2483940fba956f4e740a3a4ae
+License:Creative Commons Attribution-NonCommercial-ShareAlike4.0 International.
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+Adaptation:TSMG physical emblems/materials; actual detailed Camry-based Alignmentv007/Swayv001 fitted body/cabin/floor/dashboard/seats/steering/map display; generic conventional gasoline engine/radiator/coolant context from Thermostatv002; NEW source-fitted curved hollow reinforced hose, true through-wall mesh crack, attached hollow nipples and full stainless bands/captive screw housings. Modified material shared under CC BY-NC-SA4.0. Source provided as-is, no endorsement. Commercial permission unresolved; no clearance claimed. Attribution in metadata/companion only, no CreditsUI or model upload.
+
+Narration:ElevenLabs James—Husky Storyteller,voiceEkK5I93UQWFDigLMpZcX. One necessary fulltake,elevenlabs/tts/eleven-v4 request01a1dda9-c117-79d3-8441-c1cbcc4ea199. Natural tempo unchanged, normalized -20LUFS/-2dBTP, padded for calm car return to60s; no repeated paidtake, no borrowed soundtrack or fake leak noise. Raw MP3/mixed WAV/script/returned character timing landmarks retained. No narration captions/bottomtags/graphs/progress/SRT/subtitle tracks.
+
+Generic illustrative mechanics:water pump moves coolant; hose contains it between installed engine outlet and radiator; radiator releases heat. A temporary same-place wall section exposes contained coolant and embedded textile reinforcement. Example crack is a real opening through inner and outer mesh surfaces, not a painted image. Prescribed restrained droplets illustrate escape; no CFD, pressure/flow rating, exactOEM dimensions, certification or individual diagnosis. Wetness/coolant loss/overheating are possible overlapping effects. No inspection, testing, repair, replacement, hot-cap opening, refill/bleed, pricing or shop promises. The donor vehicle exterior does not certify the generic cooling architecture as Toyota/hybrid OEM CAD.
+
+Primary sources checked 15November2026:
+Gates Corporation — Standard Coolant Hose (EPDM/spiral reinforcement/engine coolant hose/containment and leakage):
+https://www.gates.com/us/en/fluid-power/engine-hose/coolant-hose.p.4175-000000-000001.4175-00874.html
+Gates TechZone — Hose Failure Symptoms (heat deterioration/cracks/leakage as moisture/drips/connector and clamp alternatives):
+https://www.gatestechzone.com/gb/en/technical-section/cooling-guide/hose-failure-symptoms.html
+Nissan official parts store — Car Overheating? Troubleshooting Tips You Need to Know (coolant carries heat to radiator/pump drives circulation/leak-loss may impair cooling/other overheating causes):
+https://parts.nissanusa.com/blog/car-overheating-troubleshooting-tips
+Only operation/fault/customer-effect facts used; source service instructions are not taught. Full source-specific mechanical claim ledger saved locally.
+
+Native process:actual explicit integer-frame evaluation and complete-state identity/SHA per atomic fsynced PNG; same-camera C2 opaque/hidden endpoint fades; original physical glass/analytic-floor MixShader graphs preserved, RGBA over white. No interpolation/frozen poses/oldtopic frames/Cycles splices. All119 measurement families/WA6 apparatus omitted throughout; all4 bulky spring covers/cones omitted, unrelated exhaust/floor/body systems clear in place. Actual compact mounting/cradle/engine/radiator fittings retained. Local Metal/Eevee4/noRT/noMB/no castshadows; one priority0/reserve40GiB lease, sequential fresh <=60picture children/no automatic failedretry, dynamic full-remaining-write guard with40GiB+.25GiB margin. All Thermostat sources/audio/media/audits/HOLDs untouched. No optional ZIP or unnecessary native/topic copies.
+
+Review scope:full decode/cadence/audio fidelity/native order and encoded visuals/browser playback are separately recorded in QA. Muted visual playback does not constitute independent audible audition or engineering certification. Main alone publishes exact First take/Awaiting review; owner WAITFOCUS afterward.
+
+Visibility correction: only inherited PART 00788 | V008 | manifold shield screw.002 now follows existing body visibility/fades. Geometry, camera, story, timing and James narration unchanged. 553 affected native frames freshly rendered;1247 original same-time frames reused with explicit evaluated-mesh/frustum and identity provenance. Original complete first take preserved.

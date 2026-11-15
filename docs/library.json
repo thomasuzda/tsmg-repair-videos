@@ -404,6 +404,28 @@
       "review_status": "Awaiting review",
       "caption_free": true,
       "take_label": "First take"
+    },
+    {
+      "id": "cracked-radiator-hose",
+      "topic": "Cracked Radiator Hose",
+      "title": "Cracked Radiator Hose",
+      "version": "v001",
+      "category": "Cooling",
+      "description": "How a reinforced radiator hose contains coolant, and how a through-wall crack can cause coolant loss and reduced cooling.",
+      "note": "Review draft \u00b7 Awaiting review. Complete 540p preview with the approved car opening and smooth fades. Explains operation and possible faults without repair instructions; not a polished final.",
+      "duration": 60,
+      "file": "media/cracked-radiator-hose-v001-review-draft.mp4",
+      "poster": "media/cracked-radiator-hose-v001.jpg",
+      "captions": null,
+      "credits": "media/cracked-radiator-hose-v001-credits.txt",
+      "bytes": 7314783,
+      "sha256": "5ea5b9cbd5bbb1fb550465df870e5f9290abecf12874d2cfba8a7de68985b7c4",
+      "fps": "30/1",
+      "stage": "review_draft",
+      "resolution": "540p",
+      "review_status": "Awaiting review",
+      "caption_free": true,
+      "take_label": "First take"
     }
   ],
   "topics": [
@@ -488,8 +510,8 @@
       "id": "04-03",
       "name": "Cracked Radiator Hose",
       "category": "Cooling",
-      "video_id": null,
-      "status": "To build"
+      "video_id": "cracked-radiator-hose",
+      "status": "Review draft saved"
     },
     {
       "id": "04-04",
