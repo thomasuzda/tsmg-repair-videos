@@ -492,6 +492,28 @@
       "review_status": "Awaiting review",
       "caption_free": true,
       "take_label": "First take"
+    },
+    {
+      "id": "wheel-speed-sensor",
+      "topic": "Faulty Wheel Speed Sensor",
+      "title": "Faulty Wheel Speed Sensor",
+      "version": "v001",
+      "category": "Brakes",
+      "description": "A conventional active magnetic encoder and stationary pickup track wheel rotation. A broken sensor lead interrupts the illustrated signal, which can affect ABS, traction and stability assistance depending on the vehicle.",
+      "note": "Review draft \u00b7 Awaiting review. Complete 540p preview with the approved car opening and smooth fades. Explains operation and possible faults without repair instructions; not a polished final.",
+      "duration": 60,
+      "file": "media/wheel-speed-sensor-v001-review-draft.mp4",
+      "poster": "media/wheel-speed-sensor-v001.jpg",
+      "captions": null,
+      "credits": "media/wheel-speed-sensor-v001-credits.txt",
+      "bytes": 5994181,
+      "sha256": "d97b99cb94072e4fd2009db36ae348217a7e8aeb734be6880d3db336795c6031",
+      "fps": "30/1",
+      "stage": "review_draft",
+      "resolution": "540p",
+      "review_status": "Awaiting review",
+      "caption_free": true,
+      "take_label": "First take"
     }
   ],
   "topics": [
@@ -534,8 +556,8 @@
       "id": "02-05",
       "name": "Faulty Wheel Speed Sensor",
       "category": "Brakes",
-      "video_id": null,
-      "status": "To build"
+      "video_id": "wheel-speed-sensor",
+      "status": "Review draft saved"
     },
     {
       "id": "02-06",

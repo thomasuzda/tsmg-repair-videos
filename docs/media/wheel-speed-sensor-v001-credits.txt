@@ -1,0 +1,21 @@
+Faulty Wheel Speed Sensor v001 — First take / Awaiting review
+TSMG automotive customer explainer. 60 seconds / 1800 actual native 960x540 30fps poses. Rough Eevee 4-sample review quality.
+
+Vehicle: 2025 Toyota Camry XV80 Hybrid by Ddiaz Design (DdiazDesign).
+https://sketchfab.com/3d-models/2025-toyota-camry-xv80-hybrid-53f8cbf2483940fba956f4e740a3a4ae
+License: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International.
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+Adaptation: TSMG emblems/materials and detailed Camry context from frozen Sway v001/Alignment v007. New illustrative source-fitted active pickup, bearing-hub magnetic encoder, finite knuckle mounting, pilot seating and retained sensor lead with one broken-wire animation. Original sources preserved. Adapted material shared under CC BY-NC-SA4.0. No endorsement. Commercial permission unresolved; no clearance claimed. Attribution offscreen only; no Credits UI.
+
+Narration: ElevenLabs James — Husky Storyteller, voice EkK5I93UQWFDigLMpZcX. One necessary full take request 01a1e2fa-93fc-71c0-8c45-a353839f0f36. Existing completed take securely downloaded once by system curl with verified CA/hostname/HTTPS. No paid reissue or test. Original natural pitch/tempo and all source samples retained; finite 60-second stereo48k16 mix uses constant gain and an initial placement offset. No music/artificial impacts, narration captions, bottom tags, subtitle tracks or SRT links.
+
+Model scope: generic illustrative conventional active magnetic bearing encoder fitted to the audited source hub/knuckle. This does not identify Toyota OEM sensor type/dimensions, certify the model, or validate real electrical/vehicle dynamics. Stationary pickup and rotating encoder remain separated by a positive air gap; native wire fault interrupts the illustrated connection. Possible warning and loss of affected ABS/traction/stability assistance depend on the vehicle. Symptoms alone do not diagnose a failed part. No repair/service/testing/inspection/shop instructions, prices or promises.
+
+Native process: 1800 actual integer-time 30fps poses, no motion interpolation/old-topic frame reuse. Calm 55mm subject-side whole-car opening/direct C2 approach/same-side return, context fading in place by same-time/same-camera endpoint plates. Source glass/floor MIX and native alpha-over-white retained. Historical measurement apparatus/WA6 equipment, bulky covers and unrelated exhaust/part scraps excluded; compact installed mounts and useful detailed cabin/floor retained. Actual finite mating interfaces/air gap/clearances/lead contacts/3599 integer+half poses and visibility/source/custom-normal preservation audited. Old failed evidence preserved. Retained custom-normal codes and decoded vectors match source exactly. These are model checks, not engineering certification.
+
+Primary manufacturer references:
+Bosch — Wheel-speed sensor: https://www.bosch-mobility.com/en/solutions/sensors/wheel-speed-sensor/
+HELLA — Wheel speed sensors: https://www.hella.com/techworld/en/technical/sensors-and-actuators/check-and-change-abs-and-wheel-speed-sensors/
+Generic active magnetic noncontact operation and vehicle-dependent assistance effects only; manufacturer service instructions are not taught.
+
+Review scope: actual native stills and consecutive native normal-speed motion; full encoded A/V decode, cadence, source order and quantitative audio fidelity; encoded stills and complete normal1x browser playback. Browser visual review muted; no independent audible audition, engineering certification or physical diagnosis claim. Main alone publishes; owner WAITFOCUS after delivery.
