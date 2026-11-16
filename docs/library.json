@@ -514,6 +514,28 @@
       "review_status": "Awaiting review",
       "caption_free": true,
       "take_label": "First take"
+    },
+    {
+      "id": "corroded-electrical-connector",
+      "topic": "Corroded Electrical Connector",
+      "title": "Corroded Electrical Connector",
+      "version": "v001",
+      "category": "Electrical",
+      "description": "How a mated electrical connector carries power or a signal, and how corrosion at the contact surface can cause weak or intermittent operation depending on the circuit.",
+      "note": "Review draft \u00b7 Awaiting review. Complete 540p preview with the approved car opening and smooth fades. Explains operation and possible faults without repair instructions; not a polished final.",
+      "duration": 60,
+      "file": "media/corroded-electrical-connector-v001-review-draft.mp4",
+      "poster": "media/corroded-electrical-connector-v001.jpg",
+      "captions": null,
+      "credits": "media/corroded-electrical-connector-v001-credits.txt",
+      "bytes": 7808556,
+      "sha256": "4649d00ff2a3587ee7d144e72ba673038aa22d68fc1f1e503ef4b69d70f6f42c",
+      "fps": "30/1",
+      "stage": "review_draft",
+      "resolution": "540p",
+      "review_status": "Awaiting review",
+      "caption_free": true,
+      "take_label": "First take"
     }
   ],
   "topics": [
@@ -703,8 +725,8 @@
       "id": "08-03",
       "name": "Corroded Electrical Connector",
       "category": "Electrical",
-      "video_id": null,
-      "status": "To build"
+      "video_id": "corroded-electrical-connector",
+      "status": "Review draft saved"
     },
     {
       "id": "08-04",

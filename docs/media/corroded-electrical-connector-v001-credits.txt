@@ -1,0 +1,30 @@
+Corroded Electrical Connector v001 — First take / Awaiting review
+TSMG automotive customer mechanism/fault explainer. 60 seconds, native960x540/30fps, localMetal/Eevee4 four-sample review quality.
+
+Vehicle:2025 Toyota Camry XV80 Hybrid by Ddiaz Design (DdiazDesign).
+Source:https://sketchfab.com/3d-models/2025-toyota-camry-xv80-hybrid-53f8cbf2483940fba956f4e740a3a4ae
+License:Creative Commons Attribution-NonCommercial-ShareAlike4.0 International.
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+Adaptation:TSMG physical badges/materials, detailed fitted car/cabin/floor/seats/dashboard/steering/map display, engine-bay hardware and original installed IGNITION1 connector housing/latch/secondarylock/routed leads retained from accepted detailed Alignment/Sway source. Adapted material shared underCC BY-NC-SA4.0; source provided as-is/no endorsement. Commercial permission unresolved; no clearance claimed. Full attribution is offscreen in metadata/companion, no CreditsUI.
+
+Exact donor:sway-bar-explainer-v001-first-take/Sway-Bar-v001-First-Take.blend
+SHA256:8afbe415f27f68f636befe2be470f93c8111c9e8f00f2e2277451102b44b5c8b.
+CorrodedConnector native SHA256:c5a16a9d30bd9413f60a6589b1e25cd861a0d9fdbb89a884e99e644eed1dfdfd.
+Original source/new88topic mapping and all old Battery/Alternator/Starter/other film assets remain unchanged.
+
+Mechanism scope:generic illustrative low-voltage mated connector with four physically fitted new editable terminalpairs, continuous local conductors following actual source first16routed wire rings, insulating walls and positive retention/header contact surfaces. Internals are deliberately constructed educational geometry, not asserted preexisting Toyota/OEM internals, connector type/pinout/dimensions/serviceCAD or certified electrical simulation. Only the near portion of one terminalpair is analytically sectioned in place. A60micrometre illustrative corrosion film is enlarged to reveal the interface; the fault is increased/intermittent contact resistance, not a broken wire or unplugged connector. Clean metal continuity and corrosion/effects are explained without repair, testing, inspection, terminal service, tool instructions, prices or shop promises. Similar symptoms do not independently diagnose a connector.
+
+Narration:ElevenLabs James—Husky Storyteller,voiceEkK5I93UQWFDigLMpZcX; one necessary fulltake request01a1e36f-77f8-7a51-aab9-95908cb67c62,elevenlabs/tts/eleven-v4,stability0.65/similarity0.75/seed8032026. Original audio/request/character timestamps cached. Complete source placed once in two nonoverlapping adjacent sample intervals; documented pitch-preserving phase tempo aligns corrosion phrase30.985s to31s native reveal. +2dB/0.89limiter,0.25s lead and explicit finite silence tail;48000Hz/stereo/16bit/2880000samples per channel/11520044B WAV. Applied-processing-stage PCM QA, not a raw-source-identity claim. No music, sound effects, burned narration captions, embedded subtitles or SRT.
+
+Primary factual references:
+Molex—Connector contact retention:
+https://www.molex.com/en-us/trends-insights/engineering-insights/connector-contact-retention
+TE Connectivity—SUPERSEAL1 FAQ:
+https://www.te.com/en/faqs/superseal-1-connectors.html
+NAVSEA NSWC Crane—Connector failure mechanisms:
+https://www.navsea.navy.mil/Home/Warfare-Centers/NSWC-Crane/Resources/SD-18/Products/Connectors/Failure-Mechanisms-Anomalies/
+Manufacturer examples support general contact/retention/insulation and corrosion-resistance principles; this depiction is not claimed to be a SUPERSEAL or a specific manufacturer design.
+
+Process:real editable Blender; every native integer pose explicitly evaluated, at most two same-time/same-camera opaque/hidden endpoint plates per picture combined with smooth C2 image weights. Clean native RGB plates retained independently of upper titles/callouts. Original glass and photographic floor MIX nodes remain exact; white studio alpha composition. No cloud rendering, generative video, pose interpolation, old-topic frames or Cycles/Eevee splice. All119measurement apparatus/WA6/bulky cover/exhaust clutter omitted by frozen roles; actual installed mounts/context retained. Four inherited omitted springNODES objects are export-domain noninfluencing per savedactual3599 state/endpoint/dependency proof and attributed Mainr06 review, not declared globally static. Prior failed QA/overrun evidence preserved. One sole localMetal priority0/reserve40GiB producer with at most60fresh pictures per sequential child.
+
+Review limits:First take, not polished final or independent mechanical/electrical certification. Visual playback may be muted; no independent audible audition or physical iPhone claim. Actual final media QA and whole browser playback are recorded separately; no final QA inferred from stills alone. Main alone publishes exact reviewed assets; no automatic next topic/polish.
