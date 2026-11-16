@@ -470,6 +470,28 @@
       "review_status": "Awaiting review",
       "caption_free": true,
       "take_label": "First take"
+    },
+    {
+      "id": "tire-damage",
+      "topic": "Tire Damage",
+      "title": "Tire Damage",
+      "version": "v001",
+      "category": "Tires and Wheels",
+      "description": "See how reinforcing sidewall cords support the tire casing, how impact damage can break cords, and how a weakened sidewall can bulge and affect vehicle control.",
+      "note": "Review draft \u00b7 Awaiting review. Complete 540p preview with the approved car opening and smooth fades. Explains operation and possible faults without repair instructions; not a polished final.",
+      "duration": 45,
+      "file": "media/tire-damage-v001-review-draft.mp4",
+      "poster": "media/tire-damage-v001.jpg",
+      "captions": null,
+      "credits": "media/tire-damage-v001-credits.txt",
+      "bytes": 6323254,
+      "sha256": "2f0448adb3582d5fffc393e8700883bdbf37a6ff44e3a32b8e908d14732d4318",
+      "fps": "30/1",
+      "stage": "review_draft",
+      "resolution": "540p",
+      "review_status": "Awaiting review",
+      "caption_free": true,
+      "take_label": "First take"
     }
   ],
   "topics": [
@@ -1010,8 +1032,8 @@
       "id": "19-03",
       "name": "Tire Damage",
       "category": "Tires and Wheels",
-      "video_id": null,
-      "status": "To build"
+      "video_id": "tire-damage",
+      "status": "Review draft saved"
     },
     {
       "id": "19-04",

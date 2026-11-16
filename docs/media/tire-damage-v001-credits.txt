@@ -1,0 +1,26 @@
+Tire Damage v001 — First take / Awaiting review
+TSMG customer explainer.45seconds/native960x540/30fps. Low-cost Eevee4 review draft, not a polished final.
+
+Vehicle artwork:2025 Toyota Camry XV80 Hybrid by Ddiaz Design (DdiazDesign).
+Source:https://sketchfab.com/3d-models/2025-toyota-camry-xv80-hybrid-53f8cbf2483940fba956f4e740a3a4ae
+License:Creative Commons Attribution-NonCommercial-ShareAlike4.0 International.
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+Adaptation:TSMG emblems/materials; fitted Alignment/Camry-based floor/cabin/seats/dashboard/steering/navigation display and detailed installed wheel/chassis context imported read-only from verified Sway Bar v001 native. Adapted material shared under CC BY-NC-SA4.0. Source as-is, no endorsement; commercial permission not established. Full attribution retained offscreen in movie metadata and this companion only.
+
+Narration:ElevenLabs American James—Husky Storyteller,voiceEkK5I93UQWFDigLMpZcX. Exactly one original fulltake,elevenlabs/tts/eleven-v4 request01a1e246-b422-7781-a507-4c9633b9e4c8. Cached original MP3/script/character timestamps retained. Existing45s r13 mix adopted by Main through exact all-sample like-stage processing reference. Source pitch/tempo unchanged; prescribed paragraph pause placement, loudnorm-16LUFS/TP-2/LRA8 and limiter. Raw source versus processed waveform diagnostic failures and finite-export failure evidence remain preserved. No new take or audio retry after adoption; no independent audible audition claimed. No music/artificial impacts/narration captions/subtitle tracks/bottom tags/graphs/progress/SRT.
+
+Illustration scope:Generic tire construction and one possible impact-related sidewall cord-break/bulge example, adapted to actual installed source tire/wheel artwork. Not Toyota/tire-manufacturer CAD, confirmed tire construction, engineering certification or individual diagnosis. The source tire's local outer-wall polygons, retained end-covering rubber, fitted inner backing and joined finite wall boundary form an analytical cutaway. Seven illustrative radial cord paths show continuous support first, then actual missing cord segments and outward weakened-wall deformation. Cord number/spacing and magnitudes are illustrative. Actual installed wheel/axle, rim, valve, brakes and useful chassis mounts remain; complete car opening/return retained. Symptoms can have other causes. Film covers function, possible fault and customer effects only; no repair/service/testing/inspection instructions, pricing or shop promises.
+
+Primary tire-manufacturer facts reviewed:
+Michelin—How are tires made?
+https://www.michelinman.com/auto/auto-tips-and-advice/tires-101/how-are-tires-made
+Michelin—Sidewall problems
+https://www.michelinman.com/auto/auto-tips-and-advice/tire-damage/sidewall-problems
+Continental—Tire damages
+https://www.continental-tires.com/ca/en/tire-knowledge/tire-damages/
+Michelin—Can my tire be repaired? (failure facts only; no repair guidance taught)
+https://www.michelinman.com/auto/auto-tips-and-advice/tire-maintenance/can-my-tire-be-repaired
+
+Production:1350 actual integer native poses at30fps, each committed as fsynced PNG+source-index/evaluated-state/identity/SHA before advance. Same-time same-camera opaque/hidden endpoint compositing for calm in-place body/section fades; transparent native film alpha-over-white with original glass/floor MIX topology. No generative enhancement, optical interpolation, frozen changing motion or old-topic pictures. Local Metal/Eevee4/4samples/no raytracing/no motion blur/no castshadows. One whole priority0/reserve40GiB/capacity1 producer lease; sequential fresh children at most60pictures, no failed-child automatic retry. Source/native/failed attempts/audio/checkpoints preserved; no ZIP or duplicate source/native copy. Original failed audio export retained as extra consumed storage, excluded only by exact SHA from active12M audio allowance, never credited against future frames. Full native construction and fresh-saved CPU proof covers1350integer+1349half poses; finite source/contact/cord/role/material/image evidence preserved with original failures and scoped QA corrections. Existing source tire faceting remains visible in macro views; this is a First take.
+
+Canonical topic19-03/video_idtire-damage. Main alone publishes exact reviewed draft; owner waits after handoff. Native editable/source references and production evidence retained in isolated tire-damage-explainer-v001-first-take.
