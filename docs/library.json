@@ -40,7 +40,8 @@
       "bytes": 24859030,
       "sha256": "28344b0b54b4715087fb248b2c798b653de1c81c5da167a3d99fe1e41d616a31",
       "fps": "30/1",
-      "caption_free": true
+      "caption_free": true,
+      "ready_for_approval": true
     },
     {
       "id": "brake-system",
@@ -61,7 +62,8 @@
       "caption_free": true,
       "stage": "review_draft",
       "resolution": "540p",
-      "review_status": "Awaiting review"
+      "review_status": "Awaiting review",
+      "ready_for_approval": false
     },
     {
       "id": "ball-joint",
@@ -82,7 +84,8 @@
       "caption_free": true,
       "stage": "review_draft",
       "resolution": "540p",
-      "review_status": "Awaiting review"
+      "review_status": "Awaiting review",
+      "ready_for_approval": false
     },
     {
       "id": "wheel-alignment",
@@ -103,7 +106,8 @@
       "caption_free": true,
       "stage": "review_draft",
       "resolution": "540p",
-      "review_status": "Awaiting review"
+      "review_status": "Awaiting review",
+      "ready_for_approval": false
     },
     {
       "id": "coil-spring",
@@ -124,7 +128,8 @@
       "caption_free": true,
       "stage": "review_draft",
       "resolution": "540p",
-      "review_status": "Awaiting review"
+      "review_status": "Awaiting review",
+      "ready_for_approval": false
     },
     {
       "id": "shock-absorber",
@@ -145,7 +150,8 @@
       "stage": "review_draft",
       "resolution": "540p",
       "caption_free": true,
-      "review_status": "Awaiting review"
+      "review_status": "Awaiting review",
+      "ready_for_approval": false
     },
     {
       "id": "cabin-air-filter",
@@ -165,7 +171,8 @@
       "fps": "30/1",
       "stage": "review_draft",
       "resolution": "540p",
-      "caption_free": true
+      "caption_free": true,
+      "ready_for_approval": false
     },
     {
       "id": "battery",
@@ -186,7 +193,8 @@
       "stage": "review_draft",
       "resolution": "540p",
       "review_status": "Awaiting review",
-      "caption_free": true
+      "caption_free": true,
+      "ready_for_approval": false
     },
     {
       "id": "spark-plug",
@@ -207,7 +215,8 @@
       "stage": "review_draft",
       "resolution": "540p",
       "review_status": "Awaiting review",
-      "caption_free": true
+      "caption_free": true,
+      "ready_for_approval": false
     },
     {
       "id": "thermostat",
@@ -228,7 +237,8 @@
       "stage": "review_draft",
       "resolution": "540p",
       "review_status": "Awaiting review",
-      "caption_free": true
+      "caption_free": true,
+      "ready_for_approval": false
     },
     {
       "id": "oil-filter-change",
@@ -249,7 +259,8 @@
       "stage": "review_draft",
       "resolution": "540p",
       "review_status": "Awaiting review",
-      "caption_free": true
+      "caption_free": true,
+      "ready_for_approval": false
     },
     {
       "id": "accessory-drive-belt",
@@ -271,7 +282,8 @@
       "resolution": "540p",
       "review_status": "Awaiting review",
       "caption_free": true,
-      "take_label": "First take"
+      "take_label": "First take",
+      "ready_for_approval": false
     },
     {
       "id": "wheel-bearing",
@@ -293,7 +305,8 @@
       "resolution": "540p",
       "review_status": "Awaiting review",
       "caption_free": true,
-      "take_label": "First take"
+      "take_label": "First take",
+      "ready_for_approval": false
     },
     {
       "id": "alternator",
@@ -315,7 +328,8 @@
       "resolution": "540p",
       "review_status": "Awaiting review",
       "caption_free": true,
-      "take_label": "First take"
+      "take_label": "First take",
+      "ready_for_approval": false
     },
     {
       "id": "ignition-coil",
@@ -337,7 +351,8 @@
       "resolution": "540p",
       "review_status": "Awaiting review",
       "caption_free": true,
-      "take_label": "First take"
+      "take_label": "First take",
+      "ready_for_approval": false
     },
     {
       "id": "sway-bar",
@@ -359,7 +374,8 @@
       "resolution": "540p",
       "review_status": "Awaiting review",
       "caption_free": true,
-      "take_label": "First take"
+      "take_label": "First take",
+      "ready_for_approval": false
     },
     {
       "id": "control-arm-bushing",
@@ -381,7 +397,8 @@
       "resolution": "540p",
       "review_status": "Awaiting review",
       "caption_free": true,
-      "take_label": "First take"
+      "take_label": "First take",
+      "ready_for_approval": false
     },
     {
       "id": "brake-caliper-piston",
@@ -403,7 +420,8 @@
       "resolution": "540p",
       "review_status": "Awaiting review",
       "caption_free": true,
-      "take_label": "First take"
+      "take_label": "First take",
+      "ready_for_approval": false
     },
     {
       "id": "cracked-radiator-hose",
@@ -425,7 +443,8 @@
       "resolution": "540p",
       "review_status": "Awaiting review",
       "caption_free": true,
-      "take_label": "First take"
+      "take_label": "First take",
+      "ready_for_approval": false
     },
     {
       "id": "starter-motor",
@@ -447,7 +466,8 @@
       "resolution": "540p",
       "review_status": "Awaiting review",
       "caption_free": true,
-      "take_label": "First take"
+      "take_label": "First take",
+      "ready_for_approval": false
     },
     {
       "id": "worn-brake-rotor",
@@ -469,7 +489,8 @@
       "resolution": "540p",
       "review_status": "Awaiting review",
       "caption_free": true,
-      "take_label": "First take"
+      "take_label": "First take",
+      "ready_for_approval": false
     },
     {
       "id": "tire-damage",
@@ -491,7 +512,8 @@
       "resolution": "540p",
       "review_status": "Awaiting review",
       "caption_free": true,
-      "take_label": "First take"
+      "take_label": "First take",
+      "ready_for_approval": false
     },
     {
       "id": "wheel-speed-sensor",
@@ -513,7 +535,8 @@
       "resolution": "540p",
       "review_status": "Awaiting review",
       "caption_free": true,
-      "take_label": "First take"
+      "take_label": "First take",
+      "ready_for_approval": false
     },
     {
       "id": "corroded-electrical-connector",
@@ -535,7 +558,8 @@
       "resolution": "540p",
       "review_status": "Awaiting review",
       "caption_free": true,
-      "take_label": "First take"
+      "take_label": "First take",
+      "ready_for_approval": false
     },
     {
       "id": "engine-oil-leak",
@@ -557,7 +581,8 @@
       "resolution": "1080p",
       "review_status": "Awaiting review",
       "caption_free": true,
-      "take_label": "Review version"
+      "take_label": "Review version",
+      "ready_for_approval": true
     }
   ],
   "topics": [

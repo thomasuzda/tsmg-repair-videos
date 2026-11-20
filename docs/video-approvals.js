@@ -4,8 +4,8 @@
   const states = new Map(), pending = new Map(), saveErrors = new Map(), busy = new Set();
   let loaded = false, error = '', current = null, generation = 0, controller;
   const key = video => [video.id, video.version, video.sha256].join(':');
-  const labels = {ready:'Ready for approval', approved:'Approved', needs_work:'Needs work', unreviewed:'Not reviewed', loading:'Loading review status…'};
-  function state(video) { return states.get(key(video))?.status || (loaded ? (video.stage === 'review_draft' ? 'ready' : 'unreviewed') : 'loading'); }
+  const labels = {ready:'Ready for approval', approved:'Approved', needs_work:'Needs work', draft:'Draft', unreviewed:'Not reviewed', loading:'Loading review status…'};
+  function state(video) { return states.get(key(video))?.status || (loaded ? (video.ready_for_approval === true ? 'ready' : 'draft') : 'loading'); }
   function changed() { paint(); window.dispatchEvent(new CustomEvent('repair-review-changed')); }
   function paint() {
     const label = document.getElementById('review-state');

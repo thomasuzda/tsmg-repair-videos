@@ -7,11 +7,11 @@
   <meta name="description" content="Your saved automotive repair explainer videos, organized by part, with the full production topic list.">
   <title>Repair Video Library · TSMG</title>
   <link rel="icon" href="icon.svg" type="image/svg+xml">
-  <link rel="stylesheet" href="style.css?v=approval-20261120">
-  <script src="catalog-data.js?v=approval-20261120" defer></script>
-  <script src="video-approvals.js?v=approval-20261120" defer></script>
-  <script src="app.js?v=approval-20261120" defer></script>
-  <script src="video-notes.js?v=approval-20261120" defer></script>
+  <link rel="stylesheet" href="style.css?v=approval-selection-20261120">
+  <script src="catalog-data.js?v=approval-selection-20261120" defer></script>
+  <script src="video-approvals.js?v=approval-selection-20261120" defer></script>
+  <script src="app.js?v=approval-selection-20261120" defer></script>
+  <script src="video-notes.js?v=approval-selection-20261120" defer></script>
 </head>
 <body>
   <a class="skip" href="#main">Skip to library</a>
@@ -20,6 +20,7 @@
     <div class="side-caption">YOUR WORKSPACE</div>
     <nav aria-label="Library navigation">
       <button class="nav-item" data-view="ready"><span class="nav-icon">✓</span>Ready for approval<span class="nav-count">—</span></button>
+      <button class="nav-item" data-view="drafts"><span class="nav-icon">◷</span>Drafts<span class="nav-count">23</span></button>
       <button class="nav-item active" data-view="saved"><span class="nav-icon">▷</span>Saved videos<span class="nav-count">25</span></button>
       <button class="nav-item" data-view="all"><span class="nav-icon">☷</span>Full build list<span class="nav-count">88</span></button>
     </nav>
@@ -55,7 +56,7 @@
       </section>
     </section>
     <section class="collection" aria-labelledby="collection-title">
-      <div class="collection-top"><h2 id="collection-title">Saved videos</h2><div class="view-tabs" role="group" aria-label="Choose collection"><button data-view="ready" aria-pressed="false">Ready for approval <span>—</span></button><button class="active" data-view="saved" aria-pressed="true">Saved <span>25</span></button><button data-view="needs-work" aria-pressed="false">Needs work <span>—</span></button><button data-view="all" aria-pressed="false">All topics <span>88</span></button><button data-view="planned" aria-pressed="false">To build <span>63</span></button></div></div>
+      <div class="collection-top"><h2 id="collection-title">Saved videos</h2><div class="view-tabs" role="group" aria-label="Choose collection"><button data-view="ready" aria-pressed="false">Ready for approval <span>—</span></button><button data-view="drafts" aria-pressed="false">Drafts <span>23</span></button><button class="active" data-view="saved" aria-pressed="true">Saved <span>25</span></button><button data-view="needs-work" aria-pressed="false">Needs work <span>—</span></button><button data-view="all" aria-pressed="false">All topics <span>88</span></button><button data-view="planned" aria-pressed="false">To build <span>63</span></button></div></div>
       <div class="filters"><label class="search"><span aria-hidden="true">⌕</span><span class="sr-only">Search parts or systems</span><input type="search" id="search" placeholder="Search parts or systems…" autocomplete="off"></label><label class="system-select"><span class="sr-only">Filter by vehicle system</span><select id="system"><option value="">All systems</option></select></label></div>
       <div class="results-line"><span id="result-count" aria-live="polite">7 saved videos</span><button id="clear-filters" hidden>Clear filters</button></div>
       <div class="review-load" id="review-load" hidden><p id="review-load-message" role="status"></p><button class="review-retry" type="button" hidden>Retry</button></div>
