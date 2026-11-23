@@ -1,0 +1,20 @@
+Engine Oil Leak — v011 review draft
+60 seconds • 1920×1080 • 30 fps • local Blender Eevee
+Existing James narration reused; no additional paid/cloud generation.
+Approved engine/car native preserved. Runtime Blender derivative: expanded block/gasket/pan joint, travelling belt grain and rotating pulley parts, continuous viscous oil routes and enlarged attached leak film.
+The joint is expanded for clarity, then returns to its seated position. Flow and leak visibility are exaggerated; slow illustrative motion, no CFD or OEM oil-gallery/pump claim.
+Generic external gear reference: Bosch Rexroth General instruction manual RE07012-B/09.2017 section5.2.2, source URL in sources/pump-reference.txt.
+Customer effects and hot-surface inset are conditional examples, not a vehicle diagnosis.
+On-picture text: Engine Oil Leak only, no white card or explanatory labels.
+QA scope: full A/V decode and muted normal-speed visual review; no independent audio audition or engineering certification.
+Title uses plain text with a fine contrast edge; no rectangular backing.
+Gasket detail: 14 bolt apertures aligned to actual flange fasteners, rounded molded edges, a rooted compression bead and subtle rubber grain. Generic illustrative molded gasket; no specific OEM material or design identification.
+Approved gasket shape: narrowed contoured rails, rounded bolt tabs and corners. Obsolete source core plugs/casting webs omitted; surrounding detail fades before block lift. Full-resolution native picture and overlays; no upscale.
+
+Revision v012: generic analytical four-stroke engine cutaway with moving timing chain, cams, inclined valves and illustrative intake/port-fuel/exhaust activity. Continuous camera journey and smooth gasket isolation; photo-informed generic cartridge with finite folds, bonded endcaps and perforated support; Fresnel dielectric oil with approximate thickness tint and surface motion; charcoal studio with centered lighting. Native1920x1080/30fps/60seconds. Existing James narration reused; zero new paid voice/cloud generation. Original native and prior films preserved; runtime derivatives in scripts and frozen runtime. Muted browser visual review and full A/V decode; no independent audio audition. Not an OEM dimensional reconstruction, CFD or engineering certification.
+Photo references (visual guidance, not footage in film): Fiat/Mopar oil photo, HELLA generic filter cutaway, MANN-HUMMEL endcap seal reference. Source URLs and hashes retained in sources/oil-filter-reference-r01.
+
+
+Complete newer pump assembly correction v030
+The existing full newer pump assembly is transferred into the saved v012 presentation: formed pickup tube, strainer basket and 42-wire screen, pump casting/gears/shafts/fasteners, communicating contained oil, enclosed rounded pressure gallery, matching filter chamber and inlet/outlet interfaces. Full pump and circuit authoring modules copied exactly from the existing v026-r04 work used by v028. Original paper media, engine/pistons/gasket, downstream engine-flow illustration, camera/timing and original AAC narration retained. Partial v029 version preserved as rejected content. No new paid media, narration or cloud generation. Blender Eevee/Metal, native1920x1080/30fps.
+Generic analytical illustration; not OEM installation CAD, CFD or engineering certification.

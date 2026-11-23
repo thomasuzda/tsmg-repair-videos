@@ -1,0 +1,28 @@
+A/C Compressor — v022 source credits
+
+Vehicle model: 2025 Toyota Camry XV80 Hybrid
+Creator: Ddiaz Design (DdiazDesign)
+Source: https://sketchfab.com/3d-models/2025-toyota-camry-xv80-hybrid-53f8cbf2483940fba956f4e740a3a4ae
+License: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+License text: https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.en
+License summary: https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Changes: adapted as a generic TSMG educational vehicle; edited branding, geometry and materials; added mechanical systems, cutaways, diagram animation, camera work and graphics. Adapted material is shared under CC BY-NC-SA 4.0. Original supplied as-is, without warranties. No endorsement by the original creator is implied.
+
+Attribution accompanies this version in this file and in the MP4 comment metadata instead of a persistent on-screen footer. Keep this file with the video when sharing, or include the attribution and links in the video's accompanying description.
+
+Narration: ElevenLabs native Adam, existing v017 performance reused. Original score and sound design. No new voice generation for this graphic-only revision. James – Husky Storyteller remains the user's preferred voice for future narration work.
+
+
+Technical revision references (checked 2026-11-05)
+DENSO Engine Cooling Modules: https://www.denso-ts.com/what-we-do/products/engine-cooling-module/
+DENSO compressor troubleshooting: https://www.densoautoparts.com/reference-ac-compressor-troubleshooting/
+DENSO compressor installation manual: https://assets.denso-am.eu/production/attachments/AC-Compressor-Installation-Manual-multilingual.pdf
+Sanden A/C Compressor Guide: https://www.sanden.com/originals/objects/AC_Compressor_Guide_and_Practical_Tips.pdf
+Sanden diagnosis chart: https://sanden.com/objects/SANDEN_SYSTEM_DIAGNOSIS_CHART.pdf
+Generic conventional TXV/swash-plate system illustration; not vehicle-specific service CAD. Existing narration and original native 30fps camera motion retained. Mechanical corrections and text labels added in v022.
+
+Compressor architecture reference: DENSO single-swash-plate families include five-piston variants. This generic mechanism is shown at one operating angle; it does not demonstrate variable-displacement regulation or assert fixed capacity for a particular OEM model. Reference: https://www.denso-technic.com/images/document/a-c-and-thermal/en/compressor-leaflet.pdf . Fan/control strategies vary by vehicle; continued fans/blower illustrate one ineffective-pumping fault, not a seized compressor or a universal control sequence.
+
+
+v024 header revision: the upper picture previously covered by the white panel was rendered from the unchanged editable v022 scene at the original camera/time, then composited over the original movie. Only A/C Compressor title letters overlay this picture. Original AAC narration and remaining picture retained. No new generated speech/media. Existing generic-system and independent-review limitations remain.
