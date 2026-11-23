@@ -5,7 +5,12 @@
   let loaded = false, error = '', current = null, generation = 0, controller;
   const key = video => [video.id, video.version, video.sha256].join(':');
   const labels = {ready:'Ready for approval', approved:'Approved', needs_work:'Needs work', draft:'Draft', unreviewed:'Not reviewed', loading:'Loading review status…'};
-  function state(video) { return states.get(key(video))?.status || (loaded ? (video.ready_for_approval === true ? 'ready' : 'draft') : 'loading'); }
+  function state(video) {
+    const decision = states.get(key(video));
+    const requested = Date.parse(video.review_requested_at || '');
+    if (decision && (!Number.isFinite(requested) || Date.parse(decision.updatedAt) >= requested)) return decision.status;
+    return loaded ? (video.ready_for_approval === true ? 'ready' : 'draft') : 'loading';
+  }
   function changed() { paint(); window.dispatchEvent(new CustomEvent('repair-review-changed')); }
   function paint() {
     const label = document.getElementById('review-state');

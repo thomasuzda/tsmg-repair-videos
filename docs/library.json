@@ -296,7 +296,7 @@
       "version": "v008",
       "category": "Engine",
       "description": "See the accessory belt drive the alternator and A/C compressor, look inside both mechanisms, and follow how rib wear and slipping can affect their operation.",
-      "note": "Saved updated version with enhanced alternator and A/C compressor internals, tracked component arrows, and revised noise narration.",
+      "note": "Ready for approval. Saved version with enhanced alternator and A/C compressor internals, tracked component arrows, and revised noise narration.",
       "duration": 60,
       "file": "media/accessory-drive-belt-v008-review-draft.mp4",
       "poster": "media/accessory-drive-belt-v008.jpg",
@@ -307,10 +307,11 @@
       "fps": "30/1",
       "stage": "review_draft",
       "resolution": "540p",
-      "review_status": "Saved",
+      "review_status": "Awaiting review",
       "caption_free": true,
       "take_label": "Review version",
-      "ready_for_approval": false
+      "ready_for_approval": true,
+      "review_requested_at": "2026-11-23T09:02:24.064585+00:00"
     },
     {
       "id": "wheel-bearing",
