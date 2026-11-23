@@ -1,0 +1,29 @@
+Accessory Drive Belt v008 — realistic internals and component arrows
+
+Generic analytical cutaways show a rotating claw-pole alternator rotor inside a stationary wound stator, and a piston-type A/C compressor with an inclined rotating plate and slipper shoes. Refined copper windings, dense steel laminations, machined and cast finishes, and small manufactured edge radii retain the existing mechanical motion and clearances. The opening/return, charcoal studio, belt wear inset and illustrated heat sequence remain. White tracked arrows identify the alternator and A/C compressor; the top-right topic title remains Accessory Drive Belt. No narration captions or on-screen squeal text/symbol.
+
+Vehicle:2025 Toyota Camry XV80 Hybrid by Ddiaz Design(DdiazDesign).
+Source:https://sketchfab.com/3d-models/2025-toyota-camry-xv80-hybrid-53f8cbf2483940fba956f4e740a3a4ae
+License:Creative Commons Attribution-NonCommercial-ShareAlike4.0 International.
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+Adaptation:TSMG branding/materials; actual detailed Wheel Alignmentv007 car/chassis/source-fitted cabin/floor/dashboard/steering/seats, installed generic conventional gasoline engine and independent electric water pump, six-pulley accessory drive, physical six-rib belt/pulley profiles, mounted brackets/tensioner/idlers, native wear and slip demonstration, same-engine direct belt-rib closeup, charcoal studio/camera/editing. Adapted material shared underCC BY-NC-SA4.0. Original provided as-is without endorsement. Commercial permission unresolved; no clearance claimed. Retain full companion credits or attribution in sharing metadata. No Credits UI or persistent onscreen credit band.
+
+
+Narration: ElevenLabs James — Husky Storyteller. Original cached beginner-friendly take: request01a2053b-7685-7c11-9fae-905f8d2d403c. Obsolete “Look at this enlarged section” phrase removed in the earlier edit. One new short sentence, request01a206a8-72a3-72f1-a1a3-af454824c74e: “The belt can slip and make noise.” This replaces only42.6–45.08s at its original speaking speed, preserving the rest of the original PCM, including “Noise alone doesn’t prove wear.” The rejected generated rattling effect is excluded. No new background music or additional sound effect.
+
+Mechanical scope: a generic conventional gasoline-engine/accessory teaching installation, not a Toyota/hybrid OEM mechanism or vehicle-specific design. The magnetic rotor turns inside stationary windings. Alternator output is rectified to DC. The illustrated five-piston swashplate compressor uses rotating inclined-plate/slipper-shoe motion in fixed bores; compressor architectures vary. This accessory belt is separate from valve timing; the illustrated installation uses an independent electric water pump. Prescribed illustrative motion, material loss, slip and red heat/smoke cues are not thermal, magnetic, refrigerant or force simulation. Smoke is an explanatory overheating cue during the red-belt sequence, not normal operating behavior. Symptoms alone do not establish a cause.
+
+Primary references retained:
+DENSO Starter/Alternator Manual:
+https://assets.denso-am.eu/production/attachments/Starter-Alternator-Manual-English.pdf
+DENSO alternator overview:
+https://www.denso-am.eu/products/rotating-electrics/alternator
+Sanden rotating-swashplate compressor overview:
+https://www.sanden.co.jp/english/products/car/lineup/variable-displacement-type-compressors/
+Sanden A/C compressor guide:
+https://www.sanden.com/objects/AC_compressor_guide_24pp_UK_20210730.pdf
+Sanden slipper-shoe mechanism patent:
+https://patents.google.com/patent/US6371007B1/en
+Existing Continental/Dayco/Gates accessory-belt references remain with the project documentation.
+
+Source Blender files, current picture dependencies, scripts and QA records retained. Explicit human-authorized cleanup removed obsolete encoded movies and discarded frame sequences; named removal manifests are in storage-cleanup-20261123-unused-videos. No source Blender edits or duplicate native project file. Local native Metal/Eevee picture production and ordinary video encoding. No independent audio audition, OEM fit validation or engineering certification claimed.
