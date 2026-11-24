@@ -589,6 +589,28 @@
       "caption_free": true,
       "take_label": "First take",
       "ready_for_approval": false
+    },
+    {
+      "id": "oxygen-sensor",
+      "topic": "Oxygen Sensor",
+      "title": "Oxygen Sensor",
+      "version": "v006",
+      "category": "Engine Management",
+      "description": "Follow the exhaust from the engine to the downstream oxygen sensor, then see how it works and how contamination can delay its response.",
+      "note": "Review draft \u00b7 Awaiting review. Complete 540p preview with James narration, the full car opening and retained underbody context. Generic illustrative installation; not a measured OEM fit.",
+      "duration": 60,
+      "file": "media/oxygen-sensor-v006-review-draft.mp4",
+      "poster": "media/oxygen-sensor-v006.jpg",
+      "captions": null,
+      "credits": "media/oxygen-sensor-v006-credits.txt",
+      "bytes": 8434331,
+      "sha256": "217ce8e677acb3ab6fedcfa6ccd9fbf629620955b152ec652b4db8e5fe123a5b",
+      "fps": "30/1",
+      "stage": "review_draft",
+      "resolution": "540p",
+      "review_status": "Awaiting review",
+      "caption_free": true,
+      "ready_for_approval": false
     }
   ],
   "topics": [
@@ -905,8 +927,8 @@
       "id": "10-06",
       "name": "Oxygen Sensor",
       "category": "Engine Management",
-      "video_id": null,
-      "status": "To build"
+      "video_id": "oxygen-sensor",
+      "status": "Review draft saved"
     },
     {
       "id": "10-07",

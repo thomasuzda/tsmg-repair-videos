@@ -1,0 +1,19 @@
+Oxygen Sensor v006 — Review draft / Awaiting review
+60seconds /960x540 /30fps /Blender Eevee4 /localMetal.
+
+Vehicle: 2025 Toyota Camry XV80 Hybrid by Ddiaz Design (DdiazDesign).
+Source: https://sketchfab.com/3d-models/2025-toyota-camry-xv80-hybrid-53f8cbf2483940fba956f4e740a3a4ae
+License: Creative Commons Attribution-NonCommercial-ShareAlike4.0 International.
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+Adaptations: TSMG branding/materials; detailed Coil Spring chassis/suspension context and original wheels; detailed Oil-film engine; continuous illustrative manifold/downpipe connection to source exhaust; generic detailed heated zirconia sensor and downstream analytical cutaway; studio lighting, camera, soft in-place fades, operation/fault graphics and narration. Adapted material shared under CC BY-NC-SA4.0. Original supplied as-is without creator endorsement. Commercial permission is unresolved; this educational review draft does not establish commercial clearance. Keep full credits when sharing.
+
+Narration: ElevenLabs James — Husky Storyteller, voiceEkK5I93UQWFDigLMpZcX. One original authorized full take, request01a20cdc-b8e4-7652-bb30-b3c9e256dfe6, reused fromv005. No new paid voice generation forv006. No reference audio or music sampled.
+
+Generic illustrative installation, not measured Toyota OEM service CAD or a diagnosis. Downstream sensor is shown after the converter. Amber exhaust, blue reference air and green electrical response are explanatory cues. One contamination/delayed-response example connects to possible emissions-monitoring/warning-light effects. Symptoms alone do not identify a cause. No repair procedure or shop promise.
+
+Reference photographs informed placement; they do not appear in the film:
+Real Camry underbody photographs: https://ameblo.jp/autogarageswap/entry-12472606923.html
+Toyota real exhaust/sensor mounting photographs: https://static.nhtsa.gov/odi/tsbs/2022/MC-10210372-9999.pdf
+Toyota oxygen/air-fuel sensor training: https://gt4.mwp.id.au/Toyota%20Manuals/Mechanics%20Training/Toyota%20-%20Engine%20%28ODB2%29%20-%2037%20Sensors%20-%20Oxygen%20and%20Air%20Fuel%20Sensors.pdf
+
+Source files, all earlier revisions, valid James original take and render evidence remain preserved locally. Publication explicitly requested by user as a draft; no polished render or next-topic queue.
