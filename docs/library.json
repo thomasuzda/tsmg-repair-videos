@@ -611,6 +611,28 @@
       "review_status": "Awaiting review",
       "caption_free": true,
       "ready_for_approval": false
+    },
+    {
+      "id": "wheel-balance",
+      "topic": "Wheel Balance",
+      "title": "Wheel Balance",
+      "version": "v002",
+      "category": "Tires and Wheels",
+      "description": "See how uneven mass creates a rotating force and vibration, then compare opposing balancing weights and smoother rotation. Includes clear diagrams and a balance-versus-alignment comparison.",
+      "note": "Review draft \u00b7 Awaiting review. Complete 540p preview with the approved car opening and smooth fades. Explains operation and possible faults without repair instructions; not a polished final.",
+      "duration": 56,
+      "file": "media/wheel-balance-v002-review-draft.mp4",
+      "poster": "media/wheel-balance-v002.jpg",
+      "captions": null,
+      "credits": "media/wheel-balance-v002-credits.txt",
+      "bytes": 10030611,
+      "sha256": "4e36a9026ad2e2f37844076bed2d2cc224dbf1839acd33267699622159e79872",
+      "fps": "30/1",
+      "stage": "review_draft",
+      "resolution": "540p",
+      "review_status": "Awaiting review",
+      "caption_free": true,
+      "take_label": "Review draft"
     }
   ],
   "topics": [
@@ -1186,8 +1208,8 @@
       "id": "19-08",
       "name": "Wheel Balance",
       "category": "Tires and Wheels",
-      "video_id": null,
-      "status": "To build"
+      "video_id": "wheel-balance",
+      "status": "Review draft saved"
     },
     {
       "id": "19-09",
