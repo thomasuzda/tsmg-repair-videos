@@ -831,6 +831,28 @@
       "review_status": "Awaiting review",
       "caption_free": true,
       "take_label": "First take"
+    },
+    {
+      "id": "abs-system",
+      "topic": "ABS System",
+      "title": "ABS System",
+      "version": "v001",
+      "category": "Brakes",
+      "description": "See how ABS uses wheel-speed feedback and hydraulic valves to regulate brake pressure, and what can happen when its electronic control is unavailable.",
+      "note": "Review draft \u00b7 Awaiting review. Complete 540p preview with the approved car opening and smooth fades. Explains operation and possible faults without repair instructions; not a polished final.",
+      "duration": 72,
+      "file": "media/abs-system-v001-review-draft.mp4",
+      "poster": "media/abs-system-v001.jpg",
+      "captions": null,
+      "credits": "media/abs-system-v001-credits.txt",
+      "bytes": 9475779,
+      "sha256": "01419be074b4a69c47b50352bbd37a70638327d11da7f789f1dc5f4bdc52bf26",
+      "fps": "30/1",
+      "stage": "review_draft",
+      "resolution": "540p",
+      "review_status": "Awaiting review",
+      "caption_free": true,
+      "take_label": "First take"
     }
   ],
   "topics": [
@@ -845,8 +867,8 @@
       "id": "02-01",
       "name": "ABS System",
       "category": "Brakes",
-      "video_id": null,
-      "status": "To build"
+      "video_id": "abs-system",
+      "status": "Review draft saved"
     },
     {
       "id": "02-02",
