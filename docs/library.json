@@ -677,6 +677,28 @@
       "review_status": "Awaiting review",
       "caption_free": true,
       "take_label": "Review draft"
+    },
+    {
+      "id": "evap-leak-detection",
+      "topic": "EVAP Leak Detection",
+      "title": "EVAP Leak Detection",
+      "version": "v001",
+      "category": "Engine Management",
+      "description": "Follow fuel vapor into the charcoal canister and back to the engine, then compare a sealed circuit with a small opening and learn why a warning light needs diagnosis.",
+      "note": "Review draft \u00b7 Awaiting review. Complete 540p preview with the approved car opening and smooth fades. Explains operation and possible faults without repair instructions; not a polished final.",
+      "duration": 54,
+      "file": "media/evap-leak-detection-v001-review-draft.mp4",
+      "poster": "media/evap-leak-detection-v001.jpg",
+      "captions": null,
+      "credits": "media/evap-leak-detection-v001-credits.txt",
+      "bytes": 7814718,
+      "sha256": "f3c6cbfc618ced43b6ca183269b6e40fb921d34f502a5326c9fd5f8fbb9ae0fb",
+      "fps": "30/1",
+      "stage": "review_draft",
+      "resolution": "540p",
+      "review_status": "Awaiting review",
+      "caption_free": true,
+      "take_label": "Review draft"
     }
   ],
   "topics": [
@@ -972,8 +994,8 @@
       "id": "10-03",
       "name": "EVAP Leak Detection",
       "category": "Engine Management",
-      "video_id": null,
-      "status": "To build"
+      "video_id": "evap-leak-detection",
+      "status": "Review draft saved"
     },
     {
       "id": "10-04",

@@ -1,0 +1,27 @@
+EVAP Leak Detection v001 — local human review draft
+
+Original red vehicle/engine/chassis: Oxygen-Sensor-v006-Connected-Underbody.blend.
+Original fuel tank and supporting hardware: Wheel-Alignment-v008-No-Target.blend.
+New hollow vapor circuit, canister cutaway, carbon bed, valves and illustrative hose opening: native Blender geometry in this project.
+Active vapor/smoke graphics and explanatory comparison: editable Python/Pillow drawing source in scripts/diagrams.py, also embedded in the editable Blender file.
+Generic educational layout; original source files remain unchanged.
+
+Primary technical references checked for the film:
+Ford, 2002 Villager Powertrain Control/Emissions Diagnosis, EVAP system description and integrity monitoring, pp33–37:
+https://www.fordservicecontent.com/ford_content/catalog/motorcraft/2002_vill_00_010_0.pdf
+Snap-on, EVAP system operation: charcoal storage, purge/vent functions and diagnostic smoke:
+https://www.snapon.com/EN/US/Diagnostics/News-Center/Technical-Focus-Archive/EVAP-system-operation
+Aston Martin manufacturer service bulletin, smoke testing to identify leaks and avoid unnecessary repairs:
+https://static.nhtsa.gov/odi/tsbs/2022/MC-10222118-0001.pdf
+Ford vapor canister description, potential check-engine indication without obvious driving symptoms:
+https://www.ford.com/product/vapor-canister-p4000158075
+
+Animated amber particles illustrate otherwise invisible fuel vapor. Gray smoke is diagnostic smoke in a conceptual comparison, not ordinary exhaust or visible fuel vapor. No DIY hookup, drain, flush or service instructions; no universal pressure, test method or service interval. Testing establishes the cause rather than assuming a part needs replacement.
+
+Final narration credit: ElevenLabs, James Husky Storyteller, EkK5I93UQWFDigLMpZcX. One complete selected take, stability0.65, similarity0.75, English, timestamps, mp3_44100_192; natural speaking tempo preserved. Final delivery audio48kHz stereo.
+
+Vehicle attribution retained from source: 2025 Toyota Camry XV80 Hybrid by Ddiaz Design (DdiazDesign).
+https://sketchfab.com/3d-models/2025-toyota-camry-xv80-hybrid-53f8cbf2483940fba956f4e740a3a4ae
+License: Creative Commons Attribution-NonCommercial-ShareAlike4.0 International.
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+Adapted material shared under CC BY-NC-SA4.0. No endorsement implied. Original asset/source attribution retained with derivatives.
