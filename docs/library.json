@@ -1007,6 +1007,28 @@
       "review_status": "Awaiting review",
       "caption_free": true,
       "take_label": "First take"
+    },
+    {
+      "id": "timing-chain",
+      "topic": "Timing Chain",
+      "title": "Timing Chain",
+      "version": "v001",
+      "category": "Engine",
+      "description": "See how a timing chain keeps the crankshaft and camshaft synchronized, then examine how wear inside its joints can add up to extra play and possible timing problems.",
+      "note": "Review draft \u00b7 Awaiting review. Complete 540p preview with the approved car opening and smooth fades. Explains operation and possible faults without repair instructions; not a polished final.",
+      "duration": 72,
+      "file": "media/timing-chain-v001-review-draft.mp4",
+      "poster": "media/timing-chain-v001.jpg",
+      "captions": null,
+      "credits": "media/timing-chain-v001-credits.txt",
+      "bytes": 5663339,
+      "sha256": "e7e7ee1bf9bba02119c18061caca3afc20f7f535bfd4642607b14ca3d3de1dce",
+      "fps": "30/1",
+      "stage": "review_draft",
+      "resolution": "540p",
+      "review_status": "Awaiting review",
+      "caption_free": true,
+      "take_label": "First take"
     }
   ],
   "topics": [
@@ -1259,8 +1281,8 @@
       "id": "09-07",
       "name": "Timing Chain",
       "category": "Engine",
-      "video_id": null,
-      "status": "To build"
+      "video_id": "timing-chain",
+      "status": "Review draft saved"
     },
     {
       "id": "09-08",

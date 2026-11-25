@@ -1,0 +1,35 @@
+TIMING CHAIN — v001 customer teaching review draft
+
+Vehicle artwork: 2025 Toyota Camry XV80 Hybrid by Ddiaz Design (DdiazDesign).
+https://sketchfab.com/3d-models/2025-toyota-camry-xv80-hybrid-53f8cbf2483940fba956f4e740a3a4ae
+License: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International.
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+Adaptation: retained detailed redcar and PBR source materials from Sway-Bar-v001-First-Take.blend; retained actual enhanced generic engine exterior, exhaust and accessory metals from Engine-Realism-Approval-v019.blend; new cameras, in-place reveals, a separately authored generic working roller-chain section and enlarged one-joint pin/bushing wear comparison. Adapted artwork shared under CC BY-NC-SA 4.0. No endorsement. Source supplied as-is. Commercial permission remains unresolved; no commercial clearance claimed.
+
+Original source files remain byte exact; hashes and sizes are in sources/source-identity.json. The engine approval is for static reference-informed appearance, not a mechanically validated animation or exact donor/OEM architecture. The original cylindrical sprockets and hull-resampled static chain are not used as a working mechanism. The single-cam analytical section is separate and explicitly simplified/slowed; its layout is not the car donor's hidden engine architecture.
+
+Working analytical drive:16-tooth crank sprocket,32-tooth cam sprocket,84 fixed-pitch links and supported fixed shaft centres. Link joints articulate around actual seated rollers. A return guide and connected tensioner accommodate polygonal chain motion. Fresh focused calculations and native pose checks establish this geometric/kinematic example, not load, lubrication, fatigue, force, OEM or engineering certification. The tooth flanks were relieved using the actual roller transition envelope after preserving the first failed clearance check. No rigid chain-ring spin, sliding links through teeth, frozen motion, fake frame interpolation or static-source PASS claim is used. Tiny instantaneous chordal speed variation is included; two full crank revolutions correspond to one full cam revolution.
+
+Wear example: one enlarged joint is shown intact and worn, with localized material removal from the pin and bushing bore. The link plates keep their dimensions. Extra clearance lets the rigid pin-link move farther under load; the bore clears the pin throughout that motion. This is an exaggerated teaching section, not measured wear, a specification, a real customer's finding or another running fault. The front outer cheek is analytically omitted to see the contact. Normal operation is shown separately. No arbitrary timing jump, universal piston/valve contact, smoke, fuel spray or simulated engine destruction appears. No piston/valve animation or exact valve event poses are asserted.
+
+The film teaches function, one wear mechanism and qualified possible effects. Noise or poor running has other causes. No diagnosis, repair/replacement procedure, shop promise, driving advice, mileage rule or replacement interval is presented.
+
+Primary manufacturer technical references checked 2026-11-25:
+Schaeffler / INA — Timing Drive: crankshaft/camshaft synchronization and metal chain inside the engine housing.
+https://vehiclelifetimesolutions.schaeffler.fi/en/timing-drive
+COMP Cams — Valve Timing Tutorial: conventional four-stroke camshaft speed is half crankshaft speed. Official search-index content was readable; direct fetch returned403. The illustrated16/32 tooth ratio was independently calculated.
+https://www.compcams.com/valve-timing-tutorial/
+Tsubakimoto Chain — FAQ: pin/bushing contact wear creates more space and increases chain length. Industrial allowable-wear limits are not adopted for this engine film.
+https://tsubaki.it/support/general-info/faq/
+Infineum International — Timing chain wear: engine chain function, wear contacts, changed pitch and possible valve-timing disruption/inefficiency.
+https://www.infineuminsight.com/en-gb/articles/timing-chain-wear/
+HEPU Autoteile — Timing Chain Elongation: joint wear, guide/tensioner loading, noise and timing effects. No product-life, mileage, replacement or wear-percentage claims adopted.
+https://www.hepu.de/en/timing-chain-elongation-vanatec-technology/
+BorgWarner — Engine Timing Systems: system geometry and tension tuning.
+https://www.borgwarner.com/technologies/engine-timing-systems
+
+Narration: one authorized full ElevenLabs James Husky Storyteller, voice EkK5I93UQWFDigLMpZcX, elevenlabs/tts/eleven-v4, stability.65/similarity.75/English, timestamps and mp3_44100_192. Complete picture reviewed and locked before generation. Original request, receipt, timestamps and audio retained. All words kept at original natural tempo and synchronized48k stereo; paragraph placement only.
+
+Production: native960x540 at30fps, local Metal/Eevee4samples, no ray tracing, motion blur or cast shadows. Actual native still and consecutive normal1x motion gate before full sequence. Every fresh sequential native render child stays at or below60 actual endpoint calls. Each PNG/index/evaluated state/identity commits before advancing. Only verified identical same-time gate frames reused. Same-time endpoint alpha composition supports smooth reveals, without interpolating motion.
+
+Review scope: full audiovisual decode; actual encoded teaching frames visually reviewed; exact-file complete normal1x unmuted browser playback to end with full-byte hash, frame/drop/seek/error and audio-signal scope recorded. No independent human audible audition, OEM certification or commercial clearance claimed. Keep the complete editable folder and QA records.
