@@ -655,6 +655,28 @@
       "review_status": "Awaiting review",
       "caption_free": true,
       "take_label": "Review draft"
+    },
+    {
+      "id": "coolant-flush",
+      "topic": "Coolant Flush",
+      "title": "Coolant Flush",
+      "version": "v001",
+      "category": "Cooling",
+      "description": "Follow coolant carrying engine heat to the radiator, see the thermostat and airflow work, and compare a clean passage with deposits and renewed coolant protection.",
+      "note": "Review draft \u00b7 Awaiting review. Complete 540p preview with the approved car opening and smooth fades. Explains operation and possible faults without repair instructions; not a polished final.",
+      "duration": 60,
+      "file": "media/coolant-flush-v001-review-draft.mp4",
+      "poster": "media/coolant-flush-v001.jpg",
+      "captions": null,
+      "credits": "media/coolant-flush-v001-credits.txt",
+      "bytes": 21707055,
+      "sha256": "cc512d1db8b406804c9af40a26fe0d5ca307288152e04ed47c930ebbd1fe2b9c",
+      "fps": "30/1",
+      "stage": "review_draft",
+      "resolution": "540p",
+      "review_status": "Awaiting review",
+      "caption_free": true,
+      "take_label": "Review draft"
     }
   ],
   "topics": [
@@ -725,8 +747,8 @@
       "id": "04-01",
       "name": "Coolant Flush",
       "category": "Cooling",
-      "video_id": null,
-      "status": "To build"
+      "video_id": "coolant-flush",
+      "status": "Review draft saved"
     },
     {
       "id": "04-02",

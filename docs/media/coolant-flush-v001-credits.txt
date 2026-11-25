@@ -1,0 +1,28 @@
+Coolant Flush — review draft v001
+Original detailed automotive models and educational animation by the repair explainer project. New derivative only; existing sources, all saved films and topic mappings preserved.
+
+Picture: native 960x540,30fps. Blender5.2.1 Eevee,4samples, local Metal; ray tracing, motion blur and cast shadows off. White cooling-topic background. Connected car/engine/cooling-system source: thermostat-explainer-v002-away-draft/Thermostat-v002-REVIEW-r003.blend. New detailed source derivative and editable drawing/animation source supplied.
+
+Generic conventional cooling layout, not OEM CAD. X-ray path is schematic inside engine castings; hoses trace measured source centerlines. Radiator comparison is enlarged and illustrative. Deposits are contained on passage walls; no numerical coolant-flow/temperature claim. Service renews the specified mixture and corrosion protection; it is not a promise to repair corroded parts. Fluid types and maintenance schedules vary by vehicle. No DIY service sequence or universal interval.
+
+Primary manufacturer references checked2026-11-24:
+Gates Cooling101 — pump circulation, radiator tubes/air, hot upper hose and cooler return:
+https://go.gates.com/coolcounter.html
+Gates Automotive Coolant Hose — thermostat/upper radiator route and pump/lower return:
+https://www.gates.com/in/en/fluid-power/engine-hose/coolant-hose.p.4310-000000-000000.IN-4310-A00129.html
+BASF GLYSANTIN Usage & Maintenance — additive degradation and loss of corrosion protection:
+https://www.glysantin.com/global/en/faq/usage-maintenance
+Prestone Cooling System Flush — deposit/corrosion buildup and cleaning purpose:
+https://www.prestoneuk.com/products/coolant-antifreeze/prestone-cooling-system-flush/
+Ford manufacturer guide — coolant heat transfer/corrosion protection and vehicle-specific specifications/schedule:
+https://www.fordservicecontent.com/Ford_Content/catalog/owner_guides/1160l6d1e.pdf
+
+These references support the generic explanation; none identifies a finding on the viewer's particular vehicle. No source photographs, footage or manufacturer logos are used in this film.
+
+Narration: ElevenLabs James – Husky Storyteller, voiceEkK5I93UQWFDigLMpZcX, elevenlabs/tts/eleven-v4. One full authorized take after picture lock; stability0.65, similarity0.75, English, sourceMP3 44.1kHz192kbps. Request01a2107a-f0e7-72f1-9348-a3bf30f67de3. Complete words retained at native tempo; only paragraph placement/silence adjusted to picture. Final48kHz stereoAAC. No scratch narration, music, paid tests or repeat voice generation.
+
+Vehicle attribution retained from source: 2025 Toyota Camry XV80 Hybrid by Ddiaz Design (DdiazDesign).
+https://sketchfab.com/3d-models/2025-toyota-camry-xv80-hybrid-53f8cbf2483940fba956f4e740a3a4ae
+License: Creative Commons Attribution-NonCommercial-ShareAlike4.0 International.
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+Adapted material shared under CC BY-NC-SA4.0. No endorsement implied. Original asset/source attribution retained with derivatives.
