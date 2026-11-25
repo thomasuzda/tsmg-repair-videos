@@ -699,6 +699,28 @@
       "review_status": "Awaiting review",
       "caption_free": true,
       "take_label": "Review draft"
+    },
+    {
+      "id": "pressure-related-tire-wear",
+      "topic": "Pressure Related Tire Wear",
+      "title": "Tire Pressure & Wear",
+      "version": "v001",
+      "category": "Tires and Wheels",
+      "description": "See how tire pressure supports the load, then compare flex, heat, contact and possible wear patterns. Learn how pressure differs from wheel balance and alignment.",
+      "note": "Review draft \u00b7 Awaiting review. Complete 540p preview with the approved car opening and smooth fades. Explains operation and possible faults without repair instructions; not a polished final.",
+      "duration": 64,
+      "file": "media/pressure-related-tire-wear-v001-review-draft.mp4",
+      "poster": "media/pressure-related-tire-wear-v001.jpg",
+      "captions": null,
+      "credits": "media/pressure-related-tire-wear-v001-credits.txt",
+      "bytes": 4982000,
+      "sha256": "7b31e4c0d3f0ae8021cd7f706b0ffb3c76bd3155e43ad9a95f89d9ac84fa1b45",
+      "fps": "30/1",
+      "stage": "review_draft",
+      "resolution": "540p",
+      "review_status": "Awaiting review",
+      "caption_free": true,
+      "take_label": "Review draft"
     }
   ],
   "topics": [
@@ -1232,8 +1254,8 @@
       "id": "19-02",
       "name": "Pressure Related Tire Wear",
       "category": "Tires and Wheels",
-      "video_id": null,
-      "status": "To build"
+      "video_id": "pressure-related-tire-wear",
+      "status": "Review draft saved"
     },
     {
       "id": "19-03",

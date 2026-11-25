@@ -1,0 +1,10 @@
+Tire Pressure & Wear v001 — Review draft
+
+Native animation and teaching diagrams: TSMG. Narration: ElevenLabs James – Husky Storyteller, one authorized full take.
+
+Detailed car asset: 2025 Toyota Camry (XV80) Hybrid by DdiazDesign, CC BY-NC-SA 4.0.
+https://sketchfab.com/3d-models/2025-toyota-camry-xv80-hybrid-53f8cbf2483940fba956f4e740a3a4ae
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+Derivative scene retains source attribution/license. Generic analytical section; deformation and contact illustrations enlarged. Possible wear patterns are examples, not diagnosis.
+
+Technical references: Michelin and Continental manufacturer guidance; exact sources recorded in original references/fact-check.json.
