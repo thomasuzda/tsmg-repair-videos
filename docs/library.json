@@ -853,6 +853,28 @@
       "review_status": "Awaiting review",
       "caption_free": true,
       "take_label": "First take"
+    },
+    {
+      "id": "brake-master-cylinder",
+      "topic": "Brake Master Cylinder",
+      "title": "Brake Master Cylinder",
+      "version": "v001",
+      "category": "Brakes",
+      "description": "See how the master cylinder turns pedal force into pressure in two brake circuits, and how an internal seal leak can affect braking.",
+      "note": "Review draft \u00b7 Awaiting review. Complete 540p preview with the approved car opening and smooth fades. Explains operation and possible faults without repair instructions; not a polished final.",
+      "duration": 74,
+      "file": "media/brake-master-cylinder-v001-review-draft.mp4",
+      "poster": "media/brake-master-cylinder-v001.jpg",
+      "captions": null,
+      "credits": "media/brake-master-cylinder-v001-credits.txt",
+      "bytes": 8995534,
+      "sha256": "51b810b32d589ee1ac3fbc8c38071980a2b1f208be27092ac3aac95754536f1a",
+      "fps": "30/1",
+      "stage": "review_draft",
+      "resolution": "540p",
+      "review_status": "Awaiting review",
+      "caption_free": true,
+      "take_label": "First take"
     }
   ],
   "topics": [
@@ -881,8 +903,8 @@
       "id": "02-03",
       "name": "Brake Master Cylinder",
       "category": "Brakes",
-      "video_id": null,
-      "status": "To build"
+      "video_id": "brake-master-cylinder",
+      "status": "Review draft saved"
     },
     {
       "id": "02-04",

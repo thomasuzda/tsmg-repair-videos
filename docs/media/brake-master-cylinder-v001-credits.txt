@@ -1,0 +1,38 @@
+Brake Master Cylinder — v001 narrated customer teaching review draft
+
+Vehicle: 2025 Toyota Camry XV80 Hybrid by Ddiaz Design (DdiazDesign).
+Source: https://sketchfab.com/3d-models/2025-toyota-camry-xv80-hybrid-53f8cbf2483940fba956f4e740a3a4ae
+License: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International.
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+Adapted material shared under CC BY-NC-SA 4.0. Original supplied as-is, without creator endorsement. Existing source companion states commercial permission unresolved; this draft does not establish commercial clearance. Keep attribution when sharing.
+
+Original retained source: sway-bar-explainer-v001-first-take/Sway-Bar-v001-First-Take.blend,147141422bytes,SHA2568afbe415f27f68f636befe2be470f93c8111c9e8f00f2e2277451102b44b5c8b. Original remains byte-exact. New derivative retains the detailed original red car, installed master-cylinder exterior, reservoir, mounting flange/nuts, two outlet pipes, ABS exterior, connected brake lines and wheel brakes, compact supports, source glass/floor shading. Saved geometry and names establish visual source context, not proof of OEM internal topology. Alignment targets, old diagrams and unrelated clutter are omitted only in this derivative. Historical deleted files are not recreated. No simplified replacement car, cloud render or paid visual generation is used.
+
+New work: white studio; same-side complete-car opening/return and in-place body fades; connected installed-master approach; enlarged generic conventional compensating-port tandem master cylinder; supported pedal/pushrod, primary and secondary pistons, separate pressure and isolating seals, low-side annuli, actual open reservoir galleries/outlets, contained fluid regions, supported return springs, fixed travel stop, two connected caliper piston/pad/rotor load examples, qualitative pressure/force cues and one selected secondary pressure-cup bypass fault.
+
+Teaching model qualification: the enlarged conventional section is GENERIC. It is not a reproduction of the donor Camry Hybrid regenerative, blended or electrohydraulic internals, exact OEM routing, measured CAD, service instructions or a full loaded-vehicle simulation. Two load examples represent separate circuits; they do not assert a particular front/rear or diagonal wheel split. Pedal/piston/seal motion and worn-seal clearance are purposefully enlarged. Display cuts are not external leaks. Pressure colours, bars and opposed clamp arrows are qualitative; no units, stopping distance or exact braking-force result is asserted. Rear half-annular fluid surfaces expose components without presenting fluid as air or compressible foam. Fluid remains contained; no continuous high-volume loop through a closed caliper is shown.
+
+Normal: pushrod force moves the primary piston; its pressure moves the secondary. Pressure cups pass compensating ports; each circuit transmits pressure to its separate brake load. A small displacement closes pad clearance, followed by contained pressure. On release, springs return pistons and reservoir communication reopens. The same illustrative pedal force and outlet loads are used in the fault application.
+
+Fault: ONLY the secondary front pressure cup has an enlarged bypass clearance. Fluid passes around that worn cup to its low-side region, which communicates with the reservoir. The secondary rear separating seal stays intact; the two pressure circuits are not arbitrarily joined. Secondary circuit B fails to maintain pressure, and the pedal/pistons travel farther. The secondary nose reaches its physical fixed stop; primary circuit A can then retain pressure. This selected geometry does not promise safe base braking or universal tandem behavior. Possible longer/sinking pedal and reduced braking are qualified. Other hydraulic faults can cause similar symptoms; none is a diagnosis of the customer's vehicle. No DIY testing, repair procedure, driving advice, pricing or sales promise is included.
+
+Primary technical evidence and concise claim mapping: references/claim-source-map.json.
+Bosch Mobility: pedal force becomes hydraulic circuit pressure; modern designs can differ.
+https://www.bosch-mobility.com/en/solutions/braking-systems/tandem-master-cylinder/
+Toyota/Lexus manufacturer Technical Training, Section2 Master Cylinder, pp11–16, mirrored PDF: conventional cups/ports, separate circuits, release, selected secondary-side leak and end-stop/primary load path.
+https://gt4.mwp.id.au/Toyota%20Manuals/Mechanics%20Training/Toyota%20-%20Brakes%20-%2002%20Master%20Cylinder.pdf
+Raybestos/Brake Parts Inc., BPI11-10: piston cup seals and internal bypass pressure loss.
+https://www.brakepartsinc.com/dam/jcr%3Afb23508d-461e-4bd9-89f8-7c1556ea29d4/Low/Spongy%20Brake%20Pedal.pdf
+ADVICS: seal failure is a possible pressure-loss/sinking-pedal cause.
+https://www.advicsaftermarket.com/technical-resources/troubleshooting/troubleshooting-brake-pressure-loss/
+No manufacturer diagrams, training audio or copied video are included.
+
+Native picture:74seconds,960x540,30fps,Eevee4samples,local Metal. No raytracing, motion blur or cast shadows. All2220 native picture times rendered; verified exact same-time gate frames reused without interpolation or substituted frozen motion. Each fresh sequential renderer is limited to60 actual endpoint renders, under one whole capacity1/priority0 GPU lease and40.25GiB protected reserve. Recoveries and failed checks are preserved; practical source/keyframe/world-boundary checks replace old exhaustive proof machinery.
+
+Editable: baked native3D animation and camera plus complete authoritative picture/audio Film Timeline. Source scripts and references are embedded. Exact same-time two-endpoint white fades and tracked graphics use the embedded render/overlay recipe. Keep this whole folder for relative frames/ and audio/ dependencies. No independent human audible audition, OEM engineering certification or validated vehicle dynamics is claimed.
+
+Narration: ElevenLabs James — Husky Storyteller, voice EkK5I93UQWFDigLMpZcX. ONE necessary full take generated after picture lock, endpoint elevenlabs/tts/eleven-v4, stability0.65/similarity0.75/English/timestamps/mp3_44100_192. Request 01a21360-12ff-7e20-98e1-8d53bdcafa77. Exact request, original result/receipt, provider timestamps, verified system-TLS original MP3 download and original SHA are cached in audio/. All138 script words remain at their original natural tempo; only paragraph placement is adjusted to picture beats. Final mix/AAC48kHz stereo. No stale other-film audio, scratch voice, paid test, uncertain duplicate submission, music or SFX is used.
+
+Final typography correction:1px white edge preserves topic readability over a source pipe in the installed close-up. All2220 exact-time native pictures and timing are retained; initial complete PNGs/indices and movie are preserved in qa/. This CPU-only contrast composite adds no interpolated or frozen motion.
+
+Final review cleanup: the comparison footer was removed to follow the no-bottom-tags instruction. Separate pressure bars, seal-bypass callout and narration teach the comparison. Native motion, all words and beat timing are unchanged; prior exact-time frames/movie are preserved. The current full Film Timeline resolves the final corrected frames.
