@@ -1029,6 +1029,28 @@
       "review_status": "Awaiting review",
       "caption_free": true,
       "take_label": "First take"
+    },
+    {
+      "id": "timing-belt",
+      "topic": "Timing Belt",
+      "title": "Timing Belt",
+      "version": "v001",
+      "category": "Engine",
+      "description": "Follow a toothed timing belt as it synchronizes the engine, examine its reinforced construction, and see how losing tooth engagement can affect valve timing.",
+      "note": "Review draft \u00b7 Awaiting review. Complete 540p preview with the approved car opening and smooth fades. Explains operation and possible faults without repair instructions; not a polished final.",
+      "duration": 70,
+      "file": "media/timing-belt-v001-review-draft.mp4",
+      "poster": "media/timing-belt-v001.jpg",
+      "captions": null,
+      "credits": "media/timing-belt-v001-credits.txt",
+      "bytes": 5765430,
+      "sha256": "356a710205a9fa66967e4bcc5284fd29137e1ae0102158f85bbdb8476af0c0d0",
+      "fps": "30/1",
+      "stage": "review_draft",
+      "resolution": "540p",
+      "review_status": "Awaiting review",
+      "caption_free": true,
+      "take_label": "First take"
     }
   ],
   "topics": [
@@ -1274,8 +1296,8 @@
       "id": "09-06",
       "name": "Timing Belt",
       "category": "Engine",
-      "video_id": null,
-      "status": "To build"
+      "video_id": "timing-belt",
+      "status": "Review draft saved"
     },
     {
       "id": "09-07",

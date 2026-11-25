@@ -1,0 +1,42 @@
+TIMING BELT — v001 customer teaching review draft
+
+Vehicle artwork: 2025 Toyota Camry XV80 Hybrid by Ddiaz Design (DdiazDesign).
+https://sketchfab.com/3d-models/2025-toyota-camry-xv80-hybrid-53f8cbf2483940fba956f4e730a3a4ae
+License: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International.
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+Adaptation: retained detailed red car and source PBR materials from Sway-Bar-v001-First-Take.blend, and enhanced generic engine exterior from Engine-Realism-Approval-v019.blend. New cameras, in-place reveals, supported generic toothed timing-belt drive, reinforced material section and ONE local tooth-root failure example. Adapted artwork shared under CC BY-NC-SA 4.0. No endorsement. Source supplied as-is. Commercial permission remains unresolved; no commercial clearance claimed.
+
+Original source files remain byte exact; sizes/SHA256 are in sources/source-identity.json. EngineRealism approval is STATIC reference-informed appearance only, not a validated working timing-belt mechanism or donor/OEM architecture. The car establishes visual context; no claim that this donor has the illustrated belt layout. The separate enlarged analytical drive and material section are generic.
+
+NEW positive drive: continuous reinforced elastomer80-tooth belt,20/40 actual grooved pulleys, matched .18 illustrative pitch, exact closed pitch-line path and2:1 crank/cam ratio. Bearing housings, shafts and backside installed tensioner connect to a common rear support. Geometry is slowed for legibility with one coherent faster burst. Groove relief and clearance were checked at focused actual times. No OEM profile, stress, force, fatigue-life or engineering certification is claimed. No source cylindrical sprockets, chain links, accessory friction ribs or static approval are relabeled as mechanical timing-belt proof.
+
+Construction: the enlarged local belt section shows a flexible elastomer tooth body, embedded longitudinal reinforcing cords and tooth-facing fabric. Cord color and section scale aid visibility. Constructions differ; no claim that every belt is dry, every engine has a belt, or that all belts use exactly this material specification.
+
+ONE fault: localized central tooth-root cracking and separation. The tooth first separates out of the viewing plane, then offsets in an exploded analytical section so the remaining gap and mating groove are visible. This is not a calculated loaded deformation or fragment-flight trajectory. The backing and reinforcement remain intact in this example; only that tooth loses its attachment. Normal drive is shown separately. The film does not claim that one missing tooth universally causes a timing jump, full-belt break, no-start, piston/valve collision or engine damage. Consequences are qualified by loss of sufficient engagement, engine design and severity; other causes are acknowledged. No exact valve-phase or piston animation is asserted.
+
+The film teaches normal function, positive engagement, reinforced belt construction and one failure mechanism with possible customer effects. No repair/replacement/inspection sequence, diagnosis, fixed service mileage, universal lifespan, prices, driving advice, shop promise or safety guarantee is presented.
+
+Primary manufacturer facts checked2026-11-25; full claim/source map retained:
+Gates — Timing Belt Drive Systems: synchronization, tensioners, reinforced rubber/tensile members and possible poor-running/non-running effects when synchronization is disrupted.
+https://www.gates.com/us/en/innovations-and-solutions/automotive-and-on-highway-solutions/timing-belt-drive-systems.html
+Gates — PowerGrip drive design manual: positive engagement of molded teeth with matching pulley grooves; pitch measured at the tensile-member pitch line. Generic principle only; industrial specifications/intervals not adopted.
+https://www.gates.com/content/dam/documents-library/catalogs/powergrip-gt3-drive-design-manual-en.pdf
+Gates TechZone — Wear analysis on timing belts: root cracking and glass-fiber tensile members. Page read directly; service instructions not adopted.
+https://www.gatestechzone.com/gb/en/articles/wear-analysis-on-timing-belts.html
+Continental — Timing belts workbook, pp6–7: elastomer, tension members, protective tooth fabric and construction variations including oil-running belts. Primary indexed text read; direct legacy URL redirects.
+https://www.continental-engineparts.com/eu/getmedia/39aff0cc-b87a-44c5-91bd-3899aae89fe6/CT_PTG_AAM_Workbook_EN.pdf
+Continental — Timing belts, Problem/Diagnosis/Solution: tooth root/flank wear, shearing and separation. Primary indexed chart read; direct old URL404 retained as availability limitation. No specific cause is diagnosed in this film.
+https://www.continental-industry.com/getmedia/1a3cac53-7b37-4d40-8faa-a8ab8abe5723/PTG8627_2-En-Timing-Belts-Problem-Diagnosis-Solution.pdf
+COMP Cams — Valve Timing Tutorial: conventional four-stroke camshaft speed is half crankshaft speed. Illustrated20/40 ratio independently calculated.
+https://www.compcams.com/valve-timing-tutorial/
+
+Narration: one authorized full ElevenLabs James Husky Storyteller take, voice EkK5I93UQWFDigLMpZcX, elevenlabs/tts/eleven-v4, stability.65/similarity.75/English, timestamps/mp3_44100_192. Full useful picture reviewed and locked before generation. Script/request/receipt/original/timestamps retained. All words preserved at original natural tempo; synchronized48k stereo by paragraph placement only.
+
+Production: native960x54030fps, local Metal/Eevee4samples; no ray tracing, motion blur or cast shadows. Actual stills and consecutive normal1x short-motion gate before full sequence, under one whole GPU lease. Every fresh sequential native child at most60 actual render endpoints. Frame-first from START: all required same-time endpoints, compose, atomicfsyncPNG/index/evaluatedstate/recipe identity, then advance. Only exact verified same-time gate frames reused. No motion interpolation or frozen motion.
+
+Editable: fresh native3D plus complete2100-frame picture/audio timeline, packed source assets and sound, relative picture frames and embedded production source. A homogeneous80-tooth belt is a periodic surface:73 exact sub-pitch states with whole-pitch vertex-index permutation reproduce actual native geometry. Native30fps poses are keyed without interpolation of pictures. Keep the WHOLE folder.
+
+Review scope: full audiovisual decode, actual encoded teaching frames viewed, full exact-file normal1x UNMUTED browser playback to end with SHA256/full-byte identity, callbacks, drops, seeks, errors and audio signal monitoring recorded. No independent human audible audition or OEM/engineering certification claimed. Native short-motion review had one browser display drop; raw evidence is preserved. Final playback counters are in qa/whole-final-AV-review.json.
+
+Additional corroboration: Gates Australia, Introduction to Timing Belts and Systems101, tooth-shear failure table (primary indexed text read; no repair instructions adopted).
+https://www.gatesaustralia.com.au/~/media/Files/Gates%20AU/Automotive/Brochures/SBDS/TB%20%20Systems%20Training%20Manual.pdf
