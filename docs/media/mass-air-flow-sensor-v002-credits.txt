@@ -1,0 +1,25 @@
+Mass Air Flow Sensor — v002 narrated customer teaching review draft
+original88 topic10-05 / video_id mass-air-flow-sensor
+
+Vehicle: 2025 Toyota Camry XV80 Hybrid by Ddiaz Design (DdiazDesign).
+https://sketchfab.com/3d-models/2025-toyota-camry-xv80-hybrid-53f8cbf2483940fba956f4e740a3a4ae
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International.
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+Adapted material shared under CC BY-NC-SA 4.0. Original supplied as-is without creator endorsement. Existing source companion states commercial permission unresolved; this draft does not establish commercial clearance. Keep attribution when sharing.
+
+Source: preserved Sway-Bar-v001-First-Take.blend, original detailed car/PBR and installed engine, airbox, intake elbow, throttle, MAF exterior plug/flange and connected harness. Exact source bytes/hash in qa/source-original.json. New derivative keeps detailed geometry and changes display/camera/studio, seats the flange ahead of the airbox lip on a generic contact-fitted external foot and smoothly reroutes the nearby harness. The old MAF v001 clearance HOLD remains unchanged and is not adopted as a pass. Separate generic enlarged sensing model and explanatory diagrams were created for this film. No reference film imagery or audio appears in the output.
+
+Generic heated-film teaching principle, not universal Toyota sensor CAD/design, actual membrane location, electrical pinout, calibration or voltage. The enlarged half-duct contains a supported membrane, heater and two measurement fields. Moving blue arrows indicate air; warm/cool fields and short red heat-transfer arrows are symbolic, not literal sensor glow or combustion smoke. Filtered air path is a schematic internal centerline shown through opaque housing. Dimensions, heat-transfer scale, flow speed and fuel droplet counts are illustrative and nonquantitative.
+
+The paired contamination example holds actual airflow constant. Changed heat transfer can bias the measurement. The later fuel example illustrates an under-reading that can command too little fuel; contamination is not guaranteed to bias readings in this direction. Engine control uses other inputs and feedback, and actual behavior varies. Rough idle, hesitation and an engine warning light are possible effects; symptoms or diagnostic codes alone do not identify the cause. No repair/cleaning/testing steps, service promises, prices, OEM certification or measured operating values.
+
+Primary technical sources and qualifications:
+Bosch, Hot-film air-mass meter:
+https://www.bosch-mobility.com/en/solutions/sensors/hotfilm-airflow-sensor/
+DENSO, Mass Air Flow Sensors:
+https://www.denso-am.eu/products/engine-management-systems/mass-air-flow-sensors
+See references/fact-check.json for concise claim mapping and causal-inference qualifications. Source pages cached in references/.
+
+Production: local Metal GPU, Eevee4 samples, native960x54030fps; no ray tracing, motion blur or cast shadows. All1800 final picture times rendered natively with clean exact-time two-plate fades; no frame interpolation or frozen-motion substitution. Full picture/audio timeline and native3D/source supplied in the editable Blender file. Keep the whole folder together for relative frames/ and audio/ dependencies. No music or reference-film sound.
+
+Narration: ElevenLabs James — Husky Storyteller, voice EkK5I93UQWFDigLMpZcX. One necessary full take generated after complete normal1x picture review/lock; endpoint elevenlabs/tts/eleven-v4, stability0.65/similarity0.75, English, timestamps, mp3_44100_192. Request 01a21104-cde2-76d0-a72b-1777a271088f. Full original/request/receipt/timestamps cached in audio/. Natural tempo and every spoken word retained; only interparagraph placement changes. Final synchronization48kHz stereo. No independent human audible audition is claimed by automated speech-content QA.

@@ -743,6 +743,28 @@
       "review_status": "Awaiting review",
       "caption_free": true,
       "take_label": "Review draft"
+    },
+    {
+      "id": "mass-air-flow-sensor",
+      "topic": "Mass Air Flow (MAF) Sensor",
+      "title": "Mass Air Flow Sensor",
+      "version": "v002",
+      "category": "Engine Management",
+      "description": "Follow filtered air to the sensor and see how moving air changes heat transfer. Compare clean and contaminated sensing surfaces, then see one possible biased-reading effect on fueling and why symptoms need diagnosis.",
+      "note": "Review draft \u00b7 Awaiting review. Complete 540p preview with the approved car opening and smooth fades. Explains operation and possible faults without repair instructions; not a polished final.",
+      "duration": 60,
+      "file": "media/mass-air-flow-sensor-v002-review-draft.mp4",
+      "poster": "media/mass-air-flow-sensor-v002.jpg",
+      "captions": null,
+      "credits": "media/mass-air-flow-sensor-v002-credits.txt",
+      "bytes": 7623865,
+      "sha256": "65c4d12cc4076dd0a8df18941c9da58cc6f821380fef8071536c5a58d8d1e89b",
+      "fps": "30/1",
+      "stage": "review_draft",
+      "resolution": "540p",
+      "review_status": "Awaiting review",
+      "caption_free": true,
+      "take_label": "Review draft"
     }
   ],
   "topics": [
@@ -1052,8 +1074,8 @@
       "id": "10-05",
       "name": "Mass Air Flow (MAF) Sensor",
       "category": "Engine Management",
-      "video_id": null,
-      "status": "To build"
+      "video_id": "mass-air-flow-sensor",
+      "status": "Review draft saved"
     },
     {
       "id": "10-06",
