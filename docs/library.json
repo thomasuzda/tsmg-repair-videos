@@ -787,6 +787,28 @@
       "review_status": "Awaiting review",
       "caption_free": true,
       "take_label": "Review draft"
+    },
+    {
+      "id": "automatic-transmission",
+      "topic": "Automatic Transmission",
+      "title": "Automatic Transmission",
+      "version": "v001",
+      "category": "Transmission",
+      "description": "See how a conventional automatic couples engine power, changes gear ratios and can lose drive through internal clutch slip.",
+      "note": "Review draft \u00b7 Awaiting review. Complete 540p preview with the approved car opening and smooth fades. Explains operation and possible faults without repair instructions; not a polished final.",
+      "duration": 80,
+      "file": "media/automatic-transmission-v001-review-draft.mp4",
+      "poster": "media/automatic-transmission-v001.jpg",
+      "captions": null,
+      "credits": "media/automatic-transmission-v001-credits.txt",
+      "bytes": 46287997,
+      "sha256": "ed18965ca3717f20f1f911f7bda79b038005ae50aa6ea67b31474ccb8c9ec06e",
+      "fps": "30/1",
+      "stage": "review_draft",
+      "resolution": "540p",
+      "review_status": "Awaiting review",
+      "caption_free": true,
+      "take_label": "First take"
     }
   ],
   "topics": [
@@ -1376,8 +1398,8 @@
       "id": "20-01",
       "name": "Automatic Transmission",
       "category": "Transmission",
-      "video_id": null,
-      "status": "To build"
+      "video_id": "automatic-transmission",
+      "status": "Review draft saved"
     },
     {
       "id": "20-02",

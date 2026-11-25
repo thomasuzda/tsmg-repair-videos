@@ -1,0 +1,40 @@
+Automatic Transmission20-01 / original88 — v001 simple customer teaching draft
+video_id: automatic-transmission
+Native960x540,30fps,80seconds. White studio; localMetal/Eevee4samples. Review draft, not a polished final.
+
+Vehicle artwork:2025 Toyota Camry XV80 Hybrid by Ddiaz Design (DdiazDesign).
+https://sketchfab.com/3d-models/2025-toyota-camry-xv80-hybrid-53f8cbf2483940fba956f4e740a3a4ae
+Creative Commons Attribution-NonCommercial-ShareAlike4.0 International.
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+Adaptation: retained detailed original red car/PBR and connected native underbody/engine/transaxle context from the retained Sway Bar derivative. New generic transmission analytical geometry, formed converter vanes, supported gears/bushings, clutch plates, contained fluid cues, camera, diagrams and fault animation. Adapted visual material shares the source license. Source as-is, no endorsement or commercial clearance claimed. No CreditsUI.
+
+Architecture qualification: the installed exterior is generic donor context; this conventional torque-converter/planetary analytical assembly is NOT the illustrated Toyota hybrid car’s OEM internals, an asserted OEM fit or a complete production gearbox layout. Separate explanatory beats illustrate selected mechanisms; this is not a full loaded-powertrain, hydraulic, thermal or stress simulation. Camera approaches through an in-place fade to an enlarged analytical view. Donor-incompatible proxies are omitted in the mechanism view. Cut boundaries are held fixed for clarity.
+The independently constructed simple gear set has30sun teeth,15planet teeth and60internal ring teeth, nominal pitch radii.18/.09/.36 and carrier radius.27. Ring held:3:1 reduction; sun and ring turning together:1:1 direct. Actual direction/phase uses the continuous Willis relation. Three planet bearing sleeves meet their carrier pins and gear bores; shaft/race sizes are matched. Internal profile allowance.00016 removes polygon-tessellation overlap. Single-pointer witnesses disambiguate repeated tooth/vane patterns at30fps. Speeds are slowed teaching examples, not vehicle RPM or road-speed measurements.
+Contained amber fluid packets illustrate converter circulation during takeoff; they are not an ATF color/specification or CFD claim. Internal clutch slip is a separate matched-drive fault example. Prescribed plate speed difference and red friction color show lost effective drive and heat, not measured wear/temperature. Symptoms can have several causes. No service tutorial, repair/removal sequence, universal interval, diagnosis from one symptom, sales promise or OEM certification.
+
+Narration: ElevenLabs James — Husky Storyteller, voice EkK5I93UQWFDigLMpZcX.
+ONE necessary complete take after picture lock, endpoint elevenlabs/tts/eleven-v4.
+Request01a21218-c193-7e53-871a-40ba81ca18c5; stability0.65/similarity_boost0.75,English,timestamps true,originalmp3_44100_192.
+Original request/receipt/result/MP3 and character timestamps are cached. All spoken words remain at natural source tempo; only interparagraph silence is repositioned to match the pictures. Final48k stereo voice/AAC; no paid tests, scratch voice, generated music, SFX, narration subtitles or SRT track.
+
+Primary technical references, used for principles rather than vehicle-specific specifications/procedures:
+Volkswagen Academy, SSP850193, Aisin09P Design and Function,2019, transmission/converter/gear/clutch/valve descriptions:
+https://static.nhtsa.gov/odi/tsbs/2019/MC-10159424-0001.pdf
+Daimler Truck/Sterling2007FE OEM manual, AisinM036A6, structure/operation and frictional-slip troubleshooting principles:
+https://www.dtnaecomponents.com/Sterling/ServiceManuals/2007SterlingFEServiceManual/Chas%20Pdf/AutomaticTransmission.pdf
+ZF Torque Converter, hydrodynamic circuits and lock-up context:
+https://www.zf.com/products/en/cars/products_65854.html
+ZF Clutch Slipping, general friction/heat principle only, not an automatic diagnostic procedure:
+https://aftermarket.zf.com/en/aftermarket-portal/knowledge-hub/clutch-slipping/
+GM PIP5429A,2020, demonstrates that a flare alone is not a universal failure diagnosis:
+https://static.nhtsa.gov/odi/tsbs/2020/MC-10176309-9999.pdf
+Short claim/source mapping:references/claim-source-map.json. No source repair procedures are taught.
+
+Editable: Automatic-Transmission-v001-EDITABLE.blend retains native3D plus the complete2400-frame picture/audio timeline, baked camera/mechanism/fades, packed original textures and embedded scripts/narration/source mapping. Keep this whole production folder together for //frames and //audio dependencies. Teaching-r06.blend is the re-render source.
+
+QA: actual native stills/consecutive1x motion; complete visual decode and80s continuous visual playback; actual encoded teaching frames; final completeAVdecode, speech-content/level check, fresh editable reopen and final exact-MP4 continuous1x unmuted browser playback. See actual JSON reports for errors/drops/seeks. No independent human audible audition or mechanical/OEM certification is claimed. The initial full visual browser pass recorded2presentation drops/2400,0corruptions/seeks/mediaerrors; native short final gate recorded0drops. Draft4sample transparency grain is retained.
+Original canonical source bytes/SHA preserved. Focused recovery images/natives/raw logs retained; early summary overwrite limits are disclosed in qa/preservation-limits.json. No deleted obsolete assets were recreated. Main alone handles publication and topic selection after this delivery.
+
+Final actual review results: exact narrated MP4 played continuously to END80.0s at1x,unmuted,volume1;0drops/0corruption/0stalls/0seeks/0mediaerrors. Browser presentation counter2404; encoded file independently contains2400frames. AudioContext remained running with247nonzero signal samples out of302captured observations, routed to output. This is technical playback evidence, not an independent human audible audition.
+Fresh editable reopen PASS:4105native objects,2400picture frames, relative picture/audio dependencies resolve, packed image dependencies resolve, embedded sources present, sampled baked cameras/gear angles agree and original source SHA remains exact.
+Automated ASR initially repeated a low-confidence word at its long-window boundary. One focused14s check recognized a single “behind”; full-source paragraph ranges do not overlap and no extra voice take or audio-word removal occurred. Possessive/coarticulated-word ASR differences are retained in QA. Focused window ends mid-sentence; its incomplete tail is not used as a complete transcript.
