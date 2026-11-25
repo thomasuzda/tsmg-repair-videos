@@ -1,0 +1,33 @@
+A/C SMALL LEAK — v001 customer teaching review draft
+
+Vehicle artwork: 2025 Toyota Camry XV80 Hybrid by Ddiaz Design (DdiazDesign).
+https://sketchfab.com/3d-models/2025-toyota-camry-xv80-hybrid-53f8cbf2483940fba956f4e740a3a4ae
+License: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International.
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+Adaptation: retained detailed original red car/PBR and connected A/C exterior context from AC-System-Explainer-v022.blend; new camera/reveals, separate generic seated line coupling and seal, one small contact fault, symbolic refrigerant loss and matched local evaporator heat-transfer comparison. Adapted artwork shared under CC BY-NC-SA 4.0. No endorsement. Source supplied as-is. Commercial permission remains unresolved; no commercial clearance claimed.
+
+Source inspection establishes actual named ferrules, TXV O-rings, condenser bosses and connected formed line geometry, not exact hidden OEM seal architecture, installed fitting contact, a real leak, hybrid compressor drive details or a universal refrigerant. Historical alternative decorative paths are omitted. Physical supports and detailed assets are retained. The generic fitting and evaporator sections are separate analytical teaching models, not an OEM reconstruction or an exploded repair demonstration. Front half/walls are omitted only for viewing.
+
+Male tube and female socket remain seated, with a green seal retained between groove and socket. ONE shallow notch in the outer seal contact provides a continuous small path from the bore around the open tube tip, through fitting clearance and across the seal region to the socket mouth. Intact metal is not pierced. The compressed seal and clearances are representative, exaggerated for readability and not an engineering specification. Other small leaks can occur elsewhere.
+
+Purple particles symbolize refrigerant rather than literal colored smoke or liquid entering cabin air. The small escape, loss over time, marker counts, time enlargement and heat arrows are qualitative; no measured rate, charge fraction, pressure, temperature, flow ratio or time-to-failure is claimed. The circuit continues to contain refrigerant. There is no sudden empty tank, steam cloud, coolant mixing or simultaneous compressor fault.
+
+The two local evaporator alternatives use matched incoming air, blower demand and operating conditions. Air crosses external fin gaps; refrigerant stays in the tube. Heat moves through the metal into refrigerant. Reduced refrigerant charge can mean less heat removal and possible weaker cabin cooling even while blower air continues. Control response and symptom severity vary; the comparison is not CFD or a universal diagnosis. Weak cooling has other causes. No leak-test, vacuum, recharge, seal replacement, repair steps, driving advice or shop promises are included.
+
+Primary manufacturer references checked 2026-11-25:
+DENSO — Evaporators: heat absorption, refrigerant inside tubes, air across fins and circuit relationships.
+https://www.denso-am.eu/products/ac-engine-cooling/evaporators
+DENSO — A/C compressor: refrigerant carries heat from cabin to outside.
+https://www.denso-am.eu/products/ac-engine-cooling/ac-compressor
+DENSO — A/C tips and tricks: loss of rubber seal fit can accompany system leakage. The film does not assert that contamination or the brochure's specific cause produced this illustrative notch.
+https://assets.denso-am.eu/production/attachments/DENSO-AC_brochure_tips-and-tricks_EN.pdf
+MAHLE — AC Check: refrigerant can escape through hoses/connections over time and cooling performance can suffer. No published annual loss percentage or fixed time interval is adopted here.
+https://ac-check.mahle.com/accheck/en/ac-check/
+DENSO — Expansion valves: correct refrigerant delivery and conditions matter to evaporator performance; designs and control responses vary.
+https://www.denso-am.eu/products/ac-engine-cooling/expansion-valves
+
+Narration: one authorized full ElevenLabs James Husky Storyteller, voice EkK5I93UQWFDigLMpZcX, elevenlabs/tts/eleven-v4. Original take, request, receipt and timestamps cached. All spoken words retained at original natural tempo, synchronized48k stereo. Complete picture reviewed and locked before narration generation.
+
+Review draft: native960x540 at30fps, local Metal/Eevee4samples, no ray tracing/motion blur/cast shadows. Actual still and normal1x short motion gates before full sequence. Each fresh sequential native render child stays at or below60 actual endpoint calls. PNG/index/state identities committed before advancing; no interpolated or frozen motion. Exact same-time endpoint dissolves only.
+
+Review scope: full audiovisual decode, actual encoded teaching-frame review, exact-file whole normal1x playback unmuted to end with frame/drop/seek/error/audio-signal scope recorded. No independent human audible audition, OEM certification or commercial clearance claimed. Keep the complete editable folder and accompanying QA records.
