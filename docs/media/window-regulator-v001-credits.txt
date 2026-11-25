@@ -1,0 +1,23 @@
+Window Regulator — v001 customer teaching REVIEW DRAFT
+
+Detailed vehicle and original near-side door/window: 2025 Toyota Camry XV80 Hybrid by Ddiaz Design (DdiazDesign), CC BY-NC-SA 4.0.
+Source: https://sketchfab.com/3d-models/2025-toyota-camry-xv80-hybrid-53f8cbf2483940fba956f4e740a3a4ae
+License: https://creativecommons.org/licenses/by-nc-sa/4.0/
+Canonical retained donor: Sway-Bar-v001-First-Take.blend, 147141422 bytes, SHA256 8afbe415f27f68f636befe2be470f93c8111c9e8f00f2e2277451102b44b5c8b. Original source bytes preserved.
+Changes: neutral evaluated detailed vehicle, original fixed near-side sash/trim and independent original pane; new generic fitted cable regulator, support section, guide/carriage, glass contact pockets, motor/reduction housing, cable drum and pulley. White studio, same-side camera, in-place analytical fades, partial glass travel and one damaged-strand snag example. No native regulator internals were proven. This is an original generic derivative section, not exact Toyota/Camry OEM topology or an OEM claim. Derivative vehicle content retains the source license.
+Studio illumination: retained production world and new local softbox lights. Original vehicle texture images are packed. No additional photographic background is used.
+
+Narration: James — Husky Storyteller, ElevenLabs voice EkK5I93UQWFDigLMpZcX, elevenlabs/tts/eleven-v4, one authorized full take. All words retained at original natural tempo, synchronized to the locked picture; 48 kHz stereo delivery mix. No stale external narration or generated sound effect.
+Visual production: local Blender Eevee / Metal, 960x540, 30 fps, 4 samples, no ray tracing, motion blur or cast shadows. No cloud rendering or paid visual generation.
+
+Primary technical references:
+Brose, cable drive EP4015848B1: cable drum, grooves, cable drive and guided regulator architecture. https://patents.google.com/patent/EP4015848B1/en
+Intier/Magna, US20080005971A1, conventional-mechanism background: cable loop, upper/lower guidance, sliding lifter supporting the pane and opposite winding/payout. The film does not use the moving-motor invention described later in that patent. https://patents.google.com/patent/US20080005971A1/en
+Valeo, regulator technology families and separate mechanism/motor offerings: https://www.valeoservice.co.uk/en-uk/newsroom/valeo-window-regulator
+Valeo Technical Assistance, damaged/loose steel cable becoming entangled or pinched: https://th.valeoservice.com/en-th/techassist/technical-library/technical-documents/window-lifts-cable-pulley-steel-cable-loose?country=TH_thailand
+
+Model qualifications: one generic single-rail cable mechanism is selected. Opposite cable windings share a driven drum; their fixed total lengths are checked against guided carriage travel. The original pane, crossbar and captive carriage move together. A close view exposes the drum edge for teaching. The enclosed reduction mechanism is not claimed as exact gearing. Cable size, damaged outer strand, motor reduction ratio, travel and timing are illustrative; this is not a loaded mechanical simulation or engineering certification. The generic supporting perimeter is an analytical door section, not proven native hidden structure. Only partial travel is shown.
+
+One fault: a damaged outer cable strand catches on the fixed drum-entry guide. The intact cable core, rail and clamps continue to support the glass. Brief motor demand produces a small initial movement, then the drive and glass stop under load; the demand ends rather than a motor rotating indefinitely through a jam. This can leave the window partway open. The specific snag is a teaching example; no universal failure sequence or diagnostic inference is claimed. Electrical supply, control and motor faults can also prevent motion.
+
+Customer explanation only: function, one mechanical fault and possible effects. No repair, removal, replacement, reset, test sequence, safety guarantee, pricing or shop promise. Claim map, native source, scripts, frame identities, cached voice and review scope are retained with the project. Keep the whole project folder for relative picture dependencies.

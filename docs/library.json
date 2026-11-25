@@ -919,6 +919,28 @@
       "review_status": "Awaiting review",
       "caption_free": true,
       "take_label": "First take"
+    },
+    {
+      "id": "window-regulator",
+      "topic": "Window Regulator",
+      "title": "Window Regulator",
+      "version": "v001",
+      "category": "Body and Lights",
+      "description": "See how a motor and cable regulator guide the window glass, and how a damaged cable can leave the window stuck partway open.",
+      "note": "Review draft \u00b7 Awaiting review. Complete 540p preview with the approved car opening and smooth fades. Explains operation and possible faults without repair instructions; not a polished final.",
+      "duration": 66,
+      "file": "media/window-regulator-v001-review-draft.mp4",
+      "poster": "media/window-regulator-v001.jpg",
+      "captions": null,
+      "credits": "media/window-regulator-v001-credits.txt",
+      "bytes": 6786414,
+      "sha256": "513f35861bf5a3f296cb449ddb21d047f8cab00264641875526497612b6b059f",
+      "fps": "30/1",
+      "stage": "review_draft",
+      "resolution": "540p",
+      "review_status": "Awaiting review",
+      "caption_free": true,
+      "take_label": "First take"
     }
   ],
   "topics": [
@@ -926,8 +948,8 @@
       "id": "01-01",
       "name": "Window Regulator",
       "category": "Body and Lights",
-      "video_id": null,
-      "status": "To build"
+      "video_id": "window-regulator",
+      "status": "Review draft saved"
     },
     {
       "id": "02-01",
