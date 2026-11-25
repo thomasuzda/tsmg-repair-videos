@@ -1,0 +1,28 @@
+Exhaust Leak — v001 narrated customer teaching review draft
+
+Vehicle: 2025 Toyota Camry XV80 Hybrid by Ddiaz Design (DdiazDesign).
+Source: https://sketchfab.com/3d-models/2025-toyota-camry-xv80-hybrid-53f8cbf2483940fba956f4e740a3a4ae
+License: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International.
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+Adapted material shared under CC BY-NC-SA 4.0. Original supplied as-is, without creator endorsement. Existing source companion states commercial permission unresolved; this draft does not establish commercial clearance. Keep attribution when sharing.
+
+This film adapts the existing detailed connected-underbody source retained in Exhaust-Leak-v001-Lean-Base-r01.blend. The original red car, original wheels, chassis, detailed engine/manifold, continuous collector/downpipe connection, exhaust and attachments remain. Irrelevant old teaching diagrams/data were omitted only from this new derivative. Original source and the selected lean base were preserved; no geometry decimation or simplified replacement car was used. User-authorized cleanup of named obsolete historical files is documented separately and is not reversed here.
+
+New work: white studio; same-side complete-car opening; smooth in-place reveal/return; below-chassis approach to installed exhaust; separate enlarged generic flange-and-seal half-section; one visible failed seal sector; symbolic pressure/flow cues; matched sealed-versus-leaking comparison; tracked explanatory callout; narration and complete editable picture/audio timeline.
+
+The enlarged joint is a generic teaching example, not measured OEM CAD, a literal copy of the car's flex joint, or a diagnosed defect in this vehicle. The cutaway removes the near half to reveal the lumen; this display cut is not the fault. One exaggerated upper gasket sector is absent in the leaking example. Retained flange connections remain assembled; this is not a removal, test or repair sequence. Blue fronts/arrows symbolize pressure and direction, not actual visible clean exhaust, smoke, electricity, individual molecules or quantitative CFD. Part of a pressure pulse vents through the actual missing seal sector while flow continues downstream. The bounded pulse loop illustrates passage through the displayed section, not disappearance of exhaust gas. No numeric leak rate, safety threshold or OEM fit is claimed.
+
+Sealed30–33s and leaking33–36s use the same incoming pulse cycle and fixed camera. Possible louder exhaust noise and location-dependent fuel-control/fume effects are qualified. No claim that every leak affects power or sensors. Sound or odor alone is not a confirmed diagnosis; carbon monoxide is not assigned a smell, and lack of odor is not presented as safe. No DIY/shop/testing/repair steps, costs or service promises. No sampled reference narration, background music or generated exhaust-noise effect.
+
+Primary technical claim mapping: references/claim-source-map-r02.json.
+https://www.walkerexhaust.com/support/exhaust-101/what-does-the-exhaust-system-do.html
+https://www.walkerexhaust.com/support/exhaust-101/what-parts-make-up-the-exhaust-system.html
+https://www.walkerexhaust.com/support/tech-tips/finding-exhaust-system-leaks.html
+https://www.walkerexhaust.com/support/tech-tips/troubleshooting-excessive-exhaust-system-noise-problems.html
+https://www.fordservicecontent.com/Ford_Content/vdirsnet/OwnerManual/Home/Content?ProcUid=G2503780&Uid=G2550046&buildtype=web&countryCode=USA&div=f&languageCode=en&moidRef=G2126753&userMarket=USA&vFilteringEnabled=False&variantid=11312
+
+Native picture: local Metal GPU, Eevee, 4 samples, 960x540, 30 fps, 51 seconds. No raytracing, motion blur or cast shadows. All1,530 picture times rendered natively; selected exact-time still/motion gate images reused without interpolation. At most60 actual render endpoints per fresh sequential child; one whole capacity1/priority0 lease with40.25GiB protected reserve. No other film or publisher was started by this owner.
+
+Narration: ElevenLabs James — Husky Storyteller, EkK5I93UQWFDigLMpZcX. One necessary full take generated AFTER complete picture review/lock. Endpoint elevenlabs/tts/eleven-v4; submitted stability0.65/similarity0.75/English/timestamps/mp3_44100_192. Request 01a21265-f7fe-79a0-8914-c55c20e13f28. Full original, exact request/receipt/timestamps and verified-TLS download cached in audio/. Natural word delivery retained; only paragraph placement is adjusted to the teaching beats. Final synchronization48kHz stereo. No independent human audible audition or OEM/mechanical certification is claimed.
+
+Editable: native3D plus authoritative full composited picture and James audio in separate Blender scenes. Keep this whole folder for relative frames/ and audio/ dependencies. Render/animation/overlay source is included in scripts/ and embedded as Blender Text. Exact two-plate fades are reproduced by the embedded recipe; review the Film Timeline for the complete final picture.

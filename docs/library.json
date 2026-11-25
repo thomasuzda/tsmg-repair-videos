@@ -809,6 +809,28 @@
       "review_status": "Awaiting review",
       "caption_free": true,
       "take_label": "First take"
+    },
+    {
+      "id": "exhaust-leak",
+      "topic": "Exhaust Leak",
+      "title": "Exhaust Leak",
+      "version": "v001",
+      "category": "Exhaust",
+      "description": "See how an exhaust joint contains pressure pulses, how a failed seal lets gas escape and why effects depend on the leak location.",
+      "note": "Review draft \u00b7 Awaiting review. Complete 540p preview with the approved car opening and smooth fades. Explains operation and possible faults without repair instructions; not a polished final.",
+      "duration": 51,
+      "file": "media/exhaust-leak-v001-review-draft.mp4",
+      "poster": "media/exhaust-leak-v001.jpg",
+      "captions": null,
+      "credits": "media/exhaust-leak-v001-credits.txt",
+      "bytes": 5224747,
+      "sha256": "3d1bf4524a4a7cfad35cf58f98676f04b411b4a538ff81b6857430562087b93a",
+      "fps": "30/1",
+      "stage": "review_draft",
+      "resolution": "540p",
+      "review_status": "Awaiting review",
+      "caption_free": true,
+      "take_label": "First take"
     }
   ],
   "topics": [
@@ -1139,8 +1161,8 @@
       "id": "11-01",
       "name": "Exhaust Leak",
       "category": "Exhaust",
-      "video_id": null,
-      "status": "To build"
+      "video_id": "exhaust-leak",
+      "status": "Review draft saved"
     },
     {
       "id": "11-02",
