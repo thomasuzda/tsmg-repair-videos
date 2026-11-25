@@ -1,0 +1,33 @@
+Leaking Water Pump — v002 narrated customer teaching REVIEW DRAFT
+original88 topic04-06 / video_id leaking-water-pump
+
+Vehicle: 2025 Toyota Camry XV80 Hybrid by Ddiaz Design (DdiazDesign).
+https://sketchfab.com/3d-models/2025-toyota-camry-xv80-hybrid-53f8cbf2483940fba956f4e740a3a4ae
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International.
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+Adapted material shared under CC BY-NC-SA 4.0. Original supplied as-is without creator endorsement. Existing source companion states commercial permission unresolved; this draft does not establish commercial clearance. Retain attribution when sharing.
+
+Native source: Coolant-Flush-v001-Teaching-r03.blend, preserved 140648588 bytes, SHA256 e96c4a6e99a25aea22c23da97e6076e6549d27d4a4d9a3e95254d62a2febac68. Original detailed car/PBR, engine, cooling hoses, radiator, installed pump casing and mounts retained. New derivatives only; historical Leaking Water Pump v001 display-retention HOLD, sources, all QA/failures and older deliverables remain unchanged.
+
+The red hybrid car provides visual context. The enlarged centrifugal pump, shaft support, mechanical seal and external drain are a GENERIC teaching example, not Toyota Camry OEM internals, CAD or drive architecture. No new belt path is invented and no claim is made that this hybrid uses the illustrated generic pump design. Pump drive, sealing, drain and bearing arrangements vary; some electric pump designs differ substantially.
+
+The connected circuit is a tracked x-ray schematic using measured upper/lower hose centerlines and illustrative engine/radiator connections. It represents warm circulation, not every thermostat/control state. Internal paths are illustrative.
+
+The near side of the enlarged housing is intentionally sectioned. Shaft, impeller hub, seal faces and bearing races remain connected/supported. The matched intact/damaged seal demonstration retains the same housing, drive/flow settings and camera. A small enlarged seal-face damage channel connects wet coolant to an air/drain space before the dry bearings. The external drain is a genuine opening in this example. The impeller moves coolant outward; the pump is not depicted as a heat source or positive-displacement device.
+
+Blue coolant packets, local wet film and drops illustrate travel and leakage, not measured flow, drop dimensions, coolant chemistry/color specifications or a failure threshold. Reservoir lowering illustrates accumulated loss, not a real-time leak rate. Red waves indicate possible engine heat from reduced cooling, not smoke or a diagnosis. A small trace alone does not establish pump failure. Persistent/significant leakage is the selected fault example; hoses, gaskets and other joints can also leak. Possible overheating or coolant loss does not identify the cause by itself. No repair/testing steps, service intervals, prices, promises or certification.
+
+Primary references checked 2026-11-25:
+Gates TSB_051_US, seal damage and coolant path through weep hole:
+https://navigates-ws.gates.com/Images/ProductReferences/Gates%20Technical%20Service%20Bulletin%20(TSB_0051).pdf
+Gates Automotive Water Pumps, circuit circulation:
+https://www.gatesaustralia.com.au/products/automotive/passenger-car-and-light-truck/cooling-system/automotive-water-pumps
+HELLA TECH WORLD, water-pump operating principle, mechanical seal, relief bore traces, differing electrical/mechanical designs and possible loss/overheating:
+https://www.hella.com/techworld/ae/technical/car-cooling-system/defective-water-pump/
+Toyota manufacturer owner guidance, coolant loss can originate at multiple components:
+https://www.toyota.com/content/dam/toyotaowners/digital-owners-manual-v2/en/om0r024u/chapter/ch07se030404.html
+No manufacturer photography, logos or reference-film footage/audio is incorporated.
+
+Picture: 960x540, native30fps, Blender5.2.1 Eevee4samples, local Metal; ray tracing, motion blur and cast shadows off. White cooling-topic studio. Every selected picture is rendered at its actual time; no motion interpolation or frozen-frame substitutes. Editable includes native3D animation, full picture/audio timeline, embedded Python source and relative frame/audio dependencies. Keep the complete folder together.
+
+Narration: ElevenLabs James – Husky Storyteller, voice EkK5I93UQWFDigLMpZcX, elevenlabs/tts/eleven-v4. One full authorized take after picture lock; request01a21156-a9d2-76d0-b5ac-113fa71cfd91. Stability0.65, similarity0.75, English, original MP3 44.1kHz192kbps with timestamps. Original/request/receipt/timestamps cached. All spoken words retained at natural tempo; only paragraph placement and intervening silence adjusted. Final48kHz stereoAAC. No music, scratch narration, paid tests, repeat voice request or generated sound effect.

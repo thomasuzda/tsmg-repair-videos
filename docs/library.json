@@ -765,6 +765,28 @@
       "review_status": "Awaiting review",
       "caption_free": true,
       "take_label": "Review draft"
+    },
+    {
+      "id": "leaking-water-pump",
+      "topic": "Leaking Water Pump",
+      "title": "Leaking Water Pump",
+      "version": "v002",
+      "category": "Cooling",
+      "description": "See how an impeller circulates coolant, then compare an intact seal with a leak through the seal and drain path. Follow coolant loss and its possible effect on engine cooling.",
+      "note": "Review draft \u00b7 Awaiting review. Complete 540p preview with the approved car opening and smooth fades. Explains operation and possible faults without repair instructions; not a polished final.",
+      "duration": 60,
+      "file": "media/leaking-water-pump-v002-review-draft.mp4",
+      "poster": "media/leaking-water-pump-v002.jpg",
+      "captions": null,
+      "credits": "media/leaking-water-pump-v002-credits.txt",
+      "bytes": 34708424,
+      "sha256": "d439817e1a8ded0567044157d98245b5b1b13224b6265cca69846dc5586c57e2",
+      "fps": "30/1",
+      "stage": "review_draft",
+      "resolution": "540p",
+      "review_status": "Awaiting review",
+      "caption_free": true,
+      "take_label": "Review draft"
     }
   ],
   "topics": [
@@ -870,8 +892,8 @@
       "id": "04-06",
       "name": "Leaking Water Pump",
       "category": "Cooling",
-      "video_id": null,
-      "status": "To build"
+      "video_id": "leaking-water-pump",
+      "status": "Review draft saved"
     },
     {
       "id": "04-07",
