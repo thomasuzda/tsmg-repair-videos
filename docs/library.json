@@ -633,6 +633,28 @@
       "review_status": "Awaiting review",
       "caption_free": true,
       "take_label": "Review draft"
+    },
+    {
+      "id": "valve-cover-gasket-leak",
+      "topic": "Valve Cover Gasket Leak",
+      "title": "Valve Cover Gasket Leak",
+      "version": "v002",
+      "category": "Engine",
+      "description": "See how the gasket seals the valve cover to the cylinder head, compare an intact seal with a localized gap, and follow oil escaping along the engine exterior.",
+      "note": "Review draft \u00b7 Awaiting review. Complete 540p preview with the approved car opening and smooth fades. Explains operation and possible faults without repair instructions; not a polished final.",
+      "duration": 62,
+      "file": "media/valve-cover-gasket-leak-v002-review-draft.mp4",
+      "poster": "media/valve-cover-gasket-leak-v002.jpg",
+      "captions": null,
+      "credits": "media/valve-cover-gasket-leak-v002-credits.txt",
+      "bytes": 9895856,
+      "sha256": "02432b5b7b8d5f2aeb3927fac2b7515206d3a2973a2b27639781da0945d7fa4e",
+      "fps": "30/1",
+      "stage": "review_draft",
+      "resolution": "540p",
+      "review_status": "Awaiting review",
+      "caption_free": true,
+      "take_label": "Review draft"
     }
   ],
   "topics": [
@@ -892,8 +914,8 @@
       "id": "09-08",
       "name": "Valve Cover Gasket Leak",
       "category": "Engine",
-      "video_id": null,
-      "status": "To build"
+      "video_id": "valve-cover-gasket-leak",
+      "status": "Review draft saved"
     },
     {
       "id": "09-09",

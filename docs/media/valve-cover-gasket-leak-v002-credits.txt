@@ -1,0 +1,13 @@
+Valve Cover Gasket Leak — v002 review draft
+62 seconds; native960x54030fps, localBlenderEevee4/Metal.
+
+Vehicle: 2025 Toyota Camry XV80 Hybrid by Ddiaz Design (DdiazDesign).
+Source: https://sketchfab.com/3d-models/2025-toyota-camry-xv80-hybrid-53f8cbf2483940fba956f4e740a3a4ae
+License: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International.
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+Adapted material shared under CC BY-NC-SA4.0. No endorsement implied. Original source and prior versions retained.
+
+TSMG educational adaptation: original diagrams, animation, model refinements, camera, studio lighting and overlays. Generic analytical illustration, not OEM CAD or an individual vehicle diagnosis.
+Narrator: ElevenLabs James – Husky Storyteller, voice EkK5I93UQWFDigLMpZcX. Complete authorized take synchronized at original pace. No borrowed music or external film footage.
+Generic valve-cover gasket between cover and cylinder head, derivative sealing lands and gasket compression, localized seal-failure/oil-leak example. Expanded section is educational, not a repair procedure. One authorized complete James take. Symptoms conditional; original source-fit failure retained.
+Full actual audiovisual decode and complete synced normal1x owner playback reviewed. Browser presentation dropped 2 frames; all1860 encoded frames decode. No independent engineering certification or new independent audible audition claimed. No subtitle track or on-screen credit UI.
