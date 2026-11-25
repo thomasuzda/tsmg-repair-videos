@@ -48,9 +48,14 @@
       card.setAttribute('aria-label', 'Open ' + v.title + ', ' + time(v.duration) + ', ' + v.version);
       const imageWrap = el('div', 'card-image'); const image = el('img'); image.src = v.poster; image.alt = ''; image.loading = 'lazy'; image.width = 1280; image.height = 720;
       imageWrap.append(image, el('span', 'card-duration', time(v.duration)), el('span', 'card-play', '▶'));
-      const copy = el('div', 'card-copy'); const bottom = el('div', 'card-footer'); bottom.append(el('span', 'saved-badge' + (draft(v) ? ' draft-badge' : ''), ['approved','needs_work','ready','draft'].includes(approvals.state(v)) ? approvals.label(v) : draft(v) ? draftLabel(v) : 'Video saved'), el('span', '', v.version + ' · ' + quality(v)));
+      const copy = el('div', 'card-copy'); const bottom = el('div', 'card-footer'); bottom.append(el('span', 'saved-badge' + (draft(v) ? ' draft-badge' : ''), draft(v) ? draftLabel(v) : 'Video saved'), el('span', '', v.version + ' · ' + quality(v)));
+      const heading = el('div', 'card-heading');
+      const approval = el('span', 'approval-badge', approvals.label(v));
+      approval.dataset.state = approvals.error ? 'unavailable' : approvals.state(v);
+      heading.append(el('h3', '', v.title), approval);
       card.dataset.reviewState = approvals.state(v);
-      copy.append(el('div', 'card-category', v.category), el('h3', '', v.title), bottom); card.append(imageWrap, copy);
+      card.setAttribute('aria-label', 'Open ' + v.title + ', ' + approvals.label(v) + ', ' + time(v.duration) + ', ' + v.version);
+      copy.append(el('div', 'card-category', v.category), heading, bottom); card.append(imageWrap, copy);
       grid.append(card);
     });
     return shown.length;
@@ -123,7 +128,7 @@
     document.getElementById('watch-time').textContent = time(current.duration);
     document.getElementById('watch-version').textContent = current.version;
     document.getElementById('watch-quality').textContent = quality(current);
-    document.getElementById('watch-format').textContent = (draft(current) ? draftLabel(current) : 'Saved copy') + ' · ' + quality(current) + (approvals.loaded && approvals.label(current) !== (draft(current) ? draftLabel(current) : 'Saved copy') ? ' · ' + approvals.label(current) : '');
+    document.getElementById('watch-format').textContent = (draft(current) ? draftLabel(current) : 'Saved copy') + ' · ' + quality(current);
     document.getElementById('watch-description').textContent = current.description;
     document.getElementById('download-video').href = current.file;
     document.getElementById('download-captions').hidden = !current.captions;
@@ -164,7 +169,7 @@
     if (watching) document.getElementById('watch-title').focus({ preventScroll: true });
   }
   window.addEventListener('hashchange', readHash);
-  window.addEventListener('repair-review-changed', function () {render(); if (current) document.getElementById('watch-format').textContent = (draft(current) ? draftLabel(current) : 'Saved copy') + ' · ' + quality(current) + (approvals.loaded && approvals.label(current) !== (draft(current) ? draftLabel(current) : 'Saved copy') ? ' · ' + approvals.label(current) : '');});
+  window.addEventListener('repair-review-changed', function () {render(); if (current) document.getElementById('watch-format').textContent = (draft(current) ? draftLabel(current) : 'Saved copy') + ' · ' + quality(current);});
   readHash();
   console.log('Repair library ready: ' + data.videos.length + ' saved videos, ' + data.topics.length + ' entries, ' + data.categories.length + ' systems.');
 })();

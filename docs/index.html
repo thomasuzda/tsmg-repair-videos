@@ -7,10 +7,10 @@
   <meta name="description" content="Your saved automotive repair explainer videos, organized by part, with the full production topic list.">
   <title>Repair Video Library · TSMG</title>
   <link rel="icon" href="icon.svg" type="image/svg+xml">
-  <link rel="stylesheet" href="style.css?v=approval-selection-20261120">
+  <link rel="stylesheet" href="style.css?v=clear-approval-20261125">
   <script src="catalog-data.js?v=oxygen-sensor-v006-20261124" defer></script>
-  <script src="video-approvals.js?v=belt-review-20261123" defer></script>
-  <script src="app.js?v=approval-selection-20261120" defer></script>
+  <script src="video-approvals.js?v=clear-approval-20261125" defer></script>
+  <script src="app.js?v=clear-approval-20261125" defer></script>
   <script src="video-notes.js?v=approval-selection-20261120" defer></script>
 </head>
 <body>
@@ -34,8 +34,8 @@
       <div class="section-heading"><a class="back-to-videos" href="#saved">← Saved videos</a><span class="quiet" id="watch-format">Saved copy</span></div>
       <div class="watch-layout">
         <div class="player-wrap"><video id="player" controls playsinline preload="none" aria-label="Selected video">Your browser cannot play this video. Use the download link below.</video><div id="video-error" class="video-error" role="status" hidden>Playback could not load. You can still download the saved MP4 below.</div></div>
-        <div class="watch-detail"><span id="watch-category" class="category-label"></span><h2 id="watch-title" tabindex="-1"></h2><div class="video-meta"><span id="watch-time"></span><span class="meta-dot">·</span><span id="watch-version"></span><span class="meta-dot">·</span><span id="watch-quality"></span></div><p id="watch-description"></p><a id="download-video" class="primary-action" download>Download video <span>↓</span></a><section class="review-actions" aria-label="Video approval">
-          <span id="review-state" class="review-state">Loading review status…</span>
+        <div class="watch-detail"><span id="watch-category" class="category-label"></span><div class="watch-heading"><h2 id="watch-title" tabindex="-1"></h2><span id="review-state" class="review-state approval-badge" role="status" aria-live="polite">Checking approval…</span></div><div class="video-meta"><span id="watch-time"></span><span class="meta-dot">·</span><span id="watch-version"></span><span class="meta-dot">·</span><span id="watch-quality"></span></div><p id="watch-description"></p><a id="download-video" class="primary-action" download>Download video <span>↓</span></a><section class="review-actions" aria-label="Video approval">
+          <h3 class="review-action-title">Review this version</h3>
           <div class="review-buttons"><button id="approve-video" class="review-approve" type="button" disabled>Approve</button><button id="needs-work-video" class="review-needs-work" type="button" disabled>Needs work</button></div>
           <p id="review-message" role="status" aria-live="polite"></p><button id="retry-review" class="review-retry" type="button" hidden>Retry</button>
           <p class="review-shared">Decisions are shared across this library and apply to this video version.</p>

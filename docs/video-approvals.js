@@ -4,7 +4,8 @@
   const states = new Map(), pending = new Map(), saveErrors = new Map(), busy = new Set();
   let loaded = false, error = '', current = null, generation = 0, controller;
   const key = video => [video.id, video.version, video.sha256].join(':');
-  const labels = {ready:'Ready for approval', approved:'Approved', needs_work:'Needs work', draft:'Draft', unreviewed:'Not reviewed', loading:'Loading review status…'};
+  const labels = {ready:'Not approved yet', approved:'Approved', needs_work:'Not approved — needs changes', draft:'Not approved yet', unreviewed:'Not approved yet', loading:'Checking approval…'};
+  const labelFor = video => error ? 'Approval status unavailable' : labels[state(video)];
   function state(video) {
     const decision = states.get(key(video));
     const requested = Date.parse(video.review_requested_at || '');
@@ -17,14 +18,14 @@
     const message = document.getElementById('review-message');
     if (!label || !current) return;
     const value = state(current), saving = busy.has(key(current)), messageError = saveErrors.get(key(current)) || error;
-    label.textContent = labels[value]; label.dataset.state = value;
+    label.textContent = labelFor(current); label.dataset.state = error ? 'unavailable' : value;
     document.getElementById('approve-video').disabled = !loaded || saving || value === 'approved';
     document.getElementById('needs-work-video').disabled = !loaded || saving;
     document.getElementById('approve-video').setAttribute('aria-pressed', String(value === 'approved'));
     document.getElementById('needs-work-video').setAttribute('aria-pressed', String(value === 'needs_work'));
     if (saving) message.textContent = 'Saving your decision…';
     else if (messageError) message.textContent = messageError;
-    else message.textContent = value === 'approved' ? 'Approved for this version.' : value === 'needs_work' ? 'Flagged for changes. Add details in Video notes.' : 'Watch this version, then choose a decision.';
+    else message.textContent = value === 'approved' ? 'This version has been approved.' : value === 'needs_work' ? 'This version is not approved. Changes have been requested; see Video notes.' : 'No approval has been recorded for this version. Watch it, then choose Approve or Needs work.';
     message.classList.toggle('is-error', Boolean(messageError));
     document.getElementById('retry-review').hidden = !error;
   }
@@ -59,7 +60,7 @@
     } catch (failure) { saveErrors.set(id, failure.name === 'AbortError' ? 'Could not confirm the save. Select the decision again to retry safely.' : failure.message); }
     finally { clearTimeout(timer); busy.delete(id); changed(); }
   }
-  window.REPAIR_APPROVALS = {state, label:video => labels[state(video)], refresh, get loaded(){return loaded;}, get error(){return error;}};
+  window.REPAIR_APPROVALS = {state, label:labelFor, refresh, get loaded(){return loaded;}, get error(){return error;}};
   document.getElementById('approve-video').addEventListener('click', () => decide('approved'));
   document.getElementById('needs-work-video').addEventListener('click', () => decide('needs_work'));
   document.querySelectorAll('.review-retry').forEach(button => button.addEventListener('click',refresh));

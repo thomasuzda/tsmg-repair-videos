@@ -18,3 +18,16 @@ main{max-width:1600px;margin-left:224px;padding:44px 50px 24px}.page-header{disp
 .collection-top{flex-wrap:wrap}.view-tabs{flex-wrap:wrap}.sidebar .nav-item[data-view=ready]{line-height:1.35}.watch-detail{padding-top:24px;padding-bottom:24px}@media(max-width:600px){.view-tabs{width:100%;justify-content:flex-start}.view-tabs button{font-size:12px;padding:8px}.review-buttons button{flex:1}.review-actions{margin-top:14px}.review-shared{max-width:28em}}
 
 .player-wrap,.player-wrap video{background:#171d1f}.review-actions{grid-column:1/-1}
+
+/* Approval is distinct from draft quality or readiness for review. */
+.card-heading,.watch-heading{display:flex;flex-wrap:wrap;align-items:center;gap:8px 12px;margin:8px 0 14px;min-width:0}
+.card-heading h3,.watch-heading h2{margin:0;min-width:0;overflow-wrap:anywhere}
+.card-heading h3{flex:1 1 130px}.watch-heading h2{flex:1 1 190px}
+.approval-badge{display:inline-flex;align-items:center;gap:6px;max-width:100%;border:1px solid #d9bd7b;border-radius:6px;padding:6px 9px;background:#fff4d9;color:#71500e;font-size:12px;font-weight:650;line-height:1.35;white-space:normal}
+.approval-badge:before{content:'○';flex-shrink:0}
+.approval-badge[data-state=approved]{background:#e5f3e8;border-color:#a5c7af;color:#245735}.approval-badge[data-state=approved]:before{content:'✓'}
+.approval-badge[data-state=needs_work]{background:#fff0e9;border-color:#d7aa98;color:#8b3e24}.approval-badge[data-state=needs_work]:before{content:'!'}
+.approval-badge[data-state=loading],.approval-badge[data-state=unavailable]{background:#eef1ef;border-color:#ccd5d0;color:#52615b}
+.watch-heading .review-state{margin:0;font-size:13px}.review-action-title{font-size:13px;margin:0 0 12px;color:#405c4d;font-weight:600}
+.video-card .saved-badge:before{content:none}.card-footer{gap:10px;flex-wrap:wrap}
+@media(max-width:700px){.card-heading h3{font-size:18px;margin:0}.watch-detail .watch-heading h2{font-size:27px;margin:0}.watch-heading{margin:9px 0 10px}.approval-badge{font-size:12px}}
