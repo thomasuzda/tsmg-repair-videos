@@ -897,6 +897,28 @@
       "review_status": "Awaiting review",
       "caption_free": true,
       "take_label": "First take"
+    },
+    {
+      "id": "tpms-faults",
+      "topic": "TPMS Faults",
+      "title": "TPMS Faults",
+      "version": "v001",
+      "category": "Tires and Wheels",
+      "description": "See how a generic direct tire-pressure sensor sends readings, and why low pressure is different from missing sensor data.",
+      "note": "Review draft \u00b7 Awaiting review. Complete 540p preview with the approved car opening and smooth fades. Explains operation and possible faults without repair instructions; not a polished final.",
+      "duration": 72,
+      "file": "media/tpms-faults-v001-review-draft.mp4",
+      "poster": "media/tpms-faults-v001.jpg",
+      "captions": null,
+      "credits": "media/tpms-faults-v001-credits.txt",
+      "bytes": 5521297,
+      "sha256": "011de6d556a2b7f71c3bb2d17ff1664c4bddf0feda587d4932ec1b26ef2ae17b",
+      "fps": "30/1",
+      "stage": "review_draft",
+      "resolution": "540p",
+      "review_status": "Awaiting review",
+      "caption_free": true,
+      "take_label": "First take"
     }
   ],
   "topics": [
@@ -1451,8 +1473,8 @@
       "id": "19-05",
       "name": "TPMS Faults",
       "category": "Tires and Wheels",
-      "video_id": null,
-      "status": "To build"
+      "video_id": "tpms-faults",
+      "status": "Review draft saved"
     },
     {
       "id": "19-06",

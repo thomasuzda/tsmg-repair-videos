@@ -1,0 +1,22 @@
+TPMS Faults — customer teaching REVIEW DRAFT, v001
+
+Detailed vehicle / wheel source: 2025 Toyota Camry XV80 Hybrid by Ddiaz Design (DdiazDesign), licensed CC BY-NC-SA 4.0.
+Source: https://sketchfab.com/3d-models/2025-toyota-camry-xv80-hybrid-53f8cbf2483940fba956f4e740a3a4ae
+Source attribution retained from approved vehicle production. License: https://creativecommons.org/licenses/by-nc-sa/4.0/
+Detailed donor source: Sway-Bar-v001-First-Take.blend (SHA256 8afbe415f27f68f636befe2be470f93c8111c9e8f00f2e2277451102b44b5c8b), via Wheel-Balance-v002-White-Teaching.blend (SHA256 83013de61324a5d05f1faeb1021da4bee5bf9283343d5c35121eb75244a88c85).
+Changes: white teaching layout, wheel analytical window, NEW generic valve-mounted pressure/radio module fitted to inspected actual rim, conceptual enlarged pressure-sensing/electronics section and synchronized explanatory graphics. The donor wheel-speed pickup is not renamed or presented as a pressure sensor. No TPMS donor module was proven.
+
+Narration: James — Husky Storyteller, ElevenLabs voice EkK5I93UQWFDigLMpZcX, elevenlabs/tts/eleven-v4. One authorized full take, original natural tempo. No stale external narration reused.
+Visual production: local Blender Eevee, Metal, 960x540, 30 fps, 4 samples. No cloud rendering or paid visual generation.
+
+Technical sources (primary manufacturer / safety references):
+NHTSA TireWise — direct/indirect sensing and data to on-board processor: https://www.nhtsa.gov/vehicle-safety/tires
+NHTSA DOT HS 811 681 — valve-mounted battery-powered RF sensors and depleted battery malfunction example: https://crashstats.nhtsa.dot.gov/Api/Public/ViewPublication/811681
+Infineon Automotive Application Guide — TPMS pressure sensor, lithium cell, conditioning, RF transmitter and receiver/display architecture: https://www.infineon.com/assets/row/public/documents/10/64/automotiveapplicationguide.pdf
+NXP/Freescale Intelligent Sensor Solutions, slide 11 — TPMS sensing diaphragm/reference cavity: https://community.nxp.com/pwmxy87654/attachments/pwmxy87654/ftf2015/14/1/EUF-INS-T1582.pdf
+Infineon XENSIV SP49 — glass-silicon-glass MEMS sensing: https://www.infineon.com/technology-news/2023/infatv202309-149
+FMVSS 138 — signal malfunction distinct from low-pressure warning and possible reduced monitoring: https://www.govinfo.gov/content/pkg/CFR-2024-title49-vol6/xhtml/CFR-2024-title49-vol6-sec571-138.html
+
+Model qualifications: this film selects a GENERIC battery-powered DIRECT system. Designs, indirect systems, displays and fault behavior vary. The internal geometry and generic receiver are teaching diagrams, not OEM/Camry CAD, exact proprietary circuitry, service instruction or engineering certification. Tire air acts on an illustrative sensing diaphragm; deformation is enlarged. Pressure bars are qualitative and have no PSI, threshold, recommendation or calibration. Battery depletion is compressed for teaching. Radio arcs symbolize wireless data, not a fluid, cable or airline. A battery fault leaves pressure unchanged in the controlled example; unavailable data does not diagnose an exact part or establish tire safety. Low-pressure data is distinguished from one unavailable-signal fault. No warning-lamp flash timing convention is demonstrated.
+
+No repair, replacement, reset/relearn or driving instructions. No universal diagnosis or shop promises. Full source claim map and QA are retained in the project folder.
