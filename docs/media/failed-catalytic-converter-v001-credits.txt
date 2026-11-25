@@ -1,0 +1,23 @@
+Catalytic Converter Failure — v001 narrated customer teaching review draft
+
+Vehicle: 2025 Toyota Camry XV80 Hybrid by Ddiaz Design (DdiazDesign).
+Source: https://sketchfab.com/3d-models/2025-toyota-camry-xv80-hybrid-53f8cbf2483940fba956f4e740a3a4ae
+License: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International.
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+Adapted material shared under CC BY-NC-SA 4.0. Original supplied as-is without creator endorsement. Existing source companion states commercial permission unresolved; this draft does not establish commercial clearance. Keep attribution when sharing.
+
+This film adapts the existing Oxygen Sensor v006 connected-underbody source: original detailed car, original wheels, Coil Spring chassis/suspension, detailed Oil-film engine/manifold, continuous illustrative collector/downpipe connection and source exhaust/converter. Original geometry/placements and source files preserved. New work: white studio, eased camera and in-place body reveal/return, separate enlarged generic honeycomb half section, open coated ceramic channels, symbolic surface-reaction and matched-feed activity comparisons, explanatory callouts and narration. No reference imagery or reference narration appears in this film.
+
+Generic gasoline three-way catalyst example, not measured OEM installation CAD. The enlarged analytical section is a separate teaching model. Square channels are open at both ends: this is not a soot-filter demonstration. Molecular icons, sizes, coating thickness, positions and reaction timing are simplified. The balanced carbon-monoxide example conserves atoms: two CO plus O2 become two CO2 at the catalytic surface. Other three-way reactions reduce unburned hydrocarbons and nitrogen oxides, with CO2, water and nitrogen among their products. Conversion depends on temperature, exhaust oxygen/air-fuel balance and catalyst condition; exhaust continues downstream and is not harmless or eliminated. No numeric efficiency is claimed.
+
+One illustrative contamination/loss-of-activity fault is shown with open passages. Oil/coolant contamination can impair the coating. Reduced efficiency need not mean physical blockage or low engine power. Melted/collapsed honeycomb restriction is a separate fault and is not depicted here. Upstream engine faults can damage a catalyst. A warning light, emissions failure, code or symptom alone does not establish a diagnosis. No repair procedure, testing instructions, service promise, costs or universal failure rate.
+
+Primary technical sources and concise qualifications:
+https://www.basf.com/gb/en/media/science-around-us/catalytic-converter
+https://www.walkerexhaust.com/support/tech-tips/catalytic-converters-what-technicians-need-to-know.html
+https://www.walkerexhaust.com/support/tech-tips/common-catalytic-converter-q-and-a.html
+See references/fact-check.json for the claim mapping.
+
+Native picture: local Metal GPU, Eevee, 4 samples, 960x540, 30 fps; no raytracing, motion blur or cast shadows. All 1800 frame times are rendered natively; 65 valid exact-time gate PNGs reused without interpolation. Complete picture/audio timeline and native 3D/source supplied in the editable Blender file; preserve the entire folder for relative paths. No music or sampled reference audio.
+
+Narration: ElevenLabs James — Husky Storyteller, voice EkK5I93UQWFDigLMpZcX. One necessary full take generated after reviewed picture lock; endpoint elevenlabs/tts/eleven-v4, stability0.65/similarity0.75, English, timestamps, mp3_44100_192. Request01a210d8-26aa-71b1-a830-6bbdba7b05fd. Full original and request identity cached in audio/. Only interparagraph placement changes; no tempo change or lost spoken words. Final synchronization48kHz stereo.
