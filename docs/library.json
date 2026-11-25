@@ -941,6 +941,28 @@
       "review_status": "Awaiting review",
       "caption_free": true,
       "take_label": "First take"
+    },
+    {
+      "id": "clogged-injector",
+      "topic": "Clogged Injector",
+      "title": "Clogged Injector",
+      "version": "v001",
+      "category": "Fuel System",
+      "description": "See how a generic injector meters fuel, then compare normal spray with a partially restricted nozzle under the same supply and command.",
+      "note": "Review draft \u00b7 Awaiting review. Complete 540p preview with the approved car opening and smooth fades. Explains operation and possible faults without repair instructions; not a polished final.",
+      "duration": 72,
+      "file": "media/clogged-injector-v001-review-draft.mp4",
+      "poster": "media/clogged-injector-v001.jpg",
+      "captions": null,
+      "credits": "media/clogged-injector-v001-credits.txt",
+      "bytes": 7141932,
+      "sha256": "2ba73d801e1b1aa31711f955c85d1ceed43d19534341c362a0b00ca310d0087d",
+      "fps": "30/1",
+      "stage": "review_draft",
+      "resolution": "540p",
+      "review_status": "Awaiting review",
+      "caption_free": true,
+      "take_label": "First take"
     }
   ],
   "topics": [
@@ -1299,8 +1321,8 @@
       "id": "12-01",
       "name": "Clogged Injector",
       "category": "Fuel System",
-      "video_id": null,
-      "status": "To build"
+      "video_id": "clogged-injector",
+      "status": "Review draft saved"
     },
     {
       "id": "12-02",

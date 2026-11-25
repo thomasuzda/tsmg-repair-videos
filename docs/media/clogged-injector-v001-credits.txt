@@ -1,0 +1,26 @@
+CLOGGED INJECTOR — v001 customer teaching review draft
+
+Vehicle artwork: 2025 Toyota Camry XV80 Hybrid by Ddiaz Design (DdiazDesign).
+Source: https://sketchfab.com/3d-models/2025-toyota-camry-xv80-hybrid-53f8cbf2483940fba956f4e740a3a4ae
+License: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International.
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+Adaptation: original detailed red car/PBR, glass and floor shader graphs, installed rail, four injector exteriors, intake manifold and compact harness context retained. New separate enlarged generic conventional port-fuel solenoid section, inlet filter, supported spring/armature/needle, conical seat, nozzle viewing window, local intake port/valve context, electrical command cue, contained upstream fuel markers, purposeful spray, one partial nozzle deposit, matched alternative comparison, camera/reveals and teaching edit. Adapted artwork shared under CC BY-NC-SA 4.0. No endorsement. Source supplied as-is. Commercial permission remains unresolved; no commercial clearance is claimed.
+
+The source exterior/name/proximity inspection does not establish exact Camry hidden OEM injector internals or port/direct/dual injection strategy. This separate analytical port-injector example is explicitly generic. The section's longitudinal viewing window exposes an otherwise contained fuel passage. It is not a leak, service opening, or removal procedure. The intake valve is shown as spray-target context; the film does not assert exact valve/injection timing or depict fuel firing through a cylinder wall.
+
+Solenoid command, armature/needle lift, spring compression and seat closure are coupled. Illustrative spray is emitted only after the seat opens; already emitted droplets can continue travelling after closure. Upstream markers end above the moving cone with clearance. Normal and restricted alternatives use the same illustrated supply and identical command/lift. One contiguous crescent partially blocks the nozzle; no simultaneous electrical fault, leaking seat, total clog, sticking needle or pump restriction is claimed. The comparison shows alternate conditions, not cleaning or repair.
+
+Clearances, motion, fuel markers and nozzle deposit are enlarged/slowed for teaching. Gasoline parcels are symbolic, not measured droplet dynamics, calibrated flow ratios, pressure, RPM or CFD. Fewer/asymmetric parcels illustrate possible reduced/uneven delivery, not a universal percentage. Changed delivery can contribute to uneven running, misfire or power loss. Symptoms have other causes; no individual diagnosis or claim that every deposit causes the same mixture response is made. No fuel handling, repair/testing/cleaning/replacement directions, driving advice, shop promises, pricing, or sales claims.
+
+Primary technical references verified 2026-11-25:
+Bosch Mobility, Fuel injector (PFI): https://www.bosch-mobility.com/en/solutions/valves/fuel-injector-manifold/
+HELLA, Injection nozzle/injection valve, functional principle and fault symptoms: https://www.hella.com/techworld/en/technical/sensors-and-actuators/injection-nozzle/
+Chevron manufacturer technical white paper, European automotive fuel evolution and additive solutions, November 2012: https://www.texacolubricants.com/content/dam/external/texaco/en_uk/techron-home/European_automotive_fuel_evolution_and_additive_solutions_White_Paper.pdf
+NAPA Echlin manufacturer bulletin NA10235FJ: https://www.napaechlin.com/media/9388/na10235fj-dyk-fuel-injector_a.pdf
+Detailed claim mapping, limitations and generic physical assumptions are in references/claim-source-map.json and embedded in the editable.
+
+Narration: preferred James — Husky Storyteller, voice EkK5I93UQWFDigLMpZcX, ElevenLabs eleven-v4; one full authorized take generated after complete picture review/lock. Original request/receipt/MP3/timestamps retained in audio/. All words preserved at natural tempo and synchronized in 48 kHz stereo. No music, borrowed narration or fabricated injector sound.
+
+Review draft: native 960 × 540, 30 fps, local Blender Eevee four samples, Metal; no ray tracing, motion blur or cast shadows. Production QA includes actual native still and consecutive motion gates, whole picture review, full final audiovisual decode, final encoded teaching-frame review, whole exact final MP4 1× unmuted browser playback, and fresh editable reopen. Browser audio energy/playback observations do not claim an independent human audible audition, OEM validation, or engineering certification. Exact observations and limitations are recorded in qa/.
+
+Keep the whole project folder. The editable contains native animated 3D, packed source textures/audio, a complete exact picture/audio Film Timeline, embedded editable recipes/references, and resolving relative frame paths. Original source bytes and all prior films preserved. Main alone verifies, publishes and selects the next film.
