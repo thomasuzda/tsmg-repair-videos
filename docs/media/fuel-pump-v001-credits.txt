@@ -1,0 +1,27 @@
+FUEL PUMP — v001 customer teaching review draft
+
+Vehicle artwork: 2025 Toyota Camry XV80 Hybrid by Ddiaz Design (DdiazDesign).
+Source: https://sketchfab.com/3d-models/2025-toyota-camry-xv80-hybrid-53f8cbf2483940fba956f4e740a3a4ae
+License: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International.
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+Adaptation: retained detailed red car/PBR, glass and cabin/floor materials; installed tank, module exterior, retaining straps, line clips, gasoline supply-line routing, rail and injectors. New generic analytical turbine-pump section, electrical input, supported rotor/shaft, open inlet strainer, fixed side-channel separator, contained liquid passages, restriction deposits, qualitative comparison graphics, camera, smooth reveals and customer teaching edit. Adapted artwork is shared under CC BY-NC-SA 4.0. Source provided as-is; no endorsement. Commercial permission remains unresolved; no commercial clearance is claimed.
+
+Scope: Generic electric low-pressure in-tank fuel pump. Retained donor exterior and line routing do not establish exact Camry pump internals or fuel-system architecture. Endpoint connection links are illustrative. The enlarged open section illustrates one regenerative turbine pump family, with stationary inlet/outlet separator, supported common motor/impeller shaft and a wet motor passage outside the stator. It is not OEM CAD. Any separate downstream high-pressure stage is outside this film; this tank pump is not presented as directly generating direct-injection pressure.
+
+Contained amber liquid and moving highlights show the direction and relative rate of liquid delivery. Internal movement is slowed, clearances and dirt deposits enlarged, and comparative delivered-flow/supply-pressure bars qualitative. They are not measured RPM, pressure, numerical performance or CFD. One inlet-strainer restriction is shown at the same illustrated engine demand. No simultaneous electrical, wear, regulator or return-system fault is asserted. Reduced supply can cause difficult starting, loss of power or stalling; symptoms have other causes and are not an individual diagnosis. No fuel handling, testing or repair instructions, driving advice, pricing or shop promises.
+
+Technical references verified 2026-11-25:
+DENSO — How fuel pumps work: https://www.denso-am.eu/products/ignition/fuel-pump
+Robert Bosch GmbH — peripheral/side-channel pump: https://patents.google.com/patent/DE19634734A1/en
+DENSO — wet motor outer passage: https://patents.google.com/patent/DE112014004249B4/en
+Motorservice / Pierburg — inlet prefilter restriction: https://www.ms-motorservice.com/int/en/technipedia/blocked-prefilters-on-electric-fuel-pumps
+HELLA — fuel supply and possible effects: https://www.hella.com/techworld/au/technical/car-electronics-and-electrics/mixture-formation/
+Detailed claim/source mapping is included in references/claim-source-map.json and embedded in the editable.
+
+Narration: preferred James — Husky Storyteller, voice EkK5I93UQWFDigLMpZcX, ElevenLabs eleven-v4. One full authorized take after completed picture lock; original receipt, audio and timestamps retained in audio/. All words kept at natural tempo, synchronized 48 kHz stereo. No music or fabricated pump sound.
+
+Draft rendering: native 960 × 540, 30 fps, local Blender Eevee, four samples, Metal backend; no ray tracing, motion blur or cast shadows. Full decode, actual encoded teaching-frame review, whole normal-speed unmuted browser playback, and fresh editable reopen records reside in qa/. These checks are production QA and not independent human listening or OEM engineering certification.
+
+Keep the whole project folder. The editable contains a complete picture/audio Film Timeline plus native animated 3D, packed source assets, relative frame/audio paths and embedded recipes/references. No historical source bytes were modified or deleted.
+
+Revision r02: CPU-only removal of the red bottom caption from42s through54.9667s. Sparse tracked labels and comparative bars retained. All other lossless source pixels and native times are unchanged; H264 is re-encoded. Original AAC payload and decoded PCM are exact, with no new James take. Original delivery and receipt retained immutable. Corrected MP4, thumbnail, editable and QA use unique revision filenames.

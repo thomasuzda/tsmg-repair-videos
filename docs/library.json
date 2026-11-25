@@ -875,6 +875,28 @@
       "review_status": "Awaiting review",
       "caption_free": true,
       "take_label": "First take"
+    },
+    {
+      "id": "fuel-pump",
+      "topic": "Fuel Pump",
+      "title": "Fuel Pump",
+      "version": "v001",
+      "category": "Fuel System",
+      "description": "Follow liquid fuel from the tank through a generic electric pump, then see how a restricted inlet can reduce supply and affect the engine.",
+      "note": "Review draft \u00b7 Awaiting review. Complete 540p preview with the approved car opening and smooth fades. Explains operation and possible faults without repair instructions; not a polished final.",
+      "duration": 68,
+      "file": "media/fuel-pump-v001-review-draft.mp4",
+      "poster": "media/fuel-pump-v001.jpg",
+      "captions": null,
+      "credits": "media/fuel-pump-v001-credits.txt",
+      "bytes": 7177959,
+      "sha256": "c6062decf98c8936ca4241a7aeb2f6ea45420b460cfa51f280b5179e88507d00",
+      "fps": "30/1",
+      "stage": "review_draft",
+      "resolution": "540p",
+      "review_status": "Awaiting review",
+      "caption_free": true,
+      "take_label": "First take"
     }
   ],
   "topics": [
@@ -1247,8 +1269,8 @@
       "id": "12-03",
       "name": "Fuel Pump",
       "category": "Fuel System",
-      "video_id": null,
-      "status": "To build"
+      "video_id": "fuel-pump",
+      "status": "Review draft saved"
     },
     {
       "id": "12-04",
