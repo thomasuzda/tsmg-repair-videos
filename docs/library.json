@@ -963,6 +963,28 @@
       "review_status": "Awaiting review",
       "caption_free": true,
       "take_label": "First take"
+    },
+    {
+      "id": "heater-core",
+      "topic": "Heater Core",
+      "title": "Heater Core",
+      "version": "v001",
+      "category": "Cooling",
+      "description": "Follow warm coolant and cabin air through a heater core, then compare normal heat transfer with one internal restriction and its possible effect on cabin heating.",
+      "note": "Review draft \u00b7 Awaiting review. Complete 540p preview with the approved car opening and smooth fades. Explains operation and possible faults without repair instructions; not a polished final.",
+      "duration": 68,
+      "file": "media/heater-core-v001-review-draft.mp4",
+      "poster": "media/heater-core-v001.jpg",
+      "captions": null,
+      "credits": "media/heater-core-v001-credits.txt",
+      "bytes": 7289583,
+      "sha256": "8a501cc040173d78936977e4246f907832b47c6749b6f691a99352f45c68f692",
+      "fps": "30/1",
+      "stage": "review_draft",
+      "resolution": "540p",
+      "review_status": "Awaiting review",
+      "caption_free": true,
+      "take_label": "First take"
     }
   ],
   "topics": [
@@ -1054,8 +1076,8 @@
       "id": "04-04",
       "name": "Heater Core",
       "category": "Cooling",
-      "video_id": null,
-      "status": "To build"
+      "video_id": "heater-core",
+      "status": "Review draft saved"
     },
     {
       "id": "04-05",

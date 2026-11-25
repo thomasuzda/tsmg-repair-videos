@@ -1,0 +1,27 @@
+HEATER CORE — v001 customer teaching review draft
+
+Vehicle artwork: 2025 Toyota Camry XV80 Hybrid by Ddiaz Design (DdiazDesign).
+https://sketchfab.com/3d-models/2025-toyota-camry-xv80-hybrid-53f8cbf2483940fba956f4e740a3a4ae
+License: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International.
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+Adaptation: retained detailed original red car/PBR, cabin HVAC, heater core flattened tubes, fins, end tanks, blower geometry, ducts, firewall and connected heater coolant hoses from the retained AC-System-Explainer-v022.blend. New camera/reveals, separate representative enlarged flattened coolant passage with fins, heat and flow cues, one internal deposit and matched normal/restricted comparison. Adapted artwork shared under CC BY-NC-SA 4.0. No endorsement. Source supplied as-is. Commercial permission remains unresolved; no commercial clearance claimed.
+
+The original detailed car is visual context. Retained source inspection establishes geometry and named installed hose/HVAC relationships, not hidden OEM coolant routing or exact Camry heater internals. This explanation selects a conventional engine-coolant heater. Heating architectures vary; no EV/heat-pump or universal heater-valve layout is claimed. The enlarged section is a separate generic representative passage and local fins, not a complete OEM core reconstruction. Near walls are omitted as analytical viewing windows; that does not depict a coolant leak or service access.
+
+Coolant markers remain within the passage; blower air crosses external fin gaps. Heat transfers through the metal rather than by fluid mixing. Reds/oranges indicate qualitative warmth and blue indicates relatively cooler air, not real coolant color or measured temperature. Enlarged/slowed markers, clearances and deposits support teaching and are not CFD, thermal engineering validation or calibrated flow/pressure ratios.
+
+One contiguous internal deposit partially narrows a representative passage. Normal and restricted alternatives have the same warm supply condition and blower demand; the restricted passage shows less coolant circulation and less heat delivered to the moving air. The reduced marker count/speed is qualitative. The total cabin effect depends on the extent of restriction and operating conditions. Weak cabin heat can have other causes; the film does not diagnose a core from a symptom or imply that every restriction causes engine overheating. No leak, odor, misting or simultaneous thermostat fault is added.
+
+No repair/testing/flushing/removal instructions, shop promises, prices or driving advice.
+
+Primary manufacturer technical references checked 2026-11-25:
+DENSO — How heater cores work: warm engine coolant, blower air and distribution of heated air.
+https://www.denso-am.eu/products/ac-engine-cooling/heater-cores
+Valeo — Heating issues not attributed to the heater matrix: debris in narrow heater circuits and alternative causes of poor cabin heat.
+https://www.valeoservice.co.uk/en-uk/techassist/technical-library/technical-documents/heating-issues-not-attributed-heater-matrix-0
+Valeo — Technical Service Bulletin EC003/08: tube heat exchange and foreign matter blocking small heater passages.
+https://www.valeoservice.ae/en-ae/techassist/technical-library/technical-documents/technical-service-bulletin-tsb-ec003-08
+
+Narration: one authorized full new ElevenLabs James Husky Storyteller, voice EkK5I93UQWFDigLMpZcX, elevenlabs/tts/eleven-v4. Original take and receipt cached. All spoken words retained at original natural tempo; paragraph placement follows picture beats. Review output: native 960x540, 30 fps, local Metal, Eevee, 4 samples. Draft only.
+
+Review scope: complete audiovisual decoding, actual encoded teaching-frame review, full exact-file browser playback at 1x with unmuted synchronized audio output and signal monitoring. No independent human audible audition or OEM engineering certification claimed. Exact review records accompany the whole editable folder.
